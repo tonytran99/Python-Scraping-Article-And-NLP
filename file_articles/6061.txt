@@ -1,0 +1,55 @@
+A previously unseen type of explosion has been spotted in the Sun's upper atmosphere for the first time, and it could lead to better solar weather predictions, NASA says.
+
+The Sun's surface is constantly moving. The super-hot plasma creates magnetic fields that twist together and, as the star rotates, they snap apart and join together again.
+
+Spontaneously occurring versions of this process - known as magnetic reconnection - are regularly observed, but nobody has seen it happen under forced conditions.
+
+Now, data from the NASA Solar Dynamics Observatory spacecraft has enabled astronomers to observe a 'forced magnetic reconnection' for the first time.
+
+Now, data from the NASA Solar Dynamics Observatory spacecraft helped astronomers observe a 'forced magnetic reconnection' for the first time
+
+This event was brought about by a nearby eruption of hot plasma, rather than by material exploding up from the surface of the star.
+
+The observation may help explain why the upper layers of the Sun's atmosphere appears to be much hotter than areas closer to the surface, according to NASA.
+
+The American space agency said it may also lead to breakthroughs in the controlled fusion and lab plasma experiments happening around the world.
+
+Spontaneously occurring versions of this process - known as magnetic reconnection - are regularly observed, but nobody has seen it happen under forced conditions
+
+This graphic from NASA shows the way the magnetic field lines come together and create an explosion. This happens both spontaneously and under forced conditions
+
+'This was the first observation of an external driver of magnetic reconnection,' said Abhishek Srivastava, solar scientist at Indian Institute of Technology (BHU).
+
+'This could be useful for understanding other systems. For example, Earth's and planetary magnetospheres, other magnetized plasma sources, including experiments at lab scales where plasma is highly diffusive and hard to control.'
+
+Previously a type of magnetic reconnection known as spontaneous reconnection has been seen, both on the Sun and around Earth.
+
+This new type of explosion was first theorised 15 years ago but had not been directly seen until these new observations.
+
+The previously-observed spontaneous reconnection requires a region with just the right conditions — such as having a thin sheet of ionized gas, or plasma, that only weakly conducts electric current — in order to occur.
+
+The new type - forced reconnection - can happen in a wider range of places, such as in plasma that has even lower resistance to conducting electric current.
+
+'It can only occur if there is some type of eruption to trigger it. The eruption squeezes the plasma and magnetic fields, causing them to reconnect', NASA says.
+
+The previously-observed spontaneous reconnection requires a region with just the right conditions — such as having a thin sheet of ionized gas, or plasma, that only weakly conducts electric current — in order to occur
+
+Scientists were able to use data from SDO to study the 'soup of ultra-hot charged particles known as plasma' on the surface of the Sun to make their observation.
+
+They specifically looked at a wavelength of light showing particles heated to between 1.8 and 3.6 million degrees Fahrenheit.
+
+This allowed them to directly see the forced reconnection event for the first time in the Sun's uppermost atmospheric layer.
+
+The new type - forced reconnection - can happen in a wider range of places, such as in plasma that has even lower resistance to conducting electric current. It involves material - known as a prominence - exploding from the surface of the star
+
+'In a series of images taken over an hour, a prominence in the corona could be seen falling back into the photosphere', NASA confirmed.
+
+'En route, the prominence ran into a snarl of magnetic field lines, causing them to reconnect in a distinct X shape.'
+
+NASA says this could offer an explonation of why the solar atmosphere is millions of degrees hotter than lower regions of the Star.
+
+'Our thought is that forced reconnection is everywhere,' Mr Srivastava said.
+
+'But we have to continue to observe it, to quantify it, if we want prove that.'
+
+The new observations have just been published in the Astrophysical Journal.

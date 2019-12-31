@@ -1,0 +1,29 @@
+One minute the road was clear. The next minute, there was a snowy whiteout that led to a deadly pileup of dozens of cars and tractor-trailers on Interstate 78 in central Pennsylvania.
+
+That was a snow squall. Cellphones from Maine to West Virginia buzzed a startling alert Wednesday as part of a new warning system designed to prevent similar weather events from causing disasters like the one on Interstate 78 in 2016.
+
+"There has been, within the scientific community, a growing awareness of just how hazardous these storms are," said Heather Reeves, a research scientist at the Cooperative Institute for Mesoscale Meteorological Studies in Norman, Oklahoma. "They really do cause a significant number of accidents and sometimes fatalities."
+
+The National Weather Service decided last year that snow squalls were a serious enough threat to merit emergency alerts like those for tornadoes and flash floods. The weather service´s parent agency, the National Oceanic and Atmospheric Administration, announced in January 2018 that it was introducing squall alerts, mainly to help prevent large highway pileups.
+
+The first squall alert was issued in the Northeast region last January and sent out online and to broadcasters, emergency management agencies and highway departments, said Jeff Waldstreicher, deputy chief of the scientific services division at the weather service´s regional headquarters on New York's Long Island. Cellphone service providers added the alerts about a month ago, he said.
+
+The decision to start issuing squall alerts was based on improved short-term forecasting technology and a realization that the traditional winter storm watch and warning system was missing these events.
+
+"Historically, winter storm warning criteria is based on how much snow falls," Reeves said. "Squalls are short-lived storms that may produce just a dusting of snow, but are really dangerous because they arrive suddenly and cause whiteout conditions."
+
+The squalls that triggered Wednesday´s alerts formed along the leading edge of a cold front moving through from Canada, Waldstreicher said. That´s a common cause of sudden, brief snow squalls in the Northeast, he said. There are also lake-effect snow squalls in areas downwind of the Great Lakes, but they often occur on and off for hours and can pile up large amounts of snow, he said.
+
+Squall alerts went out ahead of the cold front Wednesday in Maine, New Hampshire, Vermont, New York, Pennsylvania, Washington D.C. and West Virginia, Waldstreicher said.
+
+In New York City, multitudes of mobile phones buzzed simultaneously warning of an approaching squall while the skies were still blue and dry. But within an hour, they sky was black and the air briefly filled with driving snow, right around the time of the evening commute.
+
+"From a prediction standpoint, they are very challenging," Reeves said. "But we have been working diligently toward improving radar detection of these storms so we can see them when they first start to form and get a warning out as soon as possible."
+
+The powerful WSR-88D doppler radar system, which generates a beam of energy that travels long distances and reflects information about objects it strikes, is being used extensively in research on winter storm detection, Reeves said.
+
+"These radars can tell us useful things about the character of the snow," Reeves said. "Like, are we dealing with pristine crystals, or are these snowflakes heavily rimed with super-cooled liquid water. It makes a difference in how much the snow blows around and whether there´s likely to be rapid accumulation."
+
+A research project called Warn-on-Forecast aims to create computer model projections that accurately predict localized phenomena like tornadoes, hail and snow squalls so warnings can be issued an hour before they strike, Reeves said.
+
+"We´re getting better at being able to say, this is where the storm will be and this is the type of hazard it will produce," Reeves said.

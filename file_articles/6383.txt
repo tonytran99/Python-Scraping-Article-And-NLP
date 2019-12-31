@@ -1,0 +1,45 @@
+LONDON, Dec 19 (Reuters) - A rogue supplier has been misusing audio feeds from Bank of England (BoE) news conferences this year, the central bank said, giving traders access to potentially market-moving information seconds before rivals.
+
+In response to a report in The Times newspaper, Britain's central bank said a third-party supplier had misused a back-up audio feed of some of its news conferences without its consent.
+
+Briefings by BoE Governor Mark Carney and other central bank officials often move the prices of financial assets such as currencies and government bonds, and early access to their comments could allow traders to make millions.
+
+The supplier sent the feed to high-speed traders who could have had a five to eight second head start because sound can be compressed and transmitted faster than video, The Times said.
+
+"We have recently identified that an audio feed of certain of the Bank press conferences ... has been misused by a third-party supplier to the Bank since earlier this year to supply services to other external clients," the BoE said.
+
+"This wholly unacceptable use of the audio feed was without the Bank's knowledge or consent, and is being investigated further," it said in a statement, without naming the supplier.
+
+The BoE has referred the misuse of the feed to the Financial Conduct Authority (FCA) regulator, which is expected to start an initial scoping exercise, which can take months, before deciding whether to launch any investigation into potential offences such as market abuse.
+
+Hedge funds have long sought to steal a march on rivals by getting market-moving data first, and the pressure to do so has grown in recent years as many funds have struggled to outperform market indexes, reducing the fees they can charge.
+
+Funds now scour the market for sets of "alternative data" that can give them an edge, which in turn has spawned an industry of data suppliers and service providers who charge thousands of pounds for their products and subscriptions.
+
+Sensitive information can be fed into complex computer programmes capable of executing large volumes of financial trades in nanoseconds, making a head start of even five seconds an age for sophisticated investors.
+
+'ALMOST REAL TIME'
+
+A number of suppliers also offer high-speed audio feeds for news conferences by the European Central Bank (ECB), the U.S. Federal Reserve and the Bank of Canada. Some have tried to level the playing field for all market watchers.
+
+In September, the ECB added a public audio feed for its news conferences on its website, in addition to its usual video webcast. The central bank said this was to allow all to follow the briefing in "almost real time".
+
+The ECB had become concerned that unaffiliated vendors were selling an unauthorised audio feed of its news conferences to market participants, though it was not clear how the suppliers gained access to the sound.
+
+There is a lag of about 30 seconds between the ECB's new low-latency audio feed and its video webcast.
+
+The U.S. Federal Reserve only provides a combined video and audio feed. A Fed spokesman said the central bank streams its press conferences live on the internet and provides a video feed to a broadcast distribution service that is widely used.
+
+"We only use systems that are open for broad distribution," the spokesman said, adding Fed would be reviewing its existing arrangements in light of events.
+
+The Bank of England's audio feed was intended as a fallback option if its official video feed of its news conferences failed, according to The Times.
+
+BoE governor Carney is due to leave within weeks and his replacement is expected to be announced soon following last week's parliamentary election. In its latest policy announcement, the central bank left interest rates unchanged on Thursday.
+
+The bank said it had blocked the supplier's access once The Times had informed it of the misuse. The bank said the supplier had not distributed feeds from its most recent news conference and will not be involved in any conferences in the future.
+
+Zoe Osborne, a partner at law firm Steptoe in London, said any culpability for wrongdoing rested in part on what restrictions were in place between the BoE and the third party supplier, whether it had complied and what traders were told and knew about the perceived time advantages of the audio feeds.
+
+Rohan Massey, a partner at law firm Ropes & Gray, told Reuters there could be widespread legal culpability, stretching from traders who misused the feed right up to the Bank of England, depending on the full facts of the case.
+
+"You would have thought that as part of Bank of England standard operations, these agreements would provide adequate protections against unauthorised use of the data," he said. (Reporting by Akshay Balan in Bengaluru, Sinead Cruise, Iain Withers, Simon Jessop, Maiya Keidan, Huw Jones, Kirstin Ridley and Bill Schomberg in London; Lindsay Dunsmuir in Washington; Editing by Rachel Armstrong, David Clarke and Mark Potter)

@@ -1,0 +1,41 @@
+LONDON (AP) - EU regulators must make more effort to stop tech companies from transferring data to countries with weaker data-protection standards, an advisor to the European Union´s top court said Thursday. It's the latest in a lengthy and complex legal case involving an Austrian privacy campaigner and Facebook.
+
+A preliminary opinion by the European Court of Justice´s advocate general said existing EU legal rules for data transfers should remain in place, but there should be stricter enforcement by authorities. It gives a boost to privacy activist Max Schrems, who launched the case seven years ago because of worries Europeans were subject to mass U.S. government surveillance.
+
+"Companies will momentarily breathe a sigh of relief" that the EU will likely maintain the legal mechanism that many companies now use to move data around the world, said Caitlin Fennessy, research director at the International Association of Privacy Professionals. But she said the opinion also leaves room for challenges to transferring data on a case-by-case basis, if a country is deemed to not have adequate protections.
+
+Though the case involves Facebook, it could have far-reaching implications for social media and other tech companies that move large amounts of data over the internet. Schrems said the case potentially affects Google, Microsoft and any other U.S. company that provides electronic communications services, but not data transfers between traditional businesses like airlines, hotels and banks.
+
+The advocate general's opinion is not binding but may influence the court's judges when they issue their final ruling next year, likely by March.
+
+At issue are so-called "standard contractual clauses," which force businesses to abide by strict EU privacy standards when transferring messages, photos and other information. Companies like Facebook routinely move such data among its servers around the world, and the clauses - stock terms and conditions - are used to ensure the EU rules are maintained when data leaves the bloc.
+
+FILE - This March 29, 2018 file photo, shows the logo for social media giant Facebook at the Nasdaq MarketSite in New York's Times Square. Britain's competition watchdog signalled on Wednesday Dec. 18, 2019, its willingness to push for stricter rules to counter Google and Facebook 's dominance of online advertising. (AP Photo/Richard Drew, File)
+
+Schrems had argued the clauses meant authorities in individual EU countries can, by law, halt transfers if the data is sent somewhere with weaker privacy rules.
+
+Advocate General Henrik Saugmandsgaard Oe said in a preliminary opinion that the standard contractual clauses are valid, but added that a provision in the clauses means companies and regulators have an obligation to suspend or prohibit transfers if there's a conflict with the law in a non-EU country such as the United States.
+
+"If Silicon Valley wants to have the data of the whole world, which it does, then it cannot at the same time be subject to surveillance laws that basically don´t have any rights for foreigners," Schrems said.
+
+He said the opinion validates that "generally data transfers are fine, unless there´s a specific surveillance law in another country that undermines European privacy protections."
+
+Schrems filed his initial complaint in 2013 on grounds that the data did not have adequate protections against secret survellance by U.S. government authorities. His complaint followed revelations by former NSA contractor Edward Snowden of electronic surveillance by U.S. security agencies, including the disclosure that Facebook gave the agencies access to the personal data of Europeans.
+
+Schrems, concerned that his personal information was at risk, had challenged the data transfers through the courts in Ireland, home to Facebook's European headquarters.
+
+The Irish Data Protection Commission tried to sidestep the issue by arguing the clauses were legally invalid. The commission eventually sent the case to the Luxembourg-based ECJ, the EU's highest court.
+
+Facebook, which had argued U.S. surveillance doesn't violate EU privacy laws, said it was grateful for the opinion.
+
+"Standard contractual clauses provide important safeguards to ensure that Europeans´ data are protected once transferred overseas," the Menlo Park, California, company said in a statement.
+
+Google, Apple and Microsoft did not immediately return requests for comment.
+
+The Irish Data Protection Commission said the opinion provided "clarity of analysis." Spokesman Graham Doyle said it shows the complexities that arise when EU data-protection laws interact with laws of other countries.
+
+Legal experts said businesses will be relieved the opinion validates the current legal practices for data transfers.
+
+"The alternative would be quite a turnaround," said Elliot Fry, a senior associate at the U.K. law firm Cripps Pemberton Greenish. "It would have required a lot of upheaval in relation to international transfers. So that is far and away the most important aspect of this."
+
+___ Philipp-Moritz Jenne in Vienna and Mae Anderson in New York contributed to this story.

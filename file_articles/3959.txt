@@ -1,0 +1,21 @@
+Dec 20 (Reuters) - Canada's BlackBerry Ltd beat quarterly profit and revenue estimates on Friday, boosted by demand in its patent licensing and cybersecurity businesses, sending its shares up 10% to a nine-month high.
+
+BlackBerry, once popular for its phones before losing out to Apple Inc's iPhones and Android devices, now offers data security software for corporations and government agencies, and software for driverless cars.
+
+As part of the push into cybersecurity business, the company in February acquired Cylance, a California-based cyber security business whose software uses machine learning to avoid security breaches. BlackBerry reported revenue of $40 million from Cylance.
+
+"The complete offering of Cylance products and services will no doubt help drive stronger revenue growth next year," Chief Executive Officer John Chen said on a post-earnings call.
+
+The company's adjusted revenue rose 23% to $280 million in the third quarter ended Nov. 30, beating analysts' average estimate of $276 million, according to IBES data from Refinitiv.
+
+However, adjusted revenue in the company's Internet-of-Things business, which houses the technology solutions and enterprise software and services (ESS) units, fell 3% to $145 million.
+
+Chen had warned during the company's second-quarter earnings call that softness in the ESS business will linger for the next two quarters, primarily due to changes in its sales team.
+
+The company reported a quarterly net loss of $32 million, compared with a profit of $59 million, a year earlier.
+
+On a per share basis, its loss widened to 7 cents from 1 cent, a year earlier.
+
+Excluding one-time items, BlackBerry earned 3 cents per share, beating the average analyst estimate of 2 cents.
+
+(Reporting by Amal S in Bengaluru; Editing by Vinay Dwivedi)

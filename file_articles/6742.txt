@@ -1,0 +1,27 @@
+By Dan Whitcomb
+
+Dec 18 (Reuters) - A British man who prosecutors say was a member of the hacking collective known as "The Dark Overlord" appeared in federal court in St. Louis on Wednesday following his extradition to face conspiracy and identity theft charges.
+
+Nathan Wyatt, 39, pleaded not guilty to a U.S. District Court indictment handed down in November 2017 accusing the notorious hacking group of stealing sensitive information from St. Louis-area companies and demanding ransom to keep it secret.
+
+Wyatt, who surrendered to U.S. authorities at an airport in the UK, was ordered held without bond pending further court proceedings.
+
+"Today´s extradition shows that the hackers hiding behind The Dark Overlord moniker will be held accountable for their alleged extortion of American companies," Assistant Attorney General Brian Benczkowski of the U.S. Justice Department´s criminal division said in a written statement.
+
+"We are thankful for the close cooperation of our partners in the United Kingdom in ensuring that the defendant will face justice in U.S. court," Benczkowski said.
+
+Wyatt is the first member of the Dark Overlord to face prosecution following a lengthy investigation conducted by the Federal Bureau of Investigation and British authorities.
+
+"Cyber hackers may no longer use territorial borders to shield themselves from accountability," said Richard Quinn, special agent in charge of the FBI´s field office in St. Louis."
+
+It was not immediately clear if Wyatt had retained a U.S. defense attorney.
+
+According to the indictment, starting in 2016 Wyatt and other members of Dark Overlord hacked into computers owned by St. Louis-based healthcare providers, a medical records company and accounting firm. They then sent emails or text messages to victims threatening to release the secrets unless ransom was paid in bitcoin.
+
+In one instance, members of the Dark Overlord sent texts to the daughter of a business owner, starting: "hi ... you look peaceful," and telling her that her own files would be released in four days because "your daddy" had refused to pay them, according to the indictment.
+
+It was not clear from the indictment if any of the victims paid the ransom or if sensitive files were released by Dark Overlord.
+
+In January the shares of a blue-chip British insurer, Hiscox Ltd, dipped nearly 5% after Dark Overlord hackers claimed to have stolen 18,000 files from British insurance firms involved in litigation over the Sept. 11, 2001, attacks in New York and Washington, D.C.
+
+Wyatt has not been charged in connection with that incident. (Reporting by Dan Whitcomb in Culver City, Calif.; Editing by Matthew Lewisand Leslie Adler)

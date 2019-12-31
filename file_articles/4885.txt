@@ -1,0 +1,19 @@
+By Jan Wolfe
+
+Dec 19 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to heighten increasing skepticism of technology widely used by law enforcement agencies.
+
+The study from the National Institute of Standards and Technology found that, when conducting a particular type of database searching known as "one-to-one" matching, many facial recognition algorithms falsely identified African-American and Asian faces 10 to 100 times more than Caucasian faces.
+
+The study also found that African-American females are more likely to be misidentified in "one-to-many" matching, which can be used for identification of a person of interest in a criminal investigation.
+
+Facial-recognition databases are used by police to help identify possible criminal suspects. They typically work by conducting searches of vast troves of known images, such as mug shots, and algorithmically comparing them with other images, such as those taken form a store´s surveillance cameras, that capture an unidentified person believed to be committing a crime.
+
+The NIST study was based on a review of 189 software algorithms from 99 developers - a majority of the facial recognition technology industry - and found a wide range in accuracy across developers.
+
+The American Civil Liberties Union, a prominent civil rights organization, on Thursday said the survey illustrates why law enforcement agencies like the FBI should not use facial recognition tools.
+
+"One false match can lead to missed flights, lengthy interrogations, watchlist placements, tense police encounters, false arrests or worse," ACLU policy analyst Jay Stanley said in a statement.
+
+NIST, a nonregulatory agency that is part of the Department of Commerce, did not test tools used by powerful technology companies like Facebook Inc, Amazon.com Inc, Apple Inc, and Alphabet Inc because they did not submit their algorithms for review.
+
+Facial recognition technology has come under increased scrutiny in recent years amid fears that it may lack accuracy, lead to false positives and perpetuate racial bias. (Reporting by Jan Wolfe Editing by Andy Sullivan and Leslie Adler)

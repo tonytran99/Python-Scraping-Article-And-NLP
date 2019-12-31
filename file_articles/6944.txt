@@ -1,0 +1,17 @@
+By Foo Yun Chee
+
+LUXEMBOURG, Dec 19 (Reuters) - Facebook's clash with Austrian privacy activist Max Schrems reaches a critical point on Thursday when an adviser to Europe's top court will offer his view on whether tools used by companies to transfer data abroad protect European citizens' data.
+
+The U.S. social media giant and companies ranging from banks to industrial giants use standard contractual clauses to transfer personal data to the United States and other parts of the world.
+
+The clauses underpin important business activities such as outsourced services, cloud infrastructure, data hosting, human resources management, payroll, finance and marketing.
+
+Schrems, a law student who successfully fought against the EU's previous 'Safe Harbour' privacy rules in 2015, triggered the current case when he challenged Facebook's use of such contractual clauses on the grounds that they do not offer sufficient data protection safeguards.
+
+Henrik Saugmandsgaard Øe, advocate general at the Luxembourg-based Court of Justice of the European Union (CJEU)will offer a non-binding opinion.
+
+Equally important will be the court adviser's recommendation on whether the EU-U.S. Privacy Shield, which was launched in 2016 to protect Europeans' personal data when it is transferred across the Atlantic for commercial use, is lawful or not.
+
+Judges, who will rule in the coming months, follow advisers' recommendations in four out of five cases.
+
+The case is C-311/18 Facebook Ireland and Schrems (Reporting by Foo Yun Chee; Editing by Kirsten Donovan)

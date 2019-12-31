@@ -1,0 +1,41 @@
+A new electric motorcycle will use an innovative system to capture energy from its own brakes to extend its range up to 180 miles, more than 50 percent further than other electric motorcycles.
+
+Called the Nawa Racer, the e-bike will be shown at the Consumer Electronics Show 2020 in January, and was developed by the French energy technologies firm Nawa.
+
+The Racer will have a 99-horsepower engine that will allow it to go from 0-62mph in under three seconds, and come with a 9-kWh lithium batter pack.
+
+The Nawa Racer will power itself partially through energy converted from its breaking system
+
+The real star, however is a unique ultracapicitor system that acts as a secondary power source for the engine and which is housed elegantly above the battery in the motorcycle’s frame.
+
+The unique ultracapacitor system that will help give the back a maximum range that's 70 miles more more than Harley Davidson’s anticipated LiveWire.
+
+The extra range is made possible by a unique system that captures energy generated when the bike brakes.
+
+Unlike traditional lithium batteries, which are both slow to recharge and have a limited number of times their cells can discharge energy before wearing out, ultracapacitor can be charged quickly and repeatedly discharge small amounts of electricity with minimal wear.
+
+The Racer will have a maximum range of 180 miles, or around 70 miles more than the typical electric motorcycle
+
+This makes it an ideal power source for in-city driving, where frequent starts and stops will wear on a traditional lithium battery.
+
+‘The urban environment is where this combination truly shines,’ Nawa’s Ulrik Grape told New Atlas.
+
+‘All the stopping and starting, that’s lost energy that we can reclaim. The u-cap only stores a small amount of energy, but it’s being used very efficiently.’
+
+‘We’re basically pumping that ultracapacitor in and out the whole time through acceleration and braking.’
+
+The unique design features two power sources--a lithium battery for regular power on the bottom, and an ultracapacitor above that converts stores and discharges small amounts of energy from the braking system without the wear associated with lithium batteries
+
+Nawa doesn't plan on releasing the Racer commercially but hopes the energy system will inspire other manufacturers
+
+WHAT IS THE NAWA RACER? The Nawa Racer is a concept electric motorcycle that will be shown at CES 2020. It will have a 99-horsepower engine that can go from 0-62mph in under three seconds. The Racer will use both a conventional lithium battery and a new ultracapacitor system that converts electricity from the bike's brakes. This unique system will give it a range of 180 miles, 70 miles more than similar electric motorcycle models.
+
+Nawa doesn’t intend to bring the Racer to market, but hope it will inspire other motorcycle manufactures to consider their ultracapacitor system, which adds a small additional cost to the manufacturing process but delivers savings in use and maintenance and charging
+
+‘I don’t think in this kind of configuration it’ll add more than a few hundred dollars," he says.
+
+‘We’ve said before, if you reduce the size of the battery and add an ultracapacitor, it would not be an overall cost adder.’
+
+‘It would likely make the overall package a lower cost solution.
+
+While Nawa created the motorcycle’s energy system, the overall design, including the distinctive freestanding rear wheel design, came from the Envisage Group.

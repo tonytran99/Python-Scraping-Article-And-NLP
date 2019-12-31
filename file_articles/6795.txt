@@ -1,0 +1,79 @@
+High-speed hedge fund traders made millions eavesdropping on the Bank of England's press conferences seconds before they were broadcast, an investigation revealed today.
+
+The Bank has found that one of its information suppliers has been streaming an audio feed from briefings and selling it on to clients for up to £5,000 each time to help them get a head start on their competitors.
+
+Announcements by governor Mark Carney and other senior officials can often move currency and bond markets if they give hints on the future path of interest rates.
+
+Knowing these changes just a few seconds ahead of rivals can be a boon for high-speed traders, such as currency speculators, who make millions of pounds on tiny market moves.
+
+A City currency trader told MailOnline: 'Every split second counts in this market. Having the information a few seconds early is exactly the same as having it a few hours early... it's priceless.'
+
+The Bank of England (Governor Mark Carney pictured on Monday) has found that a mystery supplier had been streaming an audio feed from briefings to traders so they can get a head start on their competitors
+
+The Bank of England confirmed it had suspended the third-party supplier and reported them to the Financial Conduct Authority, which has opened an investigation.
+
+The FCA has the power to levy fines if it identifies market abuse - a civil offence - or pursue criminal charges in more serious cases.
+
+Bank of England press conferences are streamed on an official video feed, managed by Bloomberg, but several years ago separate audio feed was installed as a back up if the video failed.
+
+An unidentified supplier had apparently been taking recordings from the audio feed, which is five to eight seconds faster than the video, and selling it on to an offshoot company.
+
+What is the Bank of England claiming? Bank of England press conferences feature announcements by governor Mark Carney and other senior officials and can often move currency and bond markets if they give hints on the future path of interest rates. They are broadcast via video feed, which is fed out through a fibre optic cable before reaching paying clients. However, there is a second audio feed that is used as back-up to the video one. The Bank claims a 'third-party' involved in running the audio feed had been selling recordings to financial clients. This would have allowed these clients knowledge of market movements before their competitors, potentially allowing them to reap millions. The 'third party' has now been referred by the Bank to the Financial Conduct Authority.
+
+That company then sold its services to high-speed trading firms in a situation that has been going on since the start of 2019, and potentially for longer.
+
+High-speed trading involves powerful computers making transactions in a fraction of a second to make money from tiny shifts in pricing.
+
+Some firms have installed microwave transmitters to shave milliseconds off the time is takes to transmit orders.
+
+In sports betting, high-speed traders send watchers to major events to give them score updates ahead of gambling firms updating their odds.
+
+The practice is perfectly legal but some critics have compared it to insider trading because hedge funds are executing deals on information not yet known to the public.
+
+Richard Hunter, from Interactive Investor, said the first thing the FCA would be examining was whether the clients that had been sold the information had benefitted from it.
+
+To explain the potential advantages of knowing about a currency movement in advance of your competitors he used the example of the general election.
+
+He told MailOnline: 'If you knew even a matter of seconds before anyone else in the country that the Conservatives would win and sterling would spike you would be able in those few seconds to fill your boots with sterling before selling out at that huge profit.
+
+'The FCA will be keen to find out whether anyone benefitted from this information.
+
+'The currency market is the biggest market in the world and contracts traded in that market tend to be much bigger. One would suspect on that basis if there had been any profits they would be substantial, in the millions.'
+
+How high-speed trading works High-speed, or high-frequency trading is a legal but controversial practice which involves powerful computers making transactions at a fraction of a second to make money from tiny shifts in pricing. Knowing, for example, that the pound is about to dramatically increase in price milliseconds before it actually happens could allow a trader to buy lots of pounds and make a large profit. The value of knowing this information before competitors means traders often spend millions updating their data cables in the hope of reaping profits later. In sports betting, high-speed traders send watchers to major events to give them score updates ahead of gambling firms updating their odds. Some critics say the practice is unfair because it enriches already extremely wealthy institutional investors and means fewer people end up benefitting from market changes.
+
+Mr Hunter suggested the scale of the currency market would suggest the kind of trades that could have been made would be unlikely to have a major impact on a global scale.
+
+'Making a profit within the millions would be something of a drop in an ocean,' he said.
+
+Russ Mould, Investment Director at investing platform AJ Bell, suggested the FCA could face difficulties in their upcoming investigation.
+
+He told MailOnline: 'The tricky bit here is proving the degree to which people traded and profited from this information. We know from previous financial investigations that proving such things can be extremely difficult.
+
+'It could be especially hard in this case because the Bank of England hasn't made too many dramatic statements on policy over the last few years.
+
+'And we have to remember the currency markets are massive, with a turnover around $4trillion dollars a day. So establishing the audit trail could be difficult.'
+
+The Bank of England said in a statement: 'This wholly unacceptable use of the audio feed was without the Bank's knowledge or consent, and is being investigated further. On identifying this, the Bank immediately disabled the third party supplier's access.
+
+'As a result, the third party supplier did not have any access to the most recent press conference and will no longer play any part in any of the Bank's future press conferences.
+
+'The Bank operates the highest standards of information security around the release of the market-sensitive decisions of its policy committees.
+
+'The issue identified related only to the broadcast of press conferences that follow such statements.'
+
+Getting the contents of press conferences just a few seconds ahead of rivals could allow high-speed traders to make a fortune by getting there first. File image used
+
+A spokesman for the Financial Conduct Authority said that it was 'looking at the issue'.
+
+The authority will make an initial analysis of the evidence before deciding whether to proceed with a full investigation, MailOnline understands.
+
+The bank will today reveal its first interest rate call since Prime Minister Boris Johnson's landslide election victory one week ago, and ahead of Brexit next month.
+
+It is expected to keep its key lending rate at 0.75 percent, as speculation also swirls over an imminent appointment of the successor to departing Governor Mark Carney.
+
+Mr Johnson will seek to push through Britain's exit from the European Union on January 31 - when Carney is also due to step down.
+
+The prime minister, whose ruling Conservative Party won the biggest majority since the 1980s heyday of Margaret Thatcher, wants to embrace Brexit and kick-start growth in Britain's stalling economy.
+
+Yet markets remain fearful of a no-deal Brexit after Johnson signalled he will outlaw any extension to a Brexit transition beyond the end of 2020.

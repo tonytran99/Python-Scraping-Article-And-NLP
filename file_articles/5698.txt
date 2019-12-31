@@ -1,0 +1,59 @@
+By Colm Fulton
+
+STOCKHOLM, Dec 19 (Reuters) - As central bank for the world's least cash dependent economy, Sweden's Riksbank risks becoming a bystander.
+
+Its banknotes face extinction, while commercial banks control the country's electronic payment infrastructure, diluting the Riksbank's influence over its own financial system.
+
+Central bankers in Stockholm worry they are losing control over moving people's money, while a few banks have gained pricing power over Sweden's financial plumbing.
+
+In a bid to regain the upper hand, the Riksbank is planning a not-for-profit system for the instant settlement of payments, in a litmus test for other central banks.
+
+The head of the Bank of International Settlements (BIS) said this month that central banks had to remain the foundation of payments systems to ensure a level playing field, particularly as big technology firms enter finance.
+
+However, the Riksbank's move has sparked conflict with the commercial banks who already fear losing control after a recent European Union law opened up payment markets to tech giants such as Google and Amazon.
+
+"It's our job to make sure you can clear in central bank money in real-time, 24/7. That's our objective, it's what we're going to do and it's up the private sector to adjust to that," Riksbank Governor Stefan Ingves told Reuters.
+
+"We've been in the money business for 351 years and we have to stay in that business," added Ingves, whose own Riksbank data shows 90% of payments in Sweden are electronic.
+
+The answer for Ingves is TARGET Instant Payment Settlement (TIPS), a European Central Bank (ECB) developed system, backed by central bank money, which allows individuals and businesses to pay each other within seconds, day and night.
+
+Only around 25 commercial banks and one central bank, the Bank of Latvia, have so far signed up to TIPS and the ECB will not say how many daily transactions it facilitates.
+
+Critics say TIPS will stifle innovation in Sweden's vibrant financial technology sector, while supporters see it as a first step to central banks creating "virtual" currencies.
+
+At present, banks including SEB, Swedbank and Nordea control money flows through collectively-owned clearing house Bankgirot, which handles some 12 trillion Swedish crowns ($1.25 trillion) a year and is the country's only such institution.
+
+Swedbank said in its 2018 annual report that it had a 36% market share of payments processed by Bankgirot.
+
+Leif Karlsson, Swedbank's head of lending and payments, said TIPS has some advantages, but because improvements would have to be sanctioned by the ECB, it could stifle innovation.
+
+A spokeswoman for the ECB said TIPS would only introduce new infrastructure, leaving banks to create their own products.
+
+Six of the Nordic region's biggest banks agreed in October to create their own instant payment service, P27, which aims to operate across currencies and borders.
+
+"Payment processing is core to the future of financial services...and the P27 initiative is a rational move from the banks to maintain and defend their position from new market entries," Jon Waalen, a partner at consultants Deloitte, said.
+
+ENTER SNOOP DOGG?
+
+Riksbank Deputy Governor Cecilia Skingsley says that cross-border payments have become expensive partly because the infrastructure "has been controlled by so few players".
+
+Accenture estimates total revenue in the Swedish payments market at 35 billion crowns in 2019, although the consulting firm predicts growth in instant payment systems will give challengers a 22% market share in six years.
+
+While the banks are wary of TIPS, which entails no entry or maintenance fees, it is welcomed by new entrants like Sweden's Klarna Bank, which is backed by U.S. rapper Snoop Dogg.
+
+"Accessing settlement infrastructure should be easy and open to many different payment providers ... not exclusively for a few," Anders Karlsson, Klarna's head of direct payments and open banking, told Reuters.
+
+The buy now, pay later service wants more open payments because the current system is costly and hard to access, said Karlsson, adding: "It seems TIPS can provide this, but we are open to other alternatives as well".
+
+For Ingves, TIPS not only offers increased oversight of payments, it will eventually lead to the e-Krona, an electronic equivalent to cash and a possible response to Facebook's plans for a cryptocurrency.
+
+Only 1% of Swedish GDP existed in banknotes in 2018, Riksbank data shows, compared with 11% in the Eurozone, 8% in the United States and 4% in Britain.
+
+While all payments, at the end of the daily cycle, settle with the Riksbank, much of the process is managed by private infrastructure such as Bankgirot or mobile app Swish, which was set-up by the same banks as Bankgirot and P27.
+
+This differs from Britain, where the main clearer Pay.UK is not-for-profit and run by a wide range of interests.
+
+The Swedish Banker's Association is communicating the banks' views to the Riksbank.
+
+"The dialogue we're having ... is to ensure that TIPS doesn't change things which don't need changing," Henrik Bergman, its director of financial infrastructure, told Reuters. ($1 = 9.6261 Swedish crowns) (Additional reporting by Johan Ahlander; Editing by Alexander Smith)

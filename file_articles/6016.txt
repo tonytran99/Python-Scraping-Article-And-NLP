@@ -1,0 +1,49 @@
+NASA's Mars 2020 rover has successfully 'passed its driving test' in a major mission milestone that saw it move under its own weight ahead of its launch next year.
+
+The rover will leave for Mars in July or August 2020 from the Cape Canaveral Air Force Station in Florida and will travel aboard the new Space Launch System rocket.
+
+NASA's robotic vehicle had to demonstrate it could move forwards, backwards and pirouette during the more than 10-hour marathon 'driving test' on Tuesday.
+
+The next time the Mars 2020 rover drives, it will be rolling over Martian soil.
+
+The semi-autonomous vehicle will search for signs of ancient microbial life within the Jezero crater, which contains a dried up lake once filled with water.
+
+To pass the test - a major milestone in the mission - the rover had to demonstrate all systems were working in concert. It had to steer, turn and drive in 3ft increments.
+
+NASA said a preliminary assessment of the rover's test found that it checked all the necessary boxes as it rolled forward and backward and pirouetted in a clean room.
+
+It is being built by NASA's Jet Propulsion Laboratory in Pasadena, California.
+
+'Mars 2020 has earned its driver's license,' said Rich Rieber, the lead mobility systems engineer for Mars 2020.
+
+'The test unambiguously proved that the rover can operate under its own weight and demonstrated many of the autonomous-navigation functions for the first time.'
+
+NASA's robotic vehicle had to demonstrate it could move forward, backward and pirouette during the more than 10 hour marathon 'driving test' on Tuesday. The next time it moves under its own steam will be on Mars as seen in this artist impression
+
+As the systems performed well under Earth's gravity, engineers expect them to perform well under Mars' gravity, which is only three-eighths as strong.
+
+'A rover needs to rove, and Mars 2020 did that yesterday,' said John McNamee, Mars 2020 project manager. 'We can't wait to put some red Martian dirt under its wheels.'
+
+The mission is scheduled to launch in the summer of 2020 as that is when the relative positions of Earth and Mars allow for the shortest journey time, however Mars2020 will not land in the Jezero Crater until February 2021.
+
+The rover will leave for Mars in July or August 2020 from the Cape Canaveral Air Force Station in Florida and will travel aboard the new Space Launch System rocket. Mars 2020 Rover is seen here in a clean room environment
+
+The rover will characterise Mars' climate and geology, collect samples for future return to Earth, and pave the way for human exploration of the Red Planet.
+
+The samples will be collected by a European Space Agency 'fetch' rover, due to arrive on the planet in 2028 along with a NASA-built return rocket.
+
+They will then be returned to Earth on a ESA orbiter spaceship by 2031.
+
+'To fulfil the mission's ambitious science goals, we need the Mars 2020 rover to cover a lot of ground,' said Katie Stack Morgan, Mars 2020 deputy project scientist.
+
+'It is designed to make more driving decisions for itself than any previous rover'
+
+NASA has created a new landing technique for the Mars 2020 rover in the hope of increasing the chance of a successful landing on the Red Planet
+
+The Mars 2020 rover is equipped with higher-resolution, wide-field-of-view colour navigation cameras, an extra computer 'brain' for processing images and making maps, and more sophisticated auto-navigation software than earlier rovers.
+
+'It also has wheels that have been redesigned for added durability.'
+
+NASA says these upgrades allow the rover to average about 650ft per Martian day - which is 37 minutes longer than an Earth day.
+
+The longest drive on a Martian day is 702ft, a record set by NASA's Opportunity rover.

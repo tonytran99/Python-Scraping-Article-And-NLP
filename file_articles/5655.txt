@@ -1,0 +1,25 @@
+By Scott DiSavino
+
+Dec 19 (Reuters) - Natural gas and power prices in New England spiked to their highest since last winter as a cold snap froze the six-state region.
+
+Temperatures in Boston, New England's biggest city, were expected to reach a high of just 25 degrees Fahrenheit (-4 Celsius) on Thursday and 30 on Friday before rising to near normal levels in the low 40s over the weekend, according to forecasts from AccuWeather.
+
+The normal high in Boston at this time of year is 40 degrees.
+
+Next-day gas <NG-CG-BS-SNL> prices for Thursday jumped almost 25% to $14.50 per million British thermal units (mmBtu), their highest since January, for a second day in a row.
+
+That compared with an average of $3.16 per mmBtu so far in 2019, $4.85 in 2018 and a five-year (2014-2018) average of $4.90.
+
+Since most power generated in New England uses gas for fuel, that gas price spike caused daily power <EL-PK-NPMS-SNL> costs to soar over 60% for a second day in a row to $123.50 per megawatt hour (MWh), their highest since November 2018.
+
+That compares with an average of $34.24 per MWh so far in 2019, $42.97 in 2018 and a five-year (2014-2018) average of $49.21.
+
+On the coldest days in New York and New England, gas and power prices usually spike as homes and businesses use most of the gas available on the region's few pipelines, which become constrained, forcing some electric generators to burn what is usually more expensive oil.
+
+Electric companies, however, were still mostly burning gas to generate power this morning.
+
+The fuel mix was 60% gas, 20% renewable, 14% nuclear, 3% coal and just 2% oil, according to the latest report from ISO New England, which operates the region's power grid.
+
+That compares with the region's fuel mix in calendar 2018 of 51% gas, 34% nuclear, 18% renewable, 2% oil and 1% coal, according to federal data.
+
+Even with the rapid gas price increases, it was still a little more expensive for generators to burn oil in New England than gas - $14.96 per mmBtu for fuel oil <FO03-L-NYH> and $14.59 for heating oil (diesel) versus $14.50 for gas at the Algonquin Hub <NG-CG-BS-SNL>. (Reporting by Scott DiSavino; Editing by David Gregorio)

@@ -1,0 +1,25 @@
+A Ukrainian security researcher reported finding a database with the names, phone numbers and unique user IDs of more than 267 million Facebook users - nearly all U.S.-based - on the open internet. That data was likely harvested by criminals, said researcher Bob Diachenko, an independent security consultant in Kyiv.
+
+The database, which Diachenko discovered with a search engine, was freely accessible online for at least 10 days beginning Dec. 4, he said. He notified the internet provider where it was hosted when he found it on Dec. 14; five days later it was no longer available.
+
+Diachenko said someone downloaded the database to a hacker forum two days before he discovered it so it may have been shared among online thieves.
+
+He first reported the finding Thursday in partnership with the U.K. tech news website Comparitech, which editor Paul Bischoff said has been helping write up Diachenko's discoveries of unsecured databases for about a year.
+
+The researcher provided the AP with a 10-record sample from the database and the IDs - and two phone numbers that were answered - checked out against real Facebook users.
+
+The evidence suggests the data was collected illegally, most likely by criminals in Vietnam who may have "scraped" it from public Facebook pages or by somehow obtaining privileged access to the service. Scraping is automated data-harvesting done by bots. A small fraction of the database include details on Vietnam-based users.
+
+FILE - In this Aug. 11, 2019, file photo an iPhone displays a Facebook page in New Orleans. A Ukrainian security researcher says a database with the names, phone numbers and unique user IDs of more than 267 million Facebook users was exposed on the open internet for at least 10 days this month. (AP Photo/Jenny Kane, File)
+
+Diachenko said he did not share the database with Facebook, which did not directly confirm the finding. In a statement, the social network said it was investigating the issue and that the finding "likely" involved information obtained before Facebook took unspecified data-protection measures in recent years.
+
+In 2018, the social media giant disabled a feature that allowed users to search for one another via phone number following revelations that the political firm Cambridge Analytica had accessed information on up to 87 million Facebook users without their knowledge or consent.
+
+Diachenko said he had not determined when the data was collected. He said all the records had time stamps from January to June 2019 but that it was unclear who generated them.
+
+Security experts say the affected Facebook users are at higher risk of being targeted by spam, password-stealing phishing attacks and identity theft attempts. The information can be cross-referenced with physical and email addresses and other data obtained in other data breaches. Facebook user IDs are unique numbers associated with individual accounts.
+
+In September, the news site TechCrunch reported that Facebook IDs and phone numbers for more than 400 million users were similarly found exposed online by a researcher.
+
+In March, Facebook disclosed that it had left hundreds of millions of user passwords readable by its employees on internal severs for years after a security researcher exposed the lapse.

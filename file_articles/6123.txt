@@ -1,0 +1,37 @@
+LONDON (AP) - British authorities began investigating Thursday how some hedge funds got access to market-sensitive news conferences of the Bank of England five to eight seconds ahead of others - enough to give them a huge edge in the fast-moving world of financial markets.
+
+Following a report in The Times newspaper late Wednesday, the Bank of England confirmed an investigation was underway into what it termed the "wholly unacceptable" use of an audio feed that had been set up as a back-up to the official video broadcast.
+
+The bank referred the case to the financial regulator, the Financial Conduct Authority.
+
+According to the newspaper, some market participants who subscribed to a news service offering an audio feed of the Bank of England Governor Mark Carney's quarterly press conferences got access to the audio feed. That would have given them a crucial advantage over those watching via the official broadcast provided by Bloomberg News.
+
+Having access to comments from Carney seconds early could have been lucrative for investors who use powerful computer programs to trade quickly.
+
+So-called high-frequency trading can execute a huge number of transactions in a fraction of a second. Large organisations such as investment banks and hedge funds use artificial intelligence and automated trading platforms to track markets and execute trades.
+
+Mark Carney, Governor of the Bank of England speaks at a Bank of England Financial Stability Report Press Conference, in London, Monday, Dec. 16, 2019. (AP Photo/Kirsty Wigglesworth,pool)
+
+If Carney, for example, indicates that the central bank is ready to raise interest rates, traders could see that as a potential positive for the pound and start buying the currency heavily before other investors.
+
+Carney and others on the bank's nine-member rate-setting panel hold quarterly news conferences to discuss the outlook for U.K. interest rates. Those news conferences often lead to big moves in financial markets as traders react to changes to the outlook for interest rates. That's been especially the case over the past few years of Brexit-related uncertainty.
+
+"Those outlook comments can determine interest rates, the value of the pound, and a lot of financial instruments," said Sue Noffke, U.K. equities fund manager at Schroders, told BBC Radio.
+
+It was unclear whether anyone had made money off of the audio feed access.
+
+In a statement issued after The Times' report, the central bank said it has identified that the audio feed "has been misused by a third party supplier to the Bank since earlier this year to supply services to other external clients."
+
+It said the unnamed third party supplier's access has been disabled and it will no longer play any part in any of the bank´s future press conferences.
+
+The Bank of England insisted it operates "the highest standards of information security around the release of the market sensitive decisions of its policy committees" and that the issue identified "related only to the broadcast of press conferences that follow such statements."
+
+Coincidentally, the scandal over the leak of the audio feed came as the Bank of England's rate-setting panel was meeting to decide whether to change interest rates. The panel meets eight times a year and this was one of four meetings that does not end with a news conferences.
+
+The central bank's Monetary Policy Committee kept the benchmark interest rate at 0.75%. Seven of the nine members of the panel voted to keep it unchanged, as expected, with two continuing to back a quarter-point reduction because the British economy had been "a little softer than expected."
+
+Overall, the minutes to the meeting showed that policymakers think economic growth is set to pick up from current rates, which are seen to be below the country's potential, due to a reduction in Brexit uncertainties. Last week's election victory by the Conservative Party means that Prime Minister Boris Johnson has a clear majority in Parliament to drive through his Brexit withdrawal deal in time for Britain's scheduled departure date from the European Union on Jan. 31.
+
+"Further out, the responses of companies and households would depend on developments in the next stage of the Brexit process, including negotiations about the nature of, and the transition to, the United Kingdom´s future trading relationships," the committee said.
+
+Those comments are exactly of the kind that those who had "misused" the audio feed would have been looking out for.

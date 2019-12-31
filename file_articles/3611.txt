@@ -1,0 +1,31 @@
+By Anand Katakam
+
+Dec 20 (Reuters) - In an unprecedented move, the Indian government suspended mobile internet services in parts of the capital New Delhi on Thursday, as protests over a citizenship bill seen as discriminating against Muslims escalated.
+
+As of 2018, India led the world in internet shutdowns, according to a report by internet advocacy group Access Now, accounting for 67% of the total recorded worldwide.
+
+(Click https://graphics.reuters.com/INDIA-CITIZENSHIP-INTERNET/0100B4SK2KV/index.html to see an interactive graphic delving into India's internet shutdowns by state and duration)
+
+An internet shutdown is a suspension of internet access ordered by the authorities. Telecoms companies then turn off the cellular networks at transmitting towers providing mobile phone internet services in the area.
+
+Countries with far more restrictive control over the internet, such as China and North Korea, did not feature prominently in the numbers compiled by Access Now because of the lack of publicly accessible data, the group noted.
+
+Since January 2012, there have been 373 halts in India's internet service, according to the Software Freedom and Law Center (SLFC), which has been tracking the suspensions since then.
+
+India's Home Ministry referred Reuters' inquiries about internet shutdowns to the Information and Broadcasting Ministry, which in turn referred questions to the Ministry of Electronics and Information Technology. The latter ministry said such shutdowns were a matter for local police departments.
+
+Delhi is not the only state to have its internet cut off due to protests over the bill, which makes it easier for non-Muslim minorities from Afghanistan, Bangladesh and Pakistan who settled in India prior to 2015 to obtain Indian citizenship.
+
+Assam, Tripura, Meghalaya, Arunachal Pradesh and parts of West Bengal, Karnataka and Uttar Pradesh have also experienced shutdowns in response to protests.
+
+Shutdowns aren't always statewide. Some, such as the one in Delhi, are instituted across a few districts for a short span of time.
+
+State governments take this step when they believe it is necessary to maintain law and order. Most of Jammu and Kashmir has had no internet service for more than four months, after the Indian government clamped down on communications following the revocation of the state's autonomy on Aug. 5.
+
+In total, the Jammu and Kashmir region has had 180 shutdowns since 2012, accounting for nearly half of the country's suspensions.
+
+The SLFC lists a variety of reasons for the suspension of internet services, gathered from government orders and media reports. The reason given most often is that it is a preventative measure, imposed in anticipation of a breakdown in law and order.
+
+The maintenance of law and order was not the only reason stated for shutdowns. In some states, including Rajasthan, the internet has been halted in order to prevent cheating during exams.
+
+(Reporting by Anand Katakam; Editing by Karishma Singh and Alex Richardson)

@@ -1,0 +1,17 @@
+By Foo Yun Chee and Michele Sinner
+
+LUXEMBOURG, Dec 19 (Reuters) - Tools used by Facebook and others to transfer EU data abroad are legal, an adviser to Europe's top court said on Thursday, urging privacy watchdogs to act when required in a case involving the U.S. firm and Austrian privacy activist Max Schrems.
+
+"Commission Decision 2010/87/EU on standard contractual clauses for the transfer of personal data to processors established in third countries is valid," Henrik Saugmandsgaard Øe, advocate general at the Luxembourg-based Court of Justice of the European Union (CJEU), wrote in a non-binding opinion.
+
+Companies ranging from banks to industrial giants use standard contractual clauses to transfer personal data to the United States and elsewhere.
+
+Schrems, a law student who successfully fought against the EU's previous 'Safe Harbour' privacy rules in 2015, had challenged Facebook's use of the clauses on the grounds that they do not offer sufficient data protection safeguards.
+
+Schrems said he was "generally happy" with the opinion.
+
+"Everyone will still be able to have all necessary data flows with the U.S., like sending emails or booking a hotel in the U.S.," he said.
+
+"It is really upon the United States to ensure baseline privacy protections for foreigners. Otherwise no one will trust U.S. companies with their data."
+
+The clauses underpin important business activities such as outsourced services, cloud infrastructure, data hosting, human resources management, payroll, finance and marketing. (Reporting by Foo Yun Chee, additional reporting by Kirsti Knolle in Vienna and Graham Fahy in Dublin; editing by Kirsten Donovan and Jason Neely)

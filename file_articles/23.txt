@@ -1,0 +1,45 @@
+ALBANY, N.Y. (AP) - Drug overdose patients rushed to some emergency rooms in New York's Hudson Valley are asked a series of questions: Do you have stable housing? Do you have food? Times and location of overdoses are noted, too.
+
+The information is entered into a new overdose-tracking system that provides near real-time glimpses into the ravages of the opioid-fueled drug crisis. The Hudson Valley Interlink Analytic System is among a number of surveillance systems being adopted around the country by police, government agencies and community groups. While the number of drug overdose deaths appears to have fallen nationally in 2018 for the first time in nearly three decades, the overdose death rate remains about seven times higher than a generation ago.
+
+If there´s a spike in overdoses, the system will sent text alerts to health administrators and community workers. And system users can see what drugs are being abused for faster and focused responses to the ever-evolving problem.
+
+"We can't get ahead of a situation that´s already passed. This kind of information has to be given almost instantaneously or else the narcotics that we´re trying to track have already been sold, and they´re already on to the next batch," said Sgt. Julio Fernandez of the New York National Guard's Counterdrug Task Force, which helped usher in the system.
+
+The Hudson Valley system was adopted earlier this year by two hospitals north of New York City serving areas hard-hit by drug abuse: St. Luke's Cornwall Hospital in Newburgh and Ellenville Regional Hospital. Administrators say nearby Catskill Regional Medical Center is ready to enter information and that Orange Regional Medical Center in Middletown will begin data entry next month. Administrators are talking to other hospitals in the region about signing up.
+
+When a patient comes in, a nurse or another worker enters data about the overdose and the drug. Patients retain their legally required anonymity, but system users can still glean general information about the age, gender and housing status of people in trouble.
+
+Pedestrians pass at St. Luke's Cornwall Hospital Thursday, Dec. 19, 2019, in Newburgh, N.Y. The Hudson Valley Interlink Analytic System is among a number of surveillance systems being adopted around the country by police, government agencies and community groups. While the number of drug overdose deaths appears to have fallen nationally in 2018 for the first time in nearly three decades, the overdose death rate remains about seven times higher than a generation ago. (AP Photo/Frank Franklin II)
+
+The idea is to "get that information out there as efficiently and as quickly as we can," said Daniel Maughan, a senior vice president at St. Luke´s.
+
+The data has helped track the rise of fentanyl being laced into cocaine, Fernandez said. Dawn Wilkin, director of prevention services at Catholic Charities of Orange, Sullivan, & Ulster, said the system has guided workers on where to conduct needle cleanup within days, instead of waiting a week or more.
+
+Wilkin said there have been no text alerts to warn of a spike in overdoses sent out yet, likely due in part to a drop in overdoses locally.
+
+Participation by patients is voluntary. If someone is unresponsive or unwilling to answer questions, workers enter the data that´s available. Kathy Sheehan, director of emergency and trauma services at St. Luke´s, said many patients cooperate, though there are just as many others who are not willing to speak.
+
+"They´re private," she said, "they´re maybe afraid of the repercussions."
+
+Around the country, workers on the front lines of the opioid crisis are looking to speedier data access as part of their prevention strategy.
+
+In northeastern Minnesota, a pilot system involving six hospitals uses information from case reports submitted by emergency room staff to quickly provide health officials with warnings about overdose clusters or unusual symptoms. The Minnesota Drug Overdose and Substance Use Surveillance Activity system also analyzes blood or urine samples from a subset of patients to be able to detect patient exposure to fentanyl or other substances.
+
+In Michigan, the System for Opioid Overdose Surveillance processes data from medical examiners and from EMS encounters in which overdose-reversing naloxone was administered. The system maintained by the University of Michigan Injury Prevention Center sends out reports to county health departments and other users.
+
+The most ubiquitous surveillance system is the Overdose Detection Mapping Application Program, or ODMAP. The system allows first responders and others to enter data on suspected overdoses, including locations, times, naloxone dosages, victim ages and suspected drugs. The system designed by the High Intensity Drug Trafficking Area program in the Washington/Baltimore area sends out spike alerts to police and other agencies. Launched as a pilot in January 2017, it is now in 48 states.
+
+Officials in Oneida County using ODMAP in upstate New York last month were able to marshal forces after receiving a spike alert notification for 21 overdose reports and four fatalities suspected to be associated with heroin within 15 days.
+
+The Hudson Valley system gathers much of the same data as ODMAP, though Wilkin said it also collects information on patients´ housing and transportation status to give system users additional insights into the social conditions of people fighting addictions.
+
+The Hudson Valley groups had been logging local overdose data on to a shared Google Document before health-care IT consultant Marisa Barbieri volunteered to create the current system. She designed a dashboard to give users an at-a-glance look overdose trends. She hopes to add a feature to warn where deadly batches of drugs are headed next, similar to how meteorologists track of deadly storms.
+
+"We need to be able to predict when a cluster is forming," she said. "I don´t want to see on the news that 12 people died. I want a system to be watching."
+
+Director of Emergency and Trauma Services, Kathleen Sheehan, poses for a portrait at St. Luke's Cornwall Hospital Thursday, Dec. 19, 2019, in Newburgh, N.Y. The Hudson Valley Interlink Analytic System is among a number of surveillance systems being adopted around the country by police, government agencies and community groups. Participation by patients is voluntary. If someone is unresponsive or unwilling to answer questions, workers enter the data that's available. Sheehan said many patients cooperate, though there are just as many others who are not willing to speak. "They're private," she said, "they're maybe afraid of the repercussions." (AP Photo/Frank Franklin II)
+
+Senior Vice President of Transformation Daniel J. Maughan poses for a portrait at St. Luke's Cornwall Hospital Thursday, Dec. 19, 2019, in Newburgh, N.Y. The idea is to "get that information out there as efficiently and as quickly as we can," said Maughan. The Hudson Valley system was adopted earlier this year by two hospitals north of New York City serving areas hard-hit by drug abuse: St. Luke's Cornwall Hospital in Newburgh and Ellenville Regional Hospital. (AP Photo/Frank Franklin II)
+
+Pedestrians pass St. Luke's Cornwall Hospital Thursday, Dec. 19, 2019, in Newburgh, N.Y. The Hudson Valley system was adopted earlier this year by two hospitals north of New York City serving areas hard-hit by drug abuse: St. Luke's Cornwall Hospital in Newburgh and Ellenville Regional Hospital. (AP Photo/Frank Franklin II)

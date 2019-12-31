@@ -1,0 +1,29 @@
+A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age.
+
+But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a variety of businesses.
+
+The National Institute of Standards and Technology has been studying facial recognition for nearly two decades, but this is the first time it has investigated demographic differences in how face-scanning algorithms are able to identify people.
+
+The study was prompted in part by growing concern among lawmakers and privacy advocates that biased results in commercial face recognition software could entrench racial discrimination in the criminal justice system and elsewhere.
+
+The report cautions against "incomplete" previous research alleging biased facial recognition that has alarmed the public, but also confirms similar trends showing higher error rates for women, the youngest and oldest people, and for certain racial groups depending on which image database or software is being used.
+
+"There is a wide range of performance and there´s certainly work to be done," said Craig Watson, manager of NIST's research group that studies biometric technology. "The main message is don´t try to generalize the results across all the technology. Know your use case, the algorithm that´s being used."
+
+FILE - In this Dec. 4, 2019, file photo commuters pass through the World Trade Center in New York. A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. This is the first time the National Institute of Standards and Technology has investigated demographic differences in how face-scanning algorithms are able to identify people. (AP Photo/Mark Lennihan, File)
+
+NIST, which is a part of the Commerce Department, tested the algorithms of 99 mostly commercial software providers that voluntarily submitted their technology for review. It ran those algorithms on millions of FBI mugshots, visa application photos and other government-held portrait images such as those taken at border crossings.
+
+Microsoft was among the major tech companies that participated in the research, along with dozens of lesser-known video surveillance providers and numerous China-based companies such as SenseTime, Hikvision and Tencent. Amazon, which markets face-scanning software to U.S. police agencies, did not participate.
+
+Watson said that's because Amazon's cloud-based software doesn't work with NIST's testing procedures, though the agency is in talks with the company about how to test its algorithms in the future.
+
+The agency's report credits two widely-cited studies of facial recognition bias by Massachusetts Institute of Technology researchers for serving as a "cautionary tale" about uneven results across race and gender boundaries, though it also suggests they sowed public confusion in the way they sought to measure performance.
+
+Joy Buolamwini, who led those studies and has urged a halt to the technology's proliferation, said in an email Thursday that NIST's study is "a sobering reminder that facial recognition technology has consequential technical limitations."
+
+"While some biometric researchers and vendors have attempted to claim algorithmic bias is not an issue or has been overcome, this study provides a comprehensive rebuttal," she wrote.
+
+She was echoed by the American Civil Liberties Union, which in a statement Thursday said that government agencies like the FBI and U.S. Customs and Border Protection should take heed of the report and halt their deployment of face-scanning software.
+
+"Even government scientists are now confirming that this surveillance technology is flawed and biased," said ACLU policy analyst Jay Stanley.

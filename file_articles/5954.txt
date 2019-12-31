@@ -1,0 +1,163 @@
+By Michelle Conlin, Dan Levine and Lisa Girion
+
+NEWARK, New Jersey, Dec 19 (Reuters) - In the dreary archives of a Newark, New Jersey, courthouse, Ronald Motley found a treasure map.
+
+It was an evidence log, a detailed inventory of documents and other exhibits that had been used in an injured worker´s lawsuit. And it was freely available to anyone who bothered to look for it - for this was long ago in 1978, before the routine use of protective orders, sealed documents and other tools of concealment wrapped U.S. courts in lethal secrecy.
+
+Motley, a lanky, deep-drawling South Carolina lawyer, had been representing sick workers in lawsuits against companies that used asbestos. And he was losing, as defense lawyers convinced juries that the companies had only recently learned of the dangers of the cancer-causing mineral. Now, the log might guide him to proof that the companies had long known that asbestos exposure could be deadly.
+
+The proof came in a carton of documents that had belonged to Sumner Simpson, once president of manufacturer Raybestos-Manhattan Inc. The documents exposed a conspiracy of suppression and silence among multiple companies even as workers sickened and died. "I think the less said about asbestos," Simpson wrote in a 1935 letter to a lawyer at another company, "the better off we are."
+
+Motley shared the documents with other plaintiff lawyers and with Los Angeles Times reporter Henry Weinstein, who was with Motley in Newark that day in 1978 and recounted the lawyer´s discovery to Reuters. A member of Congress got them, too. In a matter of months, the Sumner Simpson papers unlocked what one prominent plaintiff lawyer had dubbed a new "industrial Watergate." Congress held hearings, workplace safety rules were enacted, workers won more lawsuits, and scores of companies, including Raybestos, declared bankruptcy. The companies set up victim trust funds that have paid out more than $30 billion in settlements and that continue compensating victims even now.
+
+Today, there´s little chance a lawyer - or a journalist or a concerned citizen - could do what Motley did. That´s because in the intervening decades, big business and its legal lieutenants succeeded in a focused, concerted campaign that has ensured that secrecy cloaks lawsuits alleging that their products can kill or injure people.
+
+"The federal judiciary´s commitment to open justice has come under sustained attack by corporate lawyers and lobbyists," said Representative Hank Johnson, a Georgia Democrat and member of the House Judiciary Committee. "Corporations are allowed to hide evidence that they sacrificed their customers´ health and safety in the name of corporate efficiencies."
+
+The asbestos settlements - the biggest mass tort in U.S. history by number of claims - ushered in a wave of product-liability litigation. Suddenly, corporate America had a new problem: myriad demands from plaintiff lawyers for internal records that could expose executives to broad scrutiny for what they knew and failed to do about potential threats their products posed to public health and safety.
+
+A CLOSED SYSTEM
+
+In response, the corporate defense bar and its allies transformed the taxpayer-funded courts into a much more closed system, according to a Reuters review of hundreds of judicial policy documents and court filings and dozens of interviews. The corporate lawyers found ready support from judges and court staff overwhelmed by all the litigation and the paperwork it produced.
+
+Over the years, they threw a blanket of confidentiality over discovery, the pretrial exchange of information between opposing sides. They turned protective orders into pro forma exercises to muzzle lawyers who might otherwise share pertinent information with regulators or the public. And they succeeded in getting judges to routinely seal court filings, thus ensuring that when lawsuits are settled before trial, as usually happens in product-liability cases, the evidence remains hidden.
+
+The toll is high. Hundreds of thousands of people were killed or seriously injured by allegedly harmful products after judges in recent years allowed litigants to file under seal, beyond public view, evidence that could have alerted consumers and regulators to the dangers. The secrecy allowed drug makers to market painkillers as safe while the body count from the opioid-related epidemic mounted; auto makers to sell cars with lethally weak roofs that killed people in rollovers though tests had years earlier revealed the risk; gun maker Remington to knowingly sell rifles with bum triggers that killed scores of people.
+
+Had today´s secrecy-friendly court rules been in place 40 years ago, the evidence log Motley found in Newark wouldn´t have been filed publicly. Even if he had found the Sumner Simpson papers by other means, he almost certainly couldn´t have shared them as he did. And had he filed them in court to support his case, Raybestos would very likely have requested - and been granted - a court seal.
+
+The forces of secrecy wore down the longstanding norm of openness in the judicial system by exploiting a pivotal Supreme Court decision and lobbying Congress and the obscure but powerful panel that sets the Federal Rules of Civil Procedure.
+
+They argued that U.S. businesses had a right to privacy similar to what individuals enjoy, and that limiting that right threatened the foundations of American free enterprise. They said it was the courts´ responsibility to protect companies from the unfair and damaging publicity that can arise from unproven allegations that their products are dangerous. As a Ford Motor Co lawyer told Congress in 1994, such allegations cause "substantial harm" not only to defendants, but also to the public because they are misleading.
+
+Among the most forceful fighters for secrecy was lobbyist Al Cortese. Companies defending against lawsuits need protective and sealing orders to contain costs, prevent negative publicity and safeguard trade secrets and intellectual property, Cortese said in an interview. Now retired, Cortese remains a true believer in the cause: Company files are not public information, even when they are a part of a public court case, he said. "It´s private information, and therefore there is a right to protect that information in litigation ... It´s a fundamental principle."
+
+As Reuters revealed earlier in this series, judges sealed evidence relevant to public health and safety in dozens of the biggest defective-product cases consolidated in federal court over the past 20 years. Those cases comprised nearly 250,000 individual death and injury lawsuits, involving drugs, cars, medical devices and other products used by millions of consumers. Broadly worded protective orders gave the parties the power to mark almost any document as confidential in 45 of the cases.
+
+After Reuters published its first report on court secrecy, U.S. House Judiciary Committee Chairman Jerrold Nadler said at a hearing on transparency in the courts that he planned to reintroduce the Sunshine in Litigation Act. Prior versions of the bill would have allowed litigants to share evidence related to public health and safety with regulators, regardless of protective orders. Those earlier bills, introduced regularly over the past 30 years, stalled amid opposition from business groups that argued the legislation would increase the costs and burdens of civil litigation.
+
+Judge Richard Story, speaking for the federal judiciary at the September hearing, did not dispute Reuters´ findings. He acknowledged that judges sometimes fail to scrutinize sealed documents, as required, to determine whether secrecy is justified. "That can happen," he said. "I will be honest with you."
+
+TRADITION OF TRANSPARENCY
+
+When plaintiff lawyers like Ron Motley started suing the asbestos industry on behalf of dying workers in the 1970s, the federal courts were radically different. They operated under the Federal Rules of Civil Procedure as drafted in the 1930s by a committee of lawyers and law school professors. They imbued the rules with the tradition of open trials that had evolved over centuries of Anglo-American common law.
+
+The rules on public access to the courts also reflected the progressive politics of the era, said Stephen Burbank, a professor at the University of Pennsylvania Carey Law School. Progressives believed that transparency was essential for public institutions to govern effectively and that secrecy impaired the public´s ability to gauge whether the courts decided cases fairly, Burbank said.
+
+"The spirit of the times calls for disclosure, not concealment, in every field," law professor Edson Sunderland, one of the drafters of the rules, wrote in 1925.
+
+When the original rules took effect in 1938, they required litigants to file key forms of pretrial discovery in court. This included witness depositions, which are interviews conducted under oath, and written answers and documents produced in response to requests for information from opposing parties.
+
+It was because of these rules that a New Jersey plaintiff lawyer publicly filed the evidence log Motley later found in Newark. Motley then went back to court and filed a motion that compelled Raybestos to turn over the Sumner Simpson papers.
+
+To address conflicts between the public interest in transparency and privacy rights, the rules allowed for protective orders. Originally, the rules allowed judges to decide on a case-by-case basis what deposition subjects could be shielded from scrutiny. The rules were refined in 1970 to specify that protective orders cover anything that could be a source of "annoyance, embarrassment, oppression," including trade secrets, such as the formula for Coca-Cola.
+
+By the late 1970s, some defendants sought protective orders, but the tactic was far from routine. A few courts had even begun to invalidate them, ruling that they ran afoul of the constitutional right to free speech by gagging plaintiffs and their lawyers from disclosing evidence of alleged malfeasance.
+
+Because no protective order stopped Motley from quickly making the Sumner Simpson papers public, the documents had immediate impact beyond the courtroom. At the time, the asbestos industry was lobbying in Congress for a bill that would have mandated that the government pay some workers´ claims, essentially foisting the cost on taxpayers. The evidence that companies knew of the health risks for decades undercut their efforts, and the bill never advanced, said John Lawrence, former top staffer for then-Congressman George Miller. Within months of Motley´s discovery, the California Democrat featured the Sumner Simpson papers in hearings.
+
+HIGH COURT EFFECT
+
+Six years after Motley´s discovery, an unexpected Supreme Court decision ended the legal debate over protective orders and handed the defense bar a new weapon to beat back a rising wave of product-liability cases.
+
+The case, Seattle Times v Rhinehart, had nothing to do with defective products. An obscure religious group called the Aquarian Foundation had obtained a protective order to keep its membership rolls secret during discovery in a lawsuit it had filed against the Seattle Times. The newspaper appealed to the high court, and the case caught Justice Lewis F. Powell Jr´s attention.
+
+Decades of work as a corporate defense lawyer had made Powell a rich man by the time President Richard Nixon named him to the high court in 1971. His clients had included the tobacco industry, and he had served as a director of cigarette maker Philip Morris, grappling at the time with the release of research showing that tobacco causes cancer.
+
+Two months before his nomination, Powell´s passionately pro-business views informed a secret memo he wrote for the U.S. Chamber of Commerce, titled "Attack on American Free Enterprise." In it, he warned that American capitalism was under attack not just from "the Communists" and "New Leftists," but also "perfectly respectable elements of society," including "the college campus, the pulpit, the media, the intellectual," as well as consumer advocate Ralph Nader.
+
+Powell urged the Chamber to build a roster of "attractive" speakers, scholars and media handlers to defend "our side." Civil rights, labor and consumer rights groups were winning cases "often at business´ expense," Powell wrote. "Other organizations and groups, recognizing this, have been far more astute in exploiting judicial action than American business."
+
+On the bench, Powell had been voicing concern about the growing burden of discovery on the U.S. legal system - particularly in complex cases - when Seattle Times v Rhinehart came before the court in 1983. As Powell read the clerk´s memo briefing the justices on the case, he saw the clerk had characterized all information received by a litigant in discovery as "protected in some way" under the First Amendment´s guarantees of free speech and thus more difficult to shield from the public. Powell marked that sentence with a question mark, according to the justice´s notes, housed at the Washington and Lee University Law School.
+
+He and four colleagues voted to hear the case. A few days after oral arguments, eight of the nine justices voted to uphold a judge´s order blocking the discovery documents from public disclosure. The original discovery order was "extremely broad," compelling the Aquarian Foundation to disclose its membership and sources of financial support, the justices ruled. Powell was assigned to write the opinion.
+
+Over the next three months, the justices debated how broadly the court should interpret the constitutionality of protective orders.
+
+At one point, Justice William Brennan, one of the court´s liberal leaders, asked Powell to remove language from his draft opinion that flatly stated that pretrial depositions "are not public components of a civil trial."
+
+Powell refused - and that single line of prose became part of the legal foundation for every protective order that followed.
+
+Powell´s language allowed the corporate defense bar to institutionalize protective orders in litigation across the country - shutting the public out of pretrial investigations as a matter of routine, even when the concealed discovery material could alert the public and regulators to potential danger.
+
+And protective orders have become an excuse for secrecy beyond discovery. Litigants routinely cite protective orders themselves as an argument for filing evidence in court under seal, thus ensuring that secrecy endures for the life of a case.
+
+Judges rarely object when litigants file evidence under seal. In 115 of the biggest mass torts over the past 20 years, judges sealed public health and safety information in about half of them. Most of the time, they failed to explain, as they are required to do, how the need for secrecy outweighed the public interest in transparency.
+
+Nader said that during his 1960s investigation into safety issues around the Chevrolet Corvair sportscar - the work that made him famous - some of the best evidence came from depositions filed in court or obtained directly from lawyers suing General Motors Co, material that today would typically be hidden behind a protective order.
+
+"I´d call the lawyers and say I want the information. They´d say `Sure you can have it. Just pay copy costs and we´ll give it to you.´ " The protective order that has since then become the norm, he said, "is an abuse of the judicial process. It limits the case for the plaintiff, tilts the case in favor of the defense and deprives the public of potential life-saving information ... It´s censorship by another name."
+
+THE IDEAL CANDIDATE
+
+A year after the Supreme Court´s 1984 ruling in support of protective orders, a judge overseeing a wrongful death lawsuit against Ford Motor Co observed that the courts were being "bombarded by an ever increasing number of requests" for them.
+
+The defense bar´s leading trade group, the Defense Research Institute, published a 1987 guide citing the Supreme Court´s decision and urging corporate litigators to seek protective orders "even where defense counsel can make no special claim of confidentiality."
+
+In a statement emailed to Reuters, DRI said it supports "the legal right of clients to seek protective orders when circumstances dictate."
+
+The drive to limit transparency wasn´t without pushback. Newspapers published investigations about the harms of court secrecy in individual cases in the late 1980s, and some elected officials, supported by the plaintiffs´ bar, began to resist. They devised what corporate lawyers called "the perennial Kohl bill," which Senator Herb Kohl, a Wisconsin Democrat, introduced in the Senate for several years starting in the early 1990s. This proposed legislation - the precursor to the Sunshine in Litigation Act that Representative Nadler has pledged to reintroduce - sought to limit protective orders in cases that raise broader concerns about public health and safety.
+
+At the same time, big companies were facing a litigation crisis in the states. Judges and juries in what plaintiff lawyers called "magic jurisdictions" that tended to favor consumers - in states like Texas, Mississippi, West Virginia and Illinois - were giving rise to "runaway verdicts," recalled Tom Gottschalk, a onetime partner and now of counsel at Washington, D.C., law firm Kirkland & Ellis who served as general counsel of General Motors Co from 1994 to 2006.
+
+Corporations needed an advocate. Gottschalk and others had the ideal candidate.
+
+Al Cortese grew up in a working-class South Philadelphia neighborhood and earned a law degree from the University of Pennsylvania in 1962. He made his name defending corporations in price-fixing cases, transforming himself into an impeccably tailored oenophile whose elegant appearance belied his attack-dog style in court.
+
+Gottschalk had hired Cortese in 1984 to work on tort reform and other legislative issues. And by the 1990s, Cortese was leading what he called a "defense bar coalition" to influence state and federal policy makers to protect corporate privacy in product-liability litigation.
+
+'LET ME GET VERY BASIC'
+
+To Cortese - and the defense bar he represented - the idea that courts were hiding fatal secrets in their files was "nonsense." Rather, Cortese viewed the drive for more transparency in the courts as a publicity ploy by plaintiff lawyers and the media. Public regulators, Cortese argued, had ample power to seek information needed to protect the public.
+
+In an interview at his vineyard in Solvang, California, Cortese, now 82, segued easily into the aggressive style for which he is known as he explained the ideas behind his advocacy. At first, he laughed. "Let me get very basic," he said. "What is the public right to observe the legal system? What is it?"
+
+Cortese smacked the table on his poolside patio to underscore his point: "The right of the public to observe the court system means that they have a right to show up in court when there is a public trial. That is the extent of the public´s right to observe ... Discovery and other information in court files - that is private information, and the right of privacy protects the information constitutionally."
+
+Told that this wasn´t what U.S. appeals courts say, Cortese grew angry. "Yes it is!" he shouted. "Because you are focusing on, `In every case (judges) have to make this 123456 analysis.´ No. They. Don´t."
+
+In his September testimony before the House Judiciary Committee, however, Judge Story made clear that documents filed in court are presumed to be public and that judges are obliged to justify secrecy. "Only the most compelling reasons justify the nondisclosure of court records," Story said. "A judge that grants a request to seal court records must set forth specific findings and conclusions that justify nondisclosure to the public - even if there is no objection to the motion to seal."
+
+As head of the defense bar lobbying team, Cortese set about batting back sunshine-in-litigation movements in the states, as well as furnishing the judges who presided over the federal civil rules advisory committee with academic opinions from top scholars who were friendly to the defense bar´s case.
+
+Most important were the writings of Arthur Miller, a professor then at Harvard Law School and one of the most widely respected U.S. legal experts. He became a darling of the secrecy set with a seminal 1991 law review article in which he argued that critics of court secrecy relied merely on anecdote. There was no data, he wrote, to prove that secrecy caused widespread harm. After their first meeting, Cortese sealed his friendship with Miller by sending him a case of mixed Barolo.
+
+Armed with the arguments of intellectuals like Miller, Cortese set his sights on Senator Kohl´s latest attempt to get his sunshine bill passed.
+
+In a 1994 Senate hearing, Kohl argued passionately for transparency. "Because the courts are public institutions funded by hundreds of millions of tax dollars, and because justice is a public good, our court system must also do its part to help protect the public when appropriate," he said. "Far too often, however, the court system allows vital information that is discovered in litigation - and which directly bears on public health and safety - to be covered up, to be shielded from mothers, fathers, and children whose lives are potentially at stake, and from the officials we have appointed to watch over our health and safety."
+
+While debating Kohl´s bill, Congress sought the expertise of Judge Patrick Higginbotham, then chairman of the Federal Advisory Committee on Rules of Civil Procedure. Cortese said he got to know him, too. Higginbotham made many of the same arguments advanced by Cortese and Miller: Judges should be left to monitor protective orders themselves. Kohl´s bill would multiply discovery disputes in mass torts and would eat up too much of judges´ time. Republican Charles Grassley from Iowa repeated the same talking points while arguing against the bill on the Senate floor.
+
+Higginbotham said neither Cortese nor anyone else had undue influence on his views. Grassley declined to comment. His office noted that the senator voted for versions of Kohl´s bill in 2008 and 2011 that contained language to guard against "frivolous litigation."
+
+Kohl´s bill failed by two votes. It has been introduced in every Congress since, and has failed each time.
+
+INTO THE SIDE ROOMS
+
+Beyond the courts and Congress, Cortese and the cadre of secrecy proponents focused their efforts on the federal court rules committee.
+
+In the late 1990s, the committee held a series of meetings to address the rules on what types of discovery material must be filed publicly - like the evidence log Motley found in New Jersey. Judges and court clerks had been complaining for years about the voluminous paperwork produced in discovery, particularly in mass torts. Clerks struggled to store and manage documents that could amount to millions of pages in a single case.
+
+At first, the judges and lawyers on the committee were cautious. They remembered the backlash that 20 years earlier had sunk a proposal to bar deposition transcripts and other discovery documents from the courthouse. Back then, the New York Times editorial page and politicians like Senator Edward Kennedy had decried the so-called "Green Tree Rule" because they feared it would undermine transparency in the courts.
+
+This time, facing scant opposition, the committee got tough, changing an early draft proposal that discovery material "need not" be filed to say it "must not."
+
+When the committee gathered in Gleneden, Oregon, to vote on the rule, the room was stocked with lawyers and lobbyists representing companies facing product-liability lawsuits. Among them was Cortese, who had become a fixture at the meetings, testifying and advocating on issues dear to the defense bar.
+
+The rules committee voted in favor of the change, and no members of Congress pushed back. Without fanfare or controversy, the amended "Rule 5d" took effect in 2000. Discovery was now closed off from the public for good.
+
+While some transparency proponents had pushed back on the proposed rule during the public comment period, no one from consumer advocacy groups, First Amendment organizations or media companies showed up for the committee´s vote, according to minutes of the discussion.
+
+The impediment was resources, Nader said. Public Citizen, the consumer advocacy group he founded in 1971, filed testimony opposing the rule change, he said, but consumer groups were outgunned by their opponents, backed by corporations that could pay an army of expensive lawyers. "They wear you down," he said. "There will be ten hearings, and all you can go to is two, if you can pay to travel."
+
+PAST AND FUTURE
+
+By the time he died in 2013 at age 68, Ron Motley was one of the most prominent plaintiff lawyers in the United States, renowned for his courtroom theatrics and lavish lifestyle. In addition to securing settlements for more than 100,000 asbestos victims, he also belonged to the team of lawyers that battled Big Tobacco, resulting in a record $246 billion settlement, and later represented victims of the Sept. 11, 2001, terrorist attacks.
+
+One of the first things he did with the Sumner Simpson papers was to persuade a South Carolina judge to reopen the case of asbestos insulator Gordon Luther Barnett, who had died in his 60s from mesothelioma, an incurable cancer of the tissue surrounding the lungs and other organs that is caused by asbestos exposure.
+
+In his decision to grant a new trial - the case was eventually settled - the judge cited the Sumner Simpson papers. The documents Motley found, he said, exposed "a conscious effort by the industry in the 1930s to downplay, or arguably suppress, the dissemination of information to employees and the public for fear of the promotion of lawsuits."
+
+His words, describing the tactics of businesses in decades past, were prescient of what was to play out time and again in the years ahead as secrecy enveloped the courts.
+
+(Additional reporting by Jaimi Dowdell. Edited by Janet Roberts and John Blanton.)

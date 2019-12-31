@@ -1,0 +1,25 @@
+By Stephen Nellis
+
+Dec 19 (Reuters) - United States antitrust and patent officials on Thursday said they no longer deem holders of industry-standard patents anti-competitive if they sue to stop the sale of infringing products, a far-reaching policy shift that they said supports innovation.
+
+The new position could have seen chipmaker Qualcomm Inc , for instance, sue in an attempt to stop the sale of all models of Apple Inc's iPhones in Germany last year - rather than the limited number that were ultimately affected - without fear of being investigated by the U.S. antitrust body.
+
+The U.S. Justice Department, the U.S. Patent and Trademark Office and National Institute of Standards and Technology jointly released a policy statement on so-called standard essential patents to replace its policy since 2013.
+
+Standard essential patents are often used in the technology industry when makers of different kinds of devices want them all to work together. In the case of cellular networks, for example, phones and cell towers must be compatible across makers and borders.
+
+To arrive at a single standard, companies such as Nokia , Ericsson and InterDigital Wireless contribute patents to a certain technology such as 5G, the upcoming generation of cellular data networks.
+
+Every company that makes a cellular device is required to adopt that technology and pay a license fee to patent holders. In exchange, the holders agree to license the patents on fair and reasonable terms.
+
+In 2013, the Justice Department and Patent Office said it was anti-competitive for patent holders to seek injunctions to block the sale of a products for infringing standards patents. Holders could still seek monetary damages without running afoul of the policy.
+
+The policy had real-world effects. When Qualcomm sued Apple to block the sale of iPhones during a wide-ranging legal dispute, Qualcomm did not use any of its standards patents to make its claims. As a result, Qualcomm's suits affected only a subset of models.
+
+Officials reversed their policy on Thursday, saying seeking to block sales in standards patents cases presented no harm to competition and that standards patents should be treated no differently than other patents.
+
+"Our patent system is what has made the American economy the innovation capital of the world, and we should not misapply the antitrust laws to diminish the incentive to innovate," Assistant Attorney General Delrahim said in a statement.
+
+Morgan Reed, president of The App Association, in a statement said the group which represents software developers was disappointed by the move.
+
+It "does not go far enough in protecting small businesses from abusive (standards patent) licensing behavior," Reed said. (Reporting by Stephen Nellis in San Francisco; Editing by Christopher Cushing)

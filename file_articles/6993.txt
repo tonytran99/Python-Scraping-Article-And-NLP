@@ -1,0 +1,35 @@
+By Lisa Rapaport
+
+(Reuters Health) - Lithium from batteries that power smartphones, tablets and electric cars may contaminate tap water, a Korean study suggests.
+
+Drinking water can contain a little lithium because the mineral occurs naturally in the Earth's crust and in soil and bodies of water. But even with the rapid rise of consumer electronics powered by lithium batteries in recent years, research to date hasn't offered a clear picture of how much production and disposal of these products might increase lithium levels in drinking water, the study team notes in Nature Communications.
+
+For the current study, researchers tested water from the Han river where it runs through Seoul as well as upstream, before it reaches the metropolitan area.
+
+Upstream, lithium levels were low and similar to what's found naturally in many rivers, the study found. But where the Han river ran through Seoul, lithium levels in the water were up to six times higher than upstream.
+
+"This new study suggests that an increase of urbanization and modernization will result in an increase of the (lithium) levels in waters in the future," said senior study author Nathalie Vigier of the Sorbonne University in Paris.
+
+"Quantifying precisely the exact contribution from high tech materials remains an open question, as well as predicting how this contribution will evolve in the next 20 years," Vigier said by email.
+
+The results suggest that lithium levels in water may be associated with population density, and that waste-water treatment plants aren't currently effective at removing it from drinking water, the study team concludes.
+
+Researchers also tested the water to determine the potential sources of lithium contamination.
+
+They found that lithium entering the Han river appears to come from lithium-ion batteries that power gadgets like smartphones and tablets. Pharmaceutical waste - lithium is prescribed for certain psychiatric disorders - and food waste - lithium enters certain produce from soil and water - also appeared to contribute to lithium levels in the Han river.
+
+Contamination from lithium ion batteries might come from waste waters released at industrial sites, incineration systems, illegal landfills or storage of old batteries, Vigier said.
+
+The study wasn't designed to determine how lithium got in the water supply or to prove whether increasing lithium levels in drinking water has an impact on health.
+
+"The study does not demonstrate that lithium-batteries are the source of the lithium in the river water," said Brett Robinson, a professor of environmental chemistry at the University of Canterbury in New Zealand who wasn't involved in the study.
+
+"In addition to batteries, lithium is used in greases, ceramics and mood-stabilizing drugs," Robinson said by email. "Lithium from greases may enter river water through storm water and lithium from mood-stabilizing drugs may enter . . . through treated sewage (the treatment does not remove lithium)."
+
+Lithium may also leach into the environment from electronic waste in landfills, Robinson said.
+
+"In poor countries, where informal recycling of electronic waste occurs, it is likely that large amounts of (lithium) are entering the environment," Robinson said.
+
+The batteries can be recycled, but most are not, he added. "As with other recycling issues, lithium battery recycling is a social and political challenge."
+
+SOURCE: https://go.nature.com/2S5Qeix Nature Communications, online December 3, 2019.

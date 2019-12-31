@@ -1,0 +1,51 @@
+By Joey Roulette
+
+CAPE CANAVERAL, Fla., Dec 20 (Reuters) - Boeing Co's new astronaut capsule failed after liftoff on Friday to climb high enough in orbit to reach the International Space Station, cutting short a critical unmanned test mission in the embattled aerospace giant's race to send humans to the orbital outpost.
+
+The CST-100 Starliner astronaut capsule was successfully launched from Cape Canaveral in Florida, but an automated timer error, which Boeing could not immediately explain, prevented the spacecraft from attaining the orbit that would have put it on track to rendezvous and dock with the space station, NASA said.
+
+The Starliner's debut launch to orbit was a milestone test for Boeing, which is vying with SpaceX, the privately held rocket company of billionaire high-tech entrepreneur Elon Musk, to revive NASA's human spaceflight capabilities. SpaceX carried out a successful unmanned flight of its Crew Dragon capsule to the space station in March.
+
+The Starliner setback came as Boeing, whose shares dropped 1.6% on the day, sought an engineering and public relations victory in a year punctuated by a corporate crisis over the grounding of its 737 MAX jetliner following two fatal crashes of that aircraft.
+
+The implications for any further design and testing requirements before Starliner is approved for its first crewed mission also remained unclear. The prospect that Boeing might need to repeat an unmanned orbital test flight could substantially delay NASA's timeline and drive up costs.
+
+The plan now is for the capsule to return to Earth on Sunday, about a week ahead of schedule, parachuting to the ground at its designated landing site in White Sands, New Mexico, Boeing's space chief executive, Jim Chilton, said.
+
+The craft, while stable, has already burned too much fuel to risk further maneuvers trying to dock with the space station at this point, NASA Administrator Jim Bridenstine said at a news conference.
+
+'WE DON'T KNOW'
+
+Boeing officials said they were still seeking to pinpoint the cause of Friday's glitch.
+
+"The spacecraft was not on the timer we expected her to be on," Chilton told reporters. "We don't know if something happened to cause it to be that way."
+
+The spacecraft, a cone-shaped pod with seats for seven astronauts, lifted off from Cape Canaveral at 6:36 a.m. (1136 GMT) atop an Atlas V rocket supplied by Boeing-Lockheed Martin Corp's United Launch Alliance.
+
+Minutes after launch, Starliner separated from the two main rocket boosters, aiming for a link-up with the space station on Saturday some 254 miles (409 km) above Earth. But difficulties ensued with thrusters designed to boost the capsule's orbit to the proper altitude.
+
+"When the spacecraft separated from the launch vehicle we did not get the orbital insertion burn that we were hoping for," Bridenstine said.
+
+Bridenstine said the timer error caused the capsule to burn much of its fuel too soon, preventing it from reaching the desired orbit. NASA and Boeing tried to manually correct the automated errors, but mission control commands sent across NASA's satellite communications network were inexplicably delayed.
+
+"The challenge here has to do with automation," Bridenstine said, adding that astronauts on board would have been able to override the system that caused the malfunction.
+
+Bridenstine said he would not rule out the possibility of allowing Boeing to proceed directly to its first crewed Starliner flight, depending on findings from the investigation of Friday's mishap.
+
+Nicole Mann, one of three astronauts slated to fly on Boeing's first crewed flight test, told reporters, "We are looking forward to flying on Starliner. We don't have any safety concerns." NASA astronaut Mike Fincke added, "Had we been on board, we could have given the flight control team more options on what to do in this situation."
+
+SPACE RACE SETBACK
+
+Friday's test represented one of the most daunting milestones required by NASA's Commercial Crew Program to certify a capsule for eventual human spaceflight - a long-delayed goal set back years by development hurdles at both Boeing and SpaceX.
+
+The U.S. space agency awarded $4.2 billion to Boeing and $2.5 billion to SpaceX in 2014 to develop separate capsule systems capable of ferrying astronauts to the space station from U.S. soil for the first time since NASA's space shuttle program ended in 2011. NASA has since relied on Russian spacecraft for hitching rides to the space station.
+
+NASA initially had expected to begin crewed flights aboard the Starliner and the Crew Dragon capsules in late 2017. Both companies are currently aiming for next year, a time frame reinforced in a statement on Friday from the office of U.S. Vice President Mike Pence, who chairs the National Space Council.
+
+"Vice President Pence was assured that NASA will continue to test and improve, in order to return American astronauts to space on American rockets in 2020," it said.
+
+In a message of sympathy for his Boeing rival, Musk said on Twitter, "Orbit is hard," adding, "Best wishes for landing & swift recovery to next mission."
+
+Occupying one of Starliner's astronaut seats on Friday was a mannequin named Rosie, outfitted with sensors to measure the pressure a real astronaut would endure on ascent to the space station and during hypersonic re-entry back through Earth's atmosphere.
+
+(Reporting by Joey Roulette in Cape Canaveral, Gabriella Borter in New York and Eric Johnson in Seattle; Writing by Frances Kerry; Editing by Scott Malone, Alistair Bell and Will Dunham)

@@ -1,0 +1,13 @@
+The Wawa convenience store chain says a data breach may have collected debit and credit card information from thousands of customers.
+
+Pennsylvania-based Wawa Inc. said Thursday that its information security team discovered malware on its payment processing servers on December 10 and stopped the breach on December 12.
+
+The company believes the malware was collecting card numbers, customer names and other data as early as March 4.
+
+The company said it doesn't yet know how many customers were affected. Wawa said it's also unaware of any unauthorized use of credit cards as a result of the breach.
+
+The breach affected all of Wawa's 850 locations, which stretch along the East Coast from Pennsylvania to Florida. In-store payments and payments at fuel dispensers were affected, but ATM machines were not.
+
+Wawa says it's notifying customers and offering free credit card monitoring and identity theft prevention services to anyone whose information may have been collected.
+
+Police are investigating, and the company has also hired a forensics firm to conduct an internal investigation.

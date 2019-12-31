@@ -1,0 +1,39 @@
+By Sudarshan Varadhan
+
+NEW DELHI, Dec 19 (Reuters) - Top Indian electricity generator NTPC has rejected the emissions-cutting technology of GE and other foreign firms for its coal-fired plants, documents show, shutting them out of an estimated $2 billion in orders.
+
+Despite struggling with some of the world's worst air pollution levels, India has already pushed back a deadline to cut emission levels to up to 2022, after extensive lobbying by power producers who cited high costs and technical difficulties.
+
+The rejection of the foreign technology comes at a time when over half of coal-fired plants in India are already set to miss a phased deadline starting Dec. 2019 to cut emissions of lung diseases-causing sulphur oxides.
+
+State-run NTPC, which generates a quarter of India's electricity, held talks with foreign firms including General Electric Co, Norway-based Yara International and Japan-based Mitsubishi Hitachi Power Systems over the potential purchase of filters that lower emissions of smog-causing nitrogen oxide.
+
+However, none of the pilot tests it conducted met key emissions parameters, NTPC said in a presentation submitted last month to the Central Pollution Control Board.
+
+"The pilot tests concluded that both selective non-catalytic reduction (SNCR) and selective catalytic reduction (SCR) technologies currently available are not suitable for installation at power plants in India," it said in the presentation reviewed by Reuters, referring to technologies used to cut emissions of nitrogen oxides.
+
+Thermal power companies produce three-quarters of the country's electricity and account for some 80% of India's industrial emissions of sulphur oxides that cause lung diseases and smog-creating nitrogen oxides.
+
+NTPC had presented cost estimates in 2016 for the installation of the technology to cut nitrogen oxides throughout its network of power plants. According to Reuters calculations based on those estimates, the cost would total $2.4 billion, although industry consultants said recently that those costs could now be 25% lower.
+
+The utility wants a dilution in nitrogen oxide emissions standards and claimed in last month's presentation that the lowered standards can be achieved with minor retrofits, without the need to install new equipment.
+
+PILOT TESTS
+
+The pollution board held a stakeholder meeting on Nov. 7, an audio recording of which was reviewed by Reuters. In the meeting, GE and Yara representatives rejected NTPC's views, saying their technologies were proven worldwide, according to the recording and two sources present at the meeting. NTPC did not attend the meeting.
+
+NTPC, and the Indian units of GE and Yara did not respond to detailed Reuters questionnaires seeking comment. Mitsubishi Hitachi did not immediately respond to a request for comment made on its website.
+
+NTPC said in the earlier presentation to the pollution board that high ash content in Indian coal posed challenges to installing SCR technology and that SNCR did not meet key parameters.
+
+The foreign companies responded, saying pilot tests were run in a constrained environment and that commercial use of the equipment, which requires some changes to the plant, would cut emissions to the required levels.
+
+"The conditions for the (pilot) test was that we can't touch special parts at all, we can't touch furnace tubes. NTPC did not allow us," Senthilvel Rangasamy, a GE representative, said in the meeting.
+
+Premchand Talreja, the managing director of the Indian unit of Yara, said the pilot tests achieved the desired results.
+
+"There should not be doubt on the technology itself," Talreja said in the meeting.
+
+Lauri Myllyvirta, an analyst at the Centre for Research on Energy and Clean Air and previously a member of a European Union technical working group on emissions by coal-fired utilities, said India has failed to curtail emissions due to "delay and misinformation tactics by the power industry".
+
+"The power industry managed to build a myth that Indian coal is so special that technologies proven on a wide range of coal types elsewhere need to be tested and validated again in India before the standards can be implemented," Myllyvirta told Reuters. ($1 = 71.7700 Indian rupees) (Reporting by Sudarshan Varadhan; Editing by Sanjeev Miglani and Muralikumar Anantharaman)

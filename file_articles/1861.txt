@@ -1,0 +1,77 @@
+The sale of anti-virus computer software is creating a new scam – with some unscrupulous providers dipping into people’s bank accounts or credit cards literally for ever.
+
+Victims have no idea money is being taken and, incredibly, might not even own a computer.
+
+Preying on our fear of being targeted by cyber criminals, security software providers are selling anti-virus deals through so-called ‘continuous payment authorities’.
+
+These allow companies to keep charging customers until the plans are cancelled. They are automatically renewed – usually annually – without most customers knowing and are notoriously difficult to cancel.
+
+Eric Lewis-Leaning believes the continuous authority payments could have been charged to his credit card for several years. They would have kept being taken from his Tesco Mastercard unless he had spotted the withdrawal while going through his paperwork
+
+For the past year, The Mail on Sunday has repeatedly called for greater regulation of this form of payment as part of our ‘Stop the Sneaky Cash Grab’ campaign.
+
+A staggering £7.5billion a year is sucked out of customers’ bank accounts from continuous payment authorities. They differ from direct debits or standing orders as they are not obviously marked on bank or credit card statements.
+
+One victim of this payment trick is Eric Lewis-Leaning. He discovered last month he was paying £19.95 a year to a company called ‘CBA Malwarebytes’ via his credit card. To make matters worse, he does not even own a computer.
+
+The 82-year-old retired RAF officer was stationed at Port Said in Egypt during the 1956 Suez Crisis where he faced danger from armed Arab rebels before retreating with the rest of the British forces.
+
+Eric believes the continuous authority payments could have been charged to his credit card for several years. They would have kept being taken from his Tesco Mastercard unless he had spotted the withdrawal while going through his paperwork.
+
+His wife Jackie, 76, suffers from dementia and lives in a care home close to his Oxford flat. Eric believes Jackie took out the policy on the card years earlier – before her condition deteriorated and he became unable to look after her. Unlike Eric, she was a computer user and was happy using email.
+
+Eric says: ‘I had absolutely no idea what the money was for. But after digging around I found it was security software to help combat potential hackers. This is not particularly useful as I do not own a computer.’
+
+Initially, Eric struggled to cancel the policy as the US-based firm would not answer emails. He phoned Tesco to see if it would help, but was told he still needed to contact the anti-virus software provider to cancel the payments.
+
+The bank put future payments ‘on hold’. Not having a computer, he got 53-year-old son Kevin to email Malwarebytes – but he received no reply. He also tried phoning but had no joy.
+
+Eric says: ‘They make it easy when it comes to paying, but when I tried to cancel suddenly no one was available to help. It was like disappearing into a black hole.’
+
+The 82-year-old retired RAF officer was stationed at Port Said in Egypt during the 1956 Suez Crisis where he faced danger from armed Arab rebels before retreating with the rest of the British forces
+
+Eventually, Eric managed to access his wife’s email account through a computer at her care home and discovered a questionnaire the security software provider had sent her. He filled this in and explained he wanted nothing more to do with the company. It responded the next day by stating the payment would be cancelled.
+
+The Financial Conduct Authority is the watchdog that regulates continuous payment authorities. Six years ago, it reported that some banks were failing to cancel such payments when asked to do so.
+
+The City regulator threatened banks with fines if they did not put their house in order – and most have since cleaned up their act.
+
+Security software is just one of the many ways in which people are being signed up to continuous payment authorities. Others using these payment mechanisms include dating agencies, gyms, car breakdown cover firms, magazine and TV streaming subscription providers.
+
+Citizens Advice admits such recurring payment plans are a major issue, contributing to many people’s debt problems.
+
+Preying on our fear of being targeted by cyber criminals, security software providers are selling anti-virus deals through so-called ‘continuous payment authorities’. These allow companies to keep charging customers until the plans are cancelled. They are automatically renewed without most customers knowing and are notoriously difficult to cancel
+
+Gillian Guy, the charity’s chief executive, says: ‘A key concern is that rogue firms can use continuous payment authorities to take payments when they want, for as much as they want, and without a customer even being told it is happening.’
+
+She adds: ‘Four in ten people find it more difficult to cancel than to sign up to such a subscription deal – whether for computer software or something else. Often people are lured in because of a free trial and then forget all about it. You can end up paying for a service you do not want or even use.’ Unless you order the company or your bank to stop making the regular payments ahead of any renewal date then these contracts are automatically renewed and continue ad infinitum. The service provider also does not need your approval if it decides to hike prices. Given they are not clearly marked on bank statements, they are easy to miss.
+
+In contrast, every time a service provider wants money from someone signed up to a direct debit they must ask the customer’s bank for permission when payment is due.
+
+Similarly, a standing order is a regular fixed payment taken from a bank account under an agreement set up by the customer with their bank – and not the company that is providing the service. If you find you are signed up to a continuous payment authority you no longer require, contact the provider and insist on cancelling it.
+
+But be aware that cancelling does not mean you will get a refund for money that has already gone out – and you may still be liable for future payments if you agreed to a fixed term when signing a contract.
+
+Clicking on pop-up windows that appear on your computer claiming to offer you additional computer security – such as anti-virus software – should be avoided. It may be a trick by criminals to get you to download ‘malware’ – malicious software that steals personal details and wipes away information stored on a computer
+
+You can also contact your bank to cancel – it should act if the provider has failed to respond.
+
+On Friday, the Financial Conduct Authority said: ‘It is important that consumers are confident that banks meet their everyday banking needs. As part of this, when they ask a bank to cancel a continuous payment authority they should be confident that this will be done – and with ease.’
+
+Malwarebytes failed to respond to our requests to discuss Eric’s case.
+
+As for Eric, he is just pleased to have got shot of the payment. One less worry and more time to spend with his beloved wife.
+
+‘Protection’ trap that pops up on your PC
+
+Clicking on pop-up windows that appear on your computer claiming to offer you additional computer security – such as anti-virus software – should be avoided.
+
+It may be a trick by criminals to get you to download ‘malware’ – malicious software that steals personal details and wipes away information stored on a computer.
+
+Instead, you should consider downloading anti-virus software for free from reputable providers such as Avira and Sophos. This should also help put a stop to dodgy pop-up windows appearing. Also, software packages from reputable security companies such as McAfee, Intego, Norton and BitDefender can be purchased from around £20 a year.
+
+These have added security aimed at stopping viruses from infecting all computers and smartphones you may have at home.
+
+Such companies may take fees via a continuous payment authority. So make sure to keep a tab on your bank statement – and remember to cancel a payment when it is no longer required.
+
+Have you been a victim of the continuous payment trick? Email toby.walne @mailonsunday.co.uk

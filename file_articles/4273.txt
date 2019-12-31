@@ -1,0 +1,43 @@
+By Douglas Busvine
+
+BERLIN, Dec 20 (Reuters) - Deutsche Telekom was in advanced talks to retain China's Huawei as its main supplier of radio equipment for new mobile networks before it put the negotiations on hold for political reasons, according to three sources familiar with the matter.
+
+The United States has urged its allies to freeze out the Chinese supplier over cybersecurity concerns. Washington has told allies that the company's equipment could be used by China as spying tools, an allegation denied by Huawei and Beijing.
+
+Deutsche Telekom, Europe's largest telecoms operator, announced last week that it was not entering into 5G network equipment contracts as it awaited the resolution of a political debate in Berlin over whether to restrict Huawei's access to the German market.
+
+Before that announcement, Deutsche Telekom had held discussions with Huawei in Paris and hammered out terms for a possible deal, though no contract was signed, said the sources, who declined to be named due to the sensitivity of the matter.
+
+In response to Reuters questions about talks with Huawei, a Deutsche Telekom spokesman confirmed that no deal or arrangement had been reached about making the Chinese company its main supplier of 5G network equipment.
+
+Before the talks were put on hold, the sources said that the two sides had discussed key terms which envisioned that Huawei would provide 70% of radio transmission gear for Deutsche Telekom's upcoming ultra-fast 5G networks for a price of 533 million euros ($587 million).
+
+A mechanism was also worked out that, should Huawei's share of the 5G equipment provision fall due to any move by the Berlin government to limit Chinese involvement, the amount the company would be paid would fall proportionately, the sources said.
+
+The Paris discussions took place last month, when Deutsche Telekom held talks with Huawei as well as with other potential vendors of 5G network equipment, according to the sources.
+
+Subsequently, on Dec. 3, senior executives from the German and Chinese companies held a meeting at Frankfurt Airport, said the sources. Claudia Nemat, a Deutsche Telekom management board member and its top technology executive, and Huawei Deputy Chairman Eric Xu attended the meeting, they added.
+
+The Deutsche Telekom spokesman confirmed the meetings took place in Frankfurt and Paris but said negotiations about all transactions had been suspended while the Berlin government, which owns 32% of the telecom operator, decided on official policy regarding Huawei.
+
+He added the purpose of the Dec. 3 meeting was to inform Huawei that talks were on hold.
+
+Huawei declined to comment on its discussions with Deutsche Telekom.
+
+CARRIER COMPLEXITIES
+
+The talks and their subsequent suspension highlight the complexities and disruption facing carriers around the world as they try to move forward with 5G networks, which will enable much higher wireless internet speeds.
+
+Huawei is the world's biggest supplier of mobile network gear, and has been used by Deutsche Telekom and many other of the world's biggest telecom operators to provide the bulk of their existing 3G and 4G network infrastructure.
+
+The discussions between Deutsche Telekom and Huawei covered only 5G radio gear, according to the sources, not equipment for the more sensitive network "core" which is the main focus of security concerns for telecoms operators and governments.
+
+Radio equipment consists of the antennas mounted on masts and base stations, providing mobile service coverage, while core infrastructure manages calls and data traffic across the network.
+
+Deutsche Telekom, Huawei's largest European customer, has not announced a decision on suppliers for its core.
+
+On Tuesday, German Chancellor Angela Merkel's government delayed a decision on security rules for 5G networks until next year.
+
+Merkel has not singled out Huawei, but some lawmakers in her coalition government have called for the Chinese company to be subject to tougher measures than others, ranging from curbing its market share to 50% to an outright ban.
+
+($1 = 0.9073 euros) (Reporting by Douglas Busvine; Additional reporting by Ken Li in New York; Editing by Jonathan Weber and Pravin Char)

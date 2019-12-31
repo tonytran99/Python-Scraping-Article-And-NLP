@@ -1,0 +1,39 @@
+By Richard Valdmanis
+
+Dec 20 (Reuters) - Irving Oil, operator of Canada큦 largest oil refinery, has abandoned a pledge to cut carbon output by 17% from 2005 levels by 2020, replacing it instead with a goal to keep its performance on climate change competitive with rivals, according to documents reviewed by Reuters.
+
+The policy change appears likely to ensure the refinery - the nation's 18th biggest greenhouse gas emitter - misses the cuts by a wide margin at a time Ottawa is seeking to slash emissions and build a reputation as a world leader in the fight against climate change. The refinery is located in the city of Saint John, in the East Coast province of New Brunswick.
+
+Family-owned Irving Oil had publicized https://web.archive.org/web/20180722145353/https://irvingoil.com/en/corporate-social-responsibility/environmental-responsibility/carbon-reduction the 17% carbon cut target after the Copenhagen Accord of 2009, an international agreement to combat global warming that has since been superseded by a more ambitious and widely adopted deal called the Paris Agreement.
+
+But the company, which supplies more than half of its gasoline and other fuels to the U.S. Northeast, removed the pledge from its website earlier this year, without any public announcement of a change in policy.
+
+Regulatory filings obtained by Reuters through a Right To Information Act request show the company ceased to target an outright reduction in carbon output from the refinery as early as 2016. It instead adopted a goal to maintain a carbon intensity rating among the top 25% of rival refineries in Canada through 2025, using a methodology developed by Texas-based consultancy HSB Solomon Associates that considers a facility큦 "complexity" instead of just its emissions-per-barrel of throughput, according to the filings.
+
+Carbon intensity refers to the amount of carbon dioxide released by a facility per unit of production.
+
+Irving listed more than two dozen projects and programs to help achieve this goal, including "fugitive emissions leak detection" and improving the energy efficiency of the plant, according to its Greenhouse Gas Management plan filed with provincial regulators in 2016.
+
+In Irving큦 2017, 2018, and 2019 annual reports to regulators on its progress with the plan, the company stated it was meeting its goal of remaining in the top 25% among peers based on the Solomon method.
+
+In response to questions from Reuters, Irving confirmed that its carbon targets had evolved but did not provide any details. "We continually update our standards to accurately reflect the targets set in the areas where we operate," Irving spokeswoman Candice MacLean said in an email.
+
+The 320,000 barrel-per-day refinery emitted just over 3 million metric tons of carbon dioxide equivalent in 2017, according to the latest data from Environment Canada, marking a 7% decline from 2005 levels.
+
+Irving did not provide more recent figures.
+
+The facility큦 carbon intensity, meanwhile - as a simple calculation of its emissions of carbon dioxide equivalent per barrel of throughput - topped the list among Canada큦 five largest refineries that year, according to a Reuters review of the Environment Canada emissions data.
+
+(See graphic here: https://tmsnrt.rs/2trSTJ2 )
+
+But Irving has successfully argued to provincial regulators that a simple carbon-per-barrel calculation leads to unfair comparisons, according to the filings.
+
+"The most effective benchmarking tool for measuring a refinery큦 GHG (Greenhouse Gas) performance is the Complexity-Weighted Barrel methodology developed by Solomon Associates," the company said in the 2016 filing, as New Brunswick was devising a provincial climate law.
+
+Solomon큦 methodology uses proprietary, nonpublic details about an oil refinery큦 operational units to calculate its complexity, and is used by regulators in several European countries, the state of California, and the provinces of Alberta and Ontario to track refinery climate performance.
+
+Canada has been an enthusiastic participant in the 2015 Paris accord, and in 2016 adopted stringent federal regulations, including a controversial tax on emissions, to help it reach its goal of slashing nationwide greenhouse gas output by 30% from 2005 levels by 2030.
+
+New Brunswick aims to help Canada meet that target in part by requiring its large industrial emitters to reduce their carbon intensity by at least 10% by 2030. The province has agreed to track the performance of the Irving refinery, which accounts for around a fifth of provincial emissions, by using Solomon큦 Complexity Weighted Barrel method.
+
+(Reporting by Rich Valdmanis in Boston Editing by Matthew Lewis)

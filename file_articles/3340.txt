@@ -1,0 +1,33 @@
+By Joseph Menn and Raphael Satter
+
+SAN FRANCISCO, Dec 20 (Reuters) - Facebook Inc has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers said on Friday.
+
+Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council, said it was the first time they had seen the large-scale use of computer-generated faces to spread disinformation on social media.
+
+The researchers said in a report https://graphika.com/uploads/Graphika%20Report%20-%20OperationFFS_Fake_Face_Storm.pdf that while tell-tale signs such as misshapen ears and distorted backgrounds had helped them identify the fakes, "this technology is rapidly evolving toward generating more believable pictures."
+
+Facebook said https://about.fb.com/news/2019/12/removing-coordinated-inauthentic-behavior-from-georgia-vietnam-and-the-us 610 Facebook accounts, 89 Pages, 156 Groups and 72 Instagram accounts were involved in the network. The social media giant said those behind the operation had spent upward of $9 million on advertising to promote their content, which touched on hot-button issues such as "impeachment, conservative ideology, political candidates, elections, trade, family values and freedom of religion."
+
+The amount is almost 100 times what Facebook said https://about.fb.com/news/2017/09/information-operations-update Russia's infamous troll farm spent in the run-up to and shortly after the 2016 U.S. presidential election.
+
+Facebook said its investigation linked the activity to U.S.-based Epoch Media Group and individuals in Vietnam working on its behalf, though the accounts more openly associated with The BL, for the Beauty of Life.
+
+In a statement, Epoch said it had "no connection with the website BL."
+
+"The BL was founded by a former employee, and employs some of our former employees," publisher Stephen Gregory said in a post https://www.theepochtimes.com/facebook-errs-in-connecting-epoch-media-group-to-bl_3180838.html to the Epoch Times website. He called on Facebook to withdraw its allegation and lift a pre-existing ban on Epoch Media's advertising.
+
+Facebook fired back, saying that BL executives "were active admins on Epoch Media Group Pages as recently as this morning when their accounts were deactivated and the BL was removed."
+
+The BL, whose website lists its headquarters as a single-family home in Middletown, New York, did not immediately return emails seeking comment. Its listed phone number rang unanswered.
+
+The Epoch Times was set up as a print publication by followers of the Falun Gong spiritual movement, banned in China, before moving heavily online. Its output has tended to steer toward support for Trump and attacks on his opponents.
+
+The content removed by Facebook had the same tilt. Groups identified by the outside researchers bore names such as "America Needs President Trump," "TRUMP MAGA 2020," or "WE STAND WITH TRUMP & PENCE!"
+
+"Alongside pro-Trump material, these assets posted large quantities of material attacking his critics and rivals, often presenting users with a partisan statement and urging them to respond if they agreed," the researchers wrote in their report.
+
+The BL's now-removed Facebook page said it would "focus on content that represents fundamental moral standards and values, to enlighten all who prefer to be inspired," according to the researchers.
+
+While the page said it rejected misinformation, Facebook said, "The BL-focused network repeatedly violated a number of our policies, including our policies against coordinated inauthentic behavior, spam and misrepresentation."
+
+The takedown followed investigative stories by NBC on the Epoch Times' heavy use https://www.nbcnews.com/tech/tech-news/trump-qanon-impending-judgment-day-behind-facebook-fueled-rise-epoch-n1044121 of Facebook and by the fact-checking website Snopes.com https://www.snopes.com/news/2019/10/11/pro-trump-outlet-linked-epoch-times on The BL. (Reporting by Joseph Menn in San Francisco, Raphael Satter in Washington, and Munsif Vengattil in Bengaluru; Editing by Shinjini Ganguli, Nick Macfie and Richard Chang)

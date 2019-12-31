@@ -1,0 +1,33 @@
+By David Shepardson
+
+WASHINGTON, Dec 20 (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday.
+
+Acting NHTSA Administrator James Owens said his agency aims to make a decision soon on GM's January 2018 petition as well as a request by Softbank Corp-backed driverless delivery startup Nuro to deploy a limited number of low-speed, highly automated delivery vehicles without human occupants.
+
+The agency's review comes at a time of heightened concerns about the safety of automated piloting systems in vehicles and aircraft, a potential revolution in ground and air transportation.
+
+"I expect we're going to be able to move forward with these petitions soon - as soon as we can," Owens told Reuters, adding action "definitely" would come next year.
+
+"This will be a big deal because this will be the first such action that will be taken," Owens said.
+
+GM, the No. 1 U.S. automaker, confirmed it has been in talks with NHTSA about the petition. Nuro also confirmed it is in talks with NHTSA.
+
+GM Chief Executive Mary Barra and U.S. Transportation Secretary Elaine Chao last week met and discussed the petition at a high level, officials said, but significant work remains at the technical level. Owens said NHTSA officials are "crawling through these petitions because we want to make sure" they are at least as safe as cars on the roads.
+
+"There's a lot of back and forth between us and the companies," Owens said during a Reuters interview that also included Chao and other Transportation Department officials. "We're sharing with them thoughts and ideas and concerns. They come back to us with additional information."
+
+Chao said it is important that the NHTSA take its time in reviewing the GM petition. Chao suggested that some auto industry officials and analysts were too optimistic about the timing for deployment of fully autonomous vehicles.
+
+"I think the complexity was far greater than what a lot of very optimistic advocates were thinking," Chao said.
+
+In GM's petition, NHTSA is for the first time looking at a vehicle in which all driving decisions are made by a computer rather than a human driver. Nuro, which partnered with Kroger Co last year to deliver groceries, seeks approval not to include a windshield in the vehicle.
+
+The petitions - formal applications for action by the agency - seek exemptions from U.S. vehicle safety rules largely written decades ago that assumed human drivers would be in control of a vehicle. The petitions are for up to 2,500 vehicles per manufacturer.
+
+GM initially said it hoped to win approval to deploy the vehicles by the end of this year. But in July its self-driving unit, Cruise, said it was delaying commercial deployment of cars as more testing of the vehicles was required without specifying a new target date.
+
+Alphabet Inc's Waymo unit this year began offering some rides with no human driver in its limited autonomous ride-hailing service in Arizona, but with steering wheels and employees watching remote feeds of the vehicles' cameras.
+
+"We're in communication with them about how they are ensuring the safe operation of the vehicle," Owens said. "We will continue having a back and forth with them."
+
+(Reporting by David Shepardson; Editing by Will Dunham)

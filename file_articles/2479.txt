@@ -1,0 +1,15 @@
+BOGOTA, Dec 21 (Reuters) - Colombia has awarded bandwidth to three bidders in an auction that raised 5 trillion pesos ($1.5 billion) as part of efforts to improve mobile telephone services and expand internet access.
+
+Claro, a subsidiary of America Movil, Tigo de Millicom and Novator Partners from Britain were all awarded bandwith in the auction, while Movistar, a subsidiary of Telefónica of Spain, was not.
+
+"This is the largest mobile social connectivity project in the history of Colombia that will allow, for the first time, to bring internet to millions of Colombians in rural areas," President Ivan Duque said on Twitter.
+
+Claro dominates Colombia's mobile market, followed by Movistar, Tigo, Avantel and ETB.
+
+The Ministry of Information Technology and Communications said on Friday that Claro was awarded 20 megahertz (MHz) in the 700 MHz band and 30 Mhz in the 2,500 MHz band.
+
+Tigo won 40 MHz in the 700 Mhz band and Novator Partners secured 20 MHz in the 700 Mhz band and 30 MHz in the 2,500 Mhz band, it added in a statement.
+
+No offers were submitted for the 1,900 MHz band and in the 700 MHz band 10 MHz were left over. All of the 2,500 MHz band on offer was taken.
+
+The 700 megahertz band covers Colombia's least developed and most rural regions, while the higher megahertz bands are useful for service providers seeking market share in urban areas, where their range helps ensure service amid higher user density. (Reporting by Nelson Bocanegra Writing by Oliver Griffin; editing by James Drummond and Alexander Smith)

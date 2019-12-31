@@ -1,0 +1,73 @@
+More than 50,000 homes are still stuck with mediocre broadband and 4G despite a sharp national increase in access to faster connections, according to Ofcom.
+
+The regulator believes some 53,000 premises are neither able to receive a decent fixed broadband service nor good 4G coverage indoors from any operator.
+
+Focusing on broadband alone, it said around 610,000 UK homes and businesses still suffer without a reasonable connection - one that delivers a download speed of at least 10 Mbps and an upload speed of at least 1 Mbps.
+
+However, factoring in the coverage from fixed wireless networks, including those of the mobile operators, it estimates that around 155,000 homes and businesses are unable to access a decent broadband service.
+
+The majority of these properties are in rural areas, proving there is still a lot of work to be done to improve internet speeds across the UK.
+
+10 per cent of residences in England can get a full-fibre connection
+
+HOW FAST ARE DIFFERENT FIBRE BROADBAND CONNECTIONS? Full fibre: 1 Gbps. HD video conference or hour-long webinar takes mere seconds to download. Ultrafast: 300 Mbps. Can handle multiple online activities for multiple users at once without major interruptions in service. Superfast: 30 Mbps. Under ideal conditions will be sufficient for your average internet user.
+
+Around 9 per cent of the UK does not have what Ofcom considers good outdoor 4G coverage from a single network provider - a connection speed of at least 2 Mbps - with rural areas hit hardest.
+
+Despite this, the availability of faster internet connections across the country as a whole has reached a new high, with around three million homes (10%) now able to access 'full-fibre' broadband - a rise of 1.5 million premises on last year.
+
+Full fibre means that the fibre optic connection goes all the way to the property, rather then just to the local telephone exchange, with copper cable completing the 'last mile' connection.
+
+'This year we've seen full-fibre broadband grow at its fastest ever rate, and all four mobile networks launch 5G,' said Yih-Choung Teh, strategy and research group director at Ofcom.
+
+'But despite this good progress, there is more to do to bring all parts of the country up to speed- particularly rural areas.
+
+'So we're working with industry and the Government to help bring better services to people who need them.'
+
+Complete and partial 4G 'not spots' in the UK that have little or no coverage
+
+The PM said he wanted full-fibre broadband rolled out nationwide by 2025
+
+Analysts also highlighted the government's role in providing broadband to rural areas of the country that are still lagging behind on broadband.
+
+'Getting full-fibre broadband to three million UK homes is a step in the right direction, but there's still a long way to go before it will be available nationwide,' said Dani Warner, broadband expert at uSwitch.com.
+
+'We are waiting to see concrete plans for how the government is going to achieve its goal of full-fibre for all, but striking the right balance between rolling it out quickly and keeping the cost to consumers down will be the real challenge.'
+
+Ofcom's annual Connected Nation report says that 53 per cent of homes in the country can now get 300 Mbps speeds, up slightly from 50 per cent last year.
+
+Meanwhile, 95 per cent of homes can now access superfast broadband, which offers speeds of at least 30 Mbps, which Ofcom says is sufficient for most households.
+
+Take-up of superfast packages has also climbed by a fifth in one year – increasing by more than 500,000 – although the pace of rollout has slowed from a few years ago as the overall superfast coverage is now around 95 per cent.
+
+The average monthly broadband data use has also gone up from 240GB per connection in 2018 to 315GB in 2019.
+
+This new figure marks the equivalent of watching up to four hours of HD video content a day.
+
+Ofcom believes some 53,000 premises are unable to receive a decent fixed broadband service nor good 4G coverage indoors from any operator.
+
+Ofcom also reports that 66 per cent of the UK by land area is covered by 'good' 4G reception from all four networks – Three, O2, Vodafone and EE – meaning around a third of the country does not.
+
+But 9 per cent of the UK does not have access to good 4G outdoor mobile coverage from at least one of the operators.
+
+96 per cent of urban areas can get 4G reception from all four operators, compared to 62 per cent of rural areas, while 5 per cent of the UK's landmass gets no mobile reception at all.
+
+4G coverage generally remains largely unchanged over the year, with EE having the highest coverage by landmass (84 per cent) and O2 having the lowest (76 per cent).
+
+'While it is good to see significant progress when it comes to full-fibre, the continuing dire state of 4G coverage across the country is a huge concern and risks leaving many consumers behind,' said Caroline Normand, director of advocacy at Which?.
+
+'The new Government now not only needs to urgently set out an ambitious and joined-up strategy to deliver an improved digital infrastructure but lessons must be learned from the slow take-up of superfast broadband to ensure consumers understand the benefits of these better quality connections.'
+
+As the Queen's Speech was delivered to Parliament yesterday, Prime Minister Boris Johnson promised 'the biggest infrastructure revolution in living memory, saying his government will introduce new laws to accelerate the delivery of gigabit-capable broadband across the UK.
+
+In July, Mr Johnson pledged he would deliver full-fibre to 'every home in the land' by 2025.
+
+In an open letter, members of the telcommunications industry warned the new PM that this would require a '100 per cent full commitment from government'.
+
+People who don't have access to an internet connection of 10Mbps or higher will be able to request one from BT from March 2020, Ofcom said.
+
+The Connected Nations report showed that Northern Ireland has the highest full fibre coverage of any UK nation, with 31 per cent of homes able to receive the next generation broadband connection.
+
+Wales is above the UK average, with 12 per cent full fibre coverage, England with 10 per cent and Scotland lagging behind with only 8 percent.
+
+The data used in the report was collected in September 2019.

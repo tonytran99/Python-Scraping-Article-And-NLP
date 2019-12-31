@@ -1,0 +1,35 @@
+By Joey Roulette
+
+Dec 21 (Reuters) - The Boeing Co Starliner spacecraft that failed to hit the right orbit to reach the International Space Station is healthy, in a stable orbit and expected to land in New Mexico on Sunday morning, NASA said.
+
+Boeing's CST-100 Starliner astronaut capsule was successfully launched from Florida on Friday, but an automated timer error prevented the spacecraft from attaining the correct orbit for it to rendezvous and dock with the space station.
+
+NASA and Boeing officials said on a Saturday conference call they are still investigating the cause of the failure and that they were surprised extensive testing before the flight did not turn up any problem.
+
+The spacecraft's challenges were not over, they said.
+
+"Entry, descent and landing is not for the faint of heart," said Jim Chilton, senior vice president of Boeing's space division. "Make no mistake, we still have something to prove here on entry tomorrow."
+
+The Starliner's debut launch to orbit was a milestone test for Boeing, which is vying with SpaceX, the privately held rocket company of billionaire high-tech entrepreneur Elon Musk, to revive NASA's human spaceflight capabilities. SpaceX carried out a successful unmanned flight of its Crew Dragon capsule to the space station in March.
+
+The Starliner setback came as Boeing sought an engineering and public relations victory in a year punctuated by a corporate crisis over the grounding of its 737 MAX jetliner following two fatal crashes of the aircraft. The company's shares dropped 1.6% on Friday.
+
+The implications for any further design and testing requirements before Starliner is approved for its first crewed mission also remained unclear. The prospect that Boeing might need to repeat an unmanned orbital test flight could substantially delay NASA's timeline and drive up costs.
+
+Chilton said on Saturday that the plan now is for Starliner to return to Earth early Sunday morning at White Sands, New Mexico, about a week ahead of schedule.
+
+LIFT-OFF
+
+The spacecraft, a cone-shaped pod with seats for seven astronauts, lifted off from Cape Canaveral before dawn on Friday atop an Atlas V rocket supplied by Boeing-Lockheed Martin Corp's United Launch Alliance.
+
+Minutes after launch, Starliner separated from the two main rocket boosters, aiming for a link-up with the space station some 254 miles (409 km) above Earth. But problems with Boeing's autonomous software caused the capsule to incorrectly sense what orbit it was in so that it fired the wrong thrusters for longer than necessary, burning too much of its fuel, too soon.
+
+NASA and Boeing tried to manually correct the automated errors, but mission control commands sent across NASA's satellite communications network were delayed because Starliner was in the wrong position in space.
+
+Friday's test represented one of the most daunting milestones required by NASA's Commercial Crew Program to certify a capsule for eventual human spaceflight - a long-delayed goal set back years by development hurdles at both Boeing and SpaceX.
+
+The U.S. space agency awarded $4.2 billion to Boeing and $2.5 billion to SpaceX in 2014 to develop separate capsule systems capable of ferrying astronauts to the space station from U.S. soil for the first time since NASA's space shuttle program ended in 2011. NASA has since relied on Russian spacecraft for hitching rides to the space station.
+
+Chilton said Friday's failure would not dissuade Boeing from sticking to its quest to win the right to provide NASA's astronaut capsules, saying, "We're in, it's as simple as that."
+
+(Reporting by Joey Roulette in Orlando, Florida, writing by Brad Brooks; Editing by Scott Malone, Steve Orlofsky and Sonya Hepinstall)

@@ -1,0 +1,25 @@
+Toyota’s upgraded version of the human-shaped robot T-HR3 now boasts faster and smoother finger movements.
+
+The development is a result of the wearable remote-control device becoming lighter and easier to use.
+
+In a recent demonstration in Tokyo, a human operator wearing a headset and wiring made the robot move in exactly the same way he was moving, including waving or making dance-like movements, as sensors sent computerised signals to the robot of what they detected as human movements.
+
+Engineer Tomohisa Moridaira shows an upgraded version of the human-shaped T-HR3 (AP)
+
+Smaller robots which look like the mascots for the 2020 Tokyo Olympics and Paralympics were controlled in the same way during the demonstration. Japanese car maker Toyota is an Olympic sponsor.
+
+Toyota engineer Tomohisa Moridaira said human-shaped robots can be controlled intuitively because all a user has to do is move naturally.
+
+Mr Moridaira said Toyota believes the technology is a kind of mobility, the car maker’s long-time mission – and mobility includes moving people emotionally.
+
+Developing a robot which mirrors human movements may, in the future, mean it would be able to perform surgery in a distant place where a doctor might not be able to travel.
+
+A robot developed for the 2020 Tokyo Paralympics (AP)
+
+The robot may also allow people to take part in events vicariously, according to Toyota.
+
+Mr Moridaira said the challenge still lies in securing reliable and speedy telecommunications connections so that signals are accurately relayed.
+
+The robots were connected by local networks in the demonstrations.
+
+“The robot now has enhanced finger movements,” Mr Moridaira said. “By offering better mobility, we hope to make for a better world.”

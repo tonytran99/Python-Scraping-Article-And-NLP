@@ -1,0 +1,25 @@
+Apple may join companies like SpaceX and Blue Origin in their mission to use small satellites for high speed internet.
+
+According to a report from Bloomberg, Apple is secretly developing satellite and wireless technology that could be deployed within the next five years.
+
+The tech giant's team reportedly includes about a dozen engineers from 'aerospace, satellite and antenna design industries' and is in very early stages.
+
+Bloomberg, who cites an anonymous source familiar with matters, reports that it's unclear whether the project will actually see the light of day or what exactly it will be capable of doing.
+
+Apple is working on a secret project to develop satellites that can beam internet down from space according to a new report
+
+Among the possibilities are using the satellites to build a network that can beam data from space directly to users' phones.
+
+This could help Apple establish their own network for customers or, if the initiative is ambitious enough, provide internet to people outside the Apple ecosystem.
+
+Alternatively, Bloomberg notes that the company may use a new crop of satellites to bolster its GPS service and give users improved Apple Maps and other location services.
+
+Bloomberg also notes that Apple may not develop satellites, but could also be pushing towards 'on-the-ground' technology that would take data from satellites that are already in orbit and distribute that to its customers.
+
+No matter what Apple's plan is, it will contend with a growing number of competitors in the arena.
+
+Among them is SpaceX's Starlink project that could eventually include as many as 12,000 satellites orbiting just above Earth's atmosphere and offer users speeds as high as 1GBPS with a latency as low as 25ms.
+
+Amazon's Blue Origin also unveiled its intentions behind a mysterious plan, dubbed Project Kuiper, initially announced last September which will launch 3,236 satellites into low-orbit around the Earth.
+
+Another competitor, the London headquartered company, OneWeb, launched its first six successful satellites in February and has raised a formidable $1.25 billion to support future launches.

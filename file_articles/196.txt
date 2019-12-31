@@ -1,0 +1,53 @@
+Forgetful people who struggle to remember something should wait till later in the day, according to results from a new study.
+
+Research by the University of Tokyo has found memory is worse in the morning or just after waking up.
+
+Their study pinpointed a gene in mice that seems to influence memory recall at different times of day and tracked how it causes mice to be more forgetful just before they normally wake up.
+
+Study leader Professor Satoshi Kida, of the University of Tokyo, said: 'We may have identified the first gene in mice specific to memory retrieval.'
+
+The team believes the internal clock in mammals that is responsible for regulating sleep-wake cycles also affects learning and memory formation.
+
+A gene in mammals seems to influence memory recall at different times of day, which may explain why we are more prone to forget things in the morning
+
+Experts say people forget things because they did not learn them properly – like the name of a person introduced to you a minute ago.
+
+Alternatively it could be because they are not able to recall the information from where it is stored in their brain – like the lyrics of your favourite song slipping your mind.
+
+Many memory researchers study how new memories are made, but the biology of forgetting is more complicated to study because of the difficulties of distinguishing between not knowing and not recalling.
+
+'We designed a memory test that can differentiate between not learning versus knowing but not being able to remember,' said Kida.
+
+Previous studies have shown that time-of-day influences cognitive performance and memory
+
+Researchers tested the memories of young adult male and female mice. In the 'learning,' or training, phase of the memory tests, researchers allowed mice to explore a new object for a few minutes.
+
+Later, in the 'recall' phase of the test, researchers observed how long the mice touched the object when it was reintroduced. Mice spend less time touching objects that they remember seeing previously. Researchers tested the mice's recall by reintroducing the same object at different times of day.
+
+They did the same experiments with healthy mice and mice without BMAL1, a protein that regulates the expression of many other genes. BMAL1 normally fluctuates between low levels just before waking up and high levels before going to sleep.
+
+Mice trained just before they normally woke up and tested just after they normally went to sleep did recognise the object.
+
+Mice trained at the same time – just before they normally woke up – but tested 24 hours later did not recognise the object.
+
+Circadian rhythms regulate many physiological, biological, and behavioral processes in mammals, including mice and humans
+
+Healthy mice and mice without BMAL1 had the same pattern of results, but the mice without BMAL1 were even more forgetful just before they normally woke up.
+
+Researchers saw the same results when they tested mice on their ability to recognisse an object or another mouse.
+
+Something about the time of day just before they normally wake up, when BMAL1 levels are normally low, causes mice to not recall something they definitely learned and know.
+
+According to Prof Kida, previous research into memory has suspected the body's internal, or circadian, clock that is responsible for regulating sleep-wake cycles also affects learning and memory formation.
+
+Prof Kida said: 'Now we have evidence that the circadian clocks are regulating memory recall,' said Kida.
+
+Researchers have traced the role of BMAL1 in memory retrieval to a specific area of the brain called the hippocampus. Additionally, researchers connected normal BMAL1 to activation of dopamine receptors and modification of other small signaling molecules in the brain.
+
+'If we can identify ways to boost memory retrieval through this BMAL1 pathway, then we can think about applications to human diseases of memory deficit, like dementia and Alzheimer's disease,' said Professor Kida.
+
+However, the purpose of having memory recall abilities that naturally fluctuate depending on the time of day remains a mystery.
+
+'We really want to know what is the evolutionary benefit of having naturally impaired memory recall at certain times of day.'
+
+The findings appear in the science journal Nature Communications.

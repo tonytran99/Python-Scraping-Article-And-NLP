@@ -1,0 +1,29 @@
+The technology overcomes the major threat of quantum computers which will soon be able to crack existing methods
+
+Researchers have developed the world's first 'uncrackable' security system to protect communications against cyber attacks, it has emerged.
+
+A team at the University of St Andrews along with international partners are believed to have achieved 'perfect secrecy' with the new technology, which stops the threat of quantum computers being used to hack into data.
+
+The proposed new system uses silicon chips that contain complex structures that are irreversibly changed to send information in a one-time key that can never be recreated nor intercepted by an attacker.
+
+Researchers have developed the world's first 'uncrackable' security system that uses silicon chips that contain complex structures that are irreversibly changed to send information in a one-time key that can never be recreated nor intercepted by an attacker. Pictured: Leader of the study, Dr Andrea Fratalocchi
+
+The information is stored as light, then passed through the silicon chip containing complex structures, which bend and refract it, scrambling the information.
+
+Prof Andrea di Falco, of the School of Physics and Astronomy at the University of St Andrews and first author described the technique as 'absolutely unbreakable'.
+
+Security experts were concerned cyberterrorists were already storing information ready to break quantum computing once it was a reality but the new system stops hackers in their tracks.
+
+The idea of 'perfect secrecy' was proposed by scientists as far back as 1917, and could be achieved if it was possible to change the key which encrypts a message each time, based on the message itself.
+
+First author, Professor Andrea di Falco of the School of Physics and Astronomy at the University of St Andrews, said: 'This new technique is absolutely unbreakable, as we rigorously demonstrated in our article.
+
+'It can be used to protect the confidentiality of communications exchanged by users separated by any distance, at an ultrafast speed close to the light limit and in inexpensive and electronic compatible optical chips.'
+
+Leader of the study, Dr Andrea Fratalocchi, Associate Professor of Electrical Engineering at KAUST, said: 'With the advent of more powerful and quantum computers, all current encryptions will be broken in very short time, exposing the privacy of our present and, more importantly, past communications.
+
+'For instance, an attacker can store an encrypted message that is sent today and wait for the right technology to become available to decipher the communication.
+
+'Implementing massive and affordable resources of global security is a worldwide problem that this research has the potential to solve for everyone, and everywhere. If this scheme could be implemented globally, crypto-hackers will have to look for another job.'
+
+The results were published in the scientific journal Nature Communications.

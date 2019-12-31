@@ -1,0 +1,25 @@
+A database of Facebook user information was made available for download on an online hacker forum
+
+Facebook on Thursday said it is investigating a report that a database containing names and phone numbers of more than 267 million users was exposed online.
+
+The database was made available for download last week on an online hacker forum that apparently belonged to a crime group, according to a blog post on the website Comparitech.
+
+"We are looking into this issue, but believe this is likely information obtained before changes we made in the past few years to better protect people's information," a Facebook spokesperson told AFP.
+
+Comparitech said that security researcher Bob Diachenko spotted the database, which was openly accessible and contained Facebook users' names, user IDs and phone numbers.
+
+The discovery was reported and the database was no longer available by Thursday, according to Comparitech.
+
+Revelation of the exposed data comes as the social network strives to rebuild trust and alleviate concerns over protection of people's information.
+
+US regulators earlier this month said that British consultancy Cambridge Analytica -- at the center of a massive scandal involving Facebook data hijacking -- deceived the social network's users about how it collected and handled their personal information.
+
+The Federal Trade Commission said its investigation launched in March 2018 concluded that the now-defunct political consulting firm "engaged in deceptive practices to harvest personal information from tens of millions of Facebook users for voter profiling and targeting."
+
+The FTC said the British firm, which worked on Donald Trump's 2016 presidential campaign, made "false and misleading" claims when it offered Facebook users a "personality quiz" -- stating it would not download names or any personally identifiable information.
+
+The case created a firestorm over data protection when it was disclosed that Cambridge Analytica was able to create psychological profiles using data from millions of Facebook users.
+
+Facebook's own investigation found that some data from 87 million users in the United States and elsewhere had been compromised by the firm, and claimed the practices violated the social network's terms of service.
+
+Facebook paid a record $5 billion penalty early this year in a settlement with the regulator over mishandling users' private data.

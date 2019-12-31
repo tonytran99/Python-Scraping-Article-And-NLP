@@ -1,0 +1,55 @@
+Dec 23 (Reuters) - The $2.2 trillion repurchase agreement market - part of the inner workings of the U.S. financial system - is facing what could be another strain as the year comes to a close. That could have wider implications than just Wall Street.
+
+WHAT IS THE WORRY OVER REPO?
+
+The repo market came under stress in September as demand for funds to settle Treasury purchases and pay corporate taxes overwhelmed loans available.
+
+Interest rates in U.S. money markets shot up to as high as 10% for some overnight loans, more than four times the Fed's rate.
+
+Since September, the New York Federal Reserve has offered daily operations where it injects liquidity into the overnight market, in addition to frequent offerings of longer-term loans. It is the Fed's first major market intervention since the financial crisis more than a decade ago.
+
+This helped the market this month get through another period of high corporate tax payments and Treasury debt settlements with relative ease.
+
+Some analysts still fear, however, that there may be strains heading into year-end, when banks reduce risk taking to meet financial targets.
+
+The Fed's repo operations are made only with major dealers, with the banks in turn passing liquidity on to their clients.
+
+Heading into year-end the banks may be more reluctant to make these loans, which could leave borrowers struggling to raise cash.
+
+Some also fear that structural problems with the market leave it vulnerable to periods of stress.
+
+The Bank for International Settlements said this month that growing reliance on the biggest U.S. banks to keep the repo market functioning may have been a big factor in September's cash squeeze.
+
+The big four banks, which the BIS did not name in its report, have become net providers of funds to repo markets as they account for more than half of all Treasuries held by banks in the United States at the Federal Reserve.
+
+WHY IS THE REPO MARKET IMPORTANT?
+
+The repo market underpins much of the U.S. financial system, helping to ensure banks, companies and investors have the liquidity to meet their daily operational needs.
+
+In repo trades, borrowers offer U.S. Treasuries and other high-quality securities as collateral to raise cash, often overnight. The next day, they repay the loans plus what is typically a nominal rate of interest and get their bonds back. In other words, they repurchase, or repo, the bonds.
+
+The interest rate charged on repo deals typically stays close to the Fed's benchmark overnight rate, currently set in a range of 1.50% to 1.75%.
+
+But when investors become fearful of lending, as seen during the global credit crisis, or when there is just not enough reserves or cash in the system to lend out, it sends the repo rate soaring above the federal funds rate.
+
+Trading in stocks and bonds can become difficult. It can also pinch lending to businesses and consumers and, if the disruption is prolonged, it can become a drag on a U.S. economy that relies heavily on the flow of credit.
+
+September's funding strains did not spread to other markets. However, a prolonged disturbance or a weak economy would increase the risks of contagion.
+
+IS THERE A PROBLEM WITH THE LEVEL OF BANK RESERVES?
+
+A reduction in excess bank reserves, cash held at the Fed that can be made available for loans, was also cited as a large contributor to September's repo stress. JPMorgan in particular cut the cash it holds on deposit at the Fed by 57% this year.
+
+Coming out of the financial crisis, after the Fed cut interest rates to near zero and bought more than $3.5 trillion of bonds, banks built up massive reserves held at the Fed.
+
+But that level of bank reserves, which peaked at nearly $2.8 trillion, began falling when the Fed started raising interest rates in late 2015. It fell even faster when the Fed started to cut the size of its bond portfolio about two years later.
+
+To reverse this decline the Fed has been purchasing Treasury bills since October. When the Fed buys securities from a bank, it credits the bank´s reserve account, which increases reserves in the system.
+
+IS A PERMANENT FIX PLANNED?
+
+To reduce the risk of further disruptions, some market participants say they expect the Fed to set up a permanent backstop for the market, known as a standing repo facility.
+
+Fed Chair Jerome Powell said this month that officials are dedicated to keeping money markets calm through year end. He also said policymakers are open to suggestions for adjusting supervisory and regulatory practices in a manner that does not affect the safety and soundness of the banking system.
+
+(Reporting by New York markets staff; Editing by Megan Davies, Dan Burns and Chizu Nomiyama)

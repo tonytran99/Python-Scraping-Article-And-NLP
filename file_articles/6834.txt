@@ -1,0 +1,23 @@
+By Mark Hosenball
+
+Dec 18 (Reuters) - The U.S. government may collect information about U.S. citizens without obtaining a warrant if the information is gathered inadvertently while legally carrying out surveillance of non-nationals abroad, a U.S. appeals court ruled on Wednesday.
+
+The 2nd U.S. Circuit Court of Appeals in New York ruled in an appeal by Agron Hasbajrami, a U.S. resident arrested in 2011 and who later pleaded guilty to a charge of attempting to provide material support to a terrorist organization.
+
+Hasbajrami challenged the charges, questioning whether the U.S. National Security Agency (NSA) had legally obtained information about him without a warrant.
+
+The "incidental collection" of Americans' communications by NSA electronic dragnet that explicitly targets people abroad and without U.S. ties was permissible under the U.S. Constitution, the court ruled. It also said, however, that examining the content of databases of stored NSA information could violate the Constitution's Fourth Amendment protections against unreasonable searches and seizures.
+
+The court said the "vast majority" of evidence prosecutors had used against Hasbajrami was "lawfully collected," but prosecutors did not provide information to the trial court about whether investigators had "queried" NSA databases.
+
+The NSA surveillance program is sometimes called PRISM, which gathers data from tech and telecom companies under court supervision and under the authority of section 702 of the Foreign Intelligence Surveillance Act (FISA) but without individual warrants.
+
+"We are gratified by the Court´s remand to resolve a critical factual and constitutional question in this case, as well as its recognition of the important constitutional issues that FISA section 702 raises for everyone. We look forward to the next stage of the litigation," Hasbajrami's lawyer Joshua Dratel said in a statement.
+
+A spokesman for federal prosecutors in Brooklyn declined to comment.
+
+The case of Hasbajrami, arrested at New York's John F. Kennedy International Airport as he attempted to board a flight to Turkey, was returned to the trial court for a determination about whether evidence against him was lawfully collected and admissible under the Fourth Amendment. Prosecutors said Hasbajrami communicated by email with a non-American overseas, who he believed was associated with a terrorist organization.
+
+Documents detailing NSA telephone and internet surveillance were leaked by former agency contractor Edward Snowden in 2013. Although he is viewed by some as a hero who upheld the U.S. Constitution, authorities want him to stand trial over his disclosures of classified information.
+
+"While we disagree with the court´s ruling that the NSA can collect Americans' international communications without a warrant ... the court rightly finds that the Fourth Amendment applies when the government searches for that sensitive information in intelligence databases," said American Civil Liberties Union lawyer Patrick Toomey, who filed a brief in the case. (Reporting By Mark Hosenball in Washington; Editing by Noeleen Walder and Grant McCool)

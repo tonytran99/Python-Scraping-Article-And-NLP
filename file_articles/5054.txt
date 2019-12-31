@@ -1,0 +1,33 @@
+By Linda Carroll (Reuters Health) - Working long hours behind a desk might raise the risk of undiagnosed high blood pressure, or hypertension, even when readings in a doctor's office are normal, a new study suggests.
+
+In an analysis of data from more than 3,500 white collar workers, researchers found those who spent long hours on the job were 66% more likely to have sustained hypertension and 70% more likely to have so-called masked hypertension - blood pressure that is normal in the doctor's office, but high at other times.
+
+"People should be aware that long work hours might affect their heart health, and if they're working long hours, they should ask their doctors about checking their blood pressure over time with a wearable monitor," the study's lead author, Xavier Trudel, an assistant professor in social and preventive medicine at Laval University in Quebec, said in a statement.
+
+"Masked hypertension . . . is associated, in the long term, with an increased risk of developing cardiovascular disease," Trudel said. "We've previously shown that over five years, about one in five people with masked hypertension never showed high blood pressure in a clinical setting, potentially delaying diagnosis and treatment."
+
+The authors did not respond to a request for comment.
+
+To take a closer look at the possible impact of long work hours on blood pressure, Trudel and his colleagues recruited 3,547 white collar employees at three public institutions in Quebec that mainly provide insurance coverage to the general population.
+
+Trudel and colleagues checked volunteers' blood pressure during the first year, in year three, and again in year five. To simulate a doctor's office reading, the researchers used an office at the workplace and measured each volunteer's blood pressure three times on one morning. For the rest of that workday, the volunteers wore a blood pressure monitoring device, which took readings every 15 minutes, collecting a minimum of 20 additional blood pressure readings for that day.
+
+The researchers defined hypertension as 140/90 mm/Hg or higher during the resting reading in the simulated clinic visit, and 135/85 mm/Hg measured during the workday. Overall, 18.7% of the volunteers had sustained hypertension, including employees who were already taking anti-hypertensive medications, and 13.5% had masked hypertension and were not receiving treatment for high blood pressure.
+
+When the researchers analyzed the blood pressure data accounting for factors that might affect the risk of hypertension, such as job strain, age, gender, education level, occupation, smoking and body mass index (BMI), they found long hours significantly raised the risk of high blood pressure.
+
+Volunteers working 49 or more hours per week were 70% more likely to exhibit masked hypertension, while those working 41 to 48 hours per week were 51% more likely to have masked hypertension, compared to colleagues who spent less time at the office.
+
+Similarly, volunteers who worked 49 or more hours per week were 66% more likely to have sustained hypertension, while those working 41 to 48 hours per week were 33% more likely to have sustained hypertension compared to colleagues who worked fewer hours, the researchers reported in Hypertension.
+
+The new study was intriguing to Dr. Matthew Muldoon, a professor of medicine at the University of Pittsburgh, Pennsylvania, and director of the hypertension program at the UPMC Heart and Vascular Institute.
+
+Muldoon suspects the increased risk of hypertension might be related to long hours sitting. "And certainly, it's possible that people who work long hours are not as active," he said. "Employers might want to offset long hours by giving breaks or encouraging physical activity during the day."
+
+While the new study needs to be replicated, "it opens the door to being proactive in trying to identifying hypertension in patients who work long hours so we can treat them accordingly or try to get them to work less," said Dr. Oscar Cingolani, director of the hypertension program and associate director of the cardiac intensive care unit at Johns Hopkins Medicine in Baltimore, Maryland.
+
+The findings may also suggest another group of patients who should have round the clock monitoring.
+
+"Based on this study, work hours could be a good quick question (for doctors) to ask to help guide decision making for home blood pressure monitoring," said Dr. Mohamed Al-Kazaz, a cardiologist at The Mount Sinai Hospital in New York City.
+
+SOURCE: https://bit.ly/36QAfZL Hypertension, online December 19, 2019.

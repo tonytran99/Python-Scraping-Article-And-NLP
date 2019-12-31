@@ -1,0 +1,23 @@
+Some attendees at a recent Amazon-run conference got an unwanted surprise in their event credentials.
+
+Motherboard reports that badges for people attending Amazon Web Services's conference, called re:Invent were pre-installed with beacons that let Amazon track them as they traveled around the event.
+
+Amazon says that data collected was anonymous and the devices were designed to monitor foot traffic and gain insight into attendance into the event.
+
+Amazon was tracking attendees of its Amazon Web Services conference using Bluetooth beacons attached to their badges (Stock photo)
+
+While there were reportedly signs alerting attendees that Amazon was following their movements, some people were surprised to discover the initiative.
+
+'Had I seen AWS themselves describe it as a 'beacon', I'd've known exactly what that means and opted the hell on out of that one,' an unnamed attendee told Motherboard.
+
+WHAT IS AMAZON WEB SERVICE? AWS is a cloud computing service that gives customers a way of accessing databases, storage and servers. AWS owns and operates the hardware that is required to provide these services. Customers access what they need from AWS through a web application. Amazon's cloud computing option allows users to pay for the resources they need as they go - meaning they do not have to purchase servers that might not even be used to be safe. Additionally, the service allows developers to access exactly the infrastructure capacity they need so they do not end up having purchased too much or too little.
+
+The anonymous attendee also told Motherboard that they were tipped off to the initiative when Amazon informed attendees that lost badges would cost $150 to replace.
+
+Beacons were reportedly enabled by a company called TurnoutNow which, in its own words: '[uses] wearable beacons and real-time analytics to give you high resolution behavioral data about every aspect of your event.'
+
+The company says its service is designed to help optimize events and help organizers collect data to show exhibitors and also help exhibitors use data to 'prove their ROI.'
+
+While Amazon assuaged attendees that it wasn't associating data with personally identifying information, skepticism may stem from the company's increasingly large role in technologically-enabled surveillance via its widely used Ring security cameras.
+
+The ubiquity of the internet-enabled cameras and Ring's partnership with law enforcement has painted Amazon in a new light and has drawn the ire of civil rights activists who say the alliance between police and Amazon is unethical.

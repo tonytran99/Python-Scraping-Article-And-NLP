@@ -1,0 +1,9 @@
+Dec 19 (Reuters) - Semiconductor company Mellanox Technologies has received approval from EU antitrust and Mexico for its proposed acquisition by chipmaker Nvidia for $6.8 billion, a regulatory filing showed on Thursday.
+
+Reuters had exclusively reported on Wednesday that both companies were set to win the EU regulatory antitrust approval for the deal.
+
+Nvidia, known for its powerful gaming graphics chips, is looking to boost its data center and artificial intelligence business via the takeover, its biggest deal, to better compete with rival Intel.
+
+U.S. authorities have already cleared the deal without conditions, while approval is still pending in China where Mellanox has major customers such as Alibaba and Baidu .
+
+(Reporting by Shradha Singh in Bengaluru; Editing by Shinjini Ganguli)

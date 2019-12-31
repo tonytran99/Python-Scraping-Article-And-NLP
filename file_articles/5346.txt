@@ -1,0 +1,51 @@
+Scientists have pulled inspiration from insects in order to create a tiny, resilient robot.
+
+Referred to as 'DEAnsect', this bug-like robot is made of soft materials, carries five times its weight and moves its artificial muscles 400 times a second.
+
+What makes this creation so unique that it is able to withstand multiple hits from a fly swatter, being folded or squashed without being damaged – making this robot design ideal for performing various tasks.
+
+DEAnsect was developed by a team from École Polytechnique Fédérale de Lausanne (EPFL) in Switzerland working with the Integrated Actuators Laboratory (LAI) and colleagues from the University of Cergy-Pontoise, France.
+
+DEAnsect is designed with dielectric elastomer actuators (DEAs),which is a type of hair-thin artificial muscle that propels it forward through vibrations.
+
+Scroll down for video
+
+Scientists have pulled inspiration from insects in order to create a tiny, resilient robot. Referred to as 'DEAnsect', this bug-like robot is made of soft materials, carries five times its weight and flaps its artificial muscles 400 times a second
+
+These DEAs are the main reason why the insect is so light and quick.
+
+They also enable it to move over different types of terrain, including undulating surfaces.
+
+LMTS director Herbert Shea said: 'DEAs generally operate at several kilovolts, which required a large power supply unit.'
+
+'Our design enabled the robot, which itself weighs just 0.2 gram, to carry everything it needs on its back.'
+
+'This technique opens up new possibilities for the broad use of DEAs in robotics, for swarms of intelligent robotic insects, for inspection or remote repairs, or even for gaining a deeper understanding of insect colonies by sending a robot to live amongst them.'
+
+These DEAs are the main reason why the insect is so light and quick. They also enable it to move over different types of terrain, including undulating surfaces
+
+Three of its legs are fitted with artificial muscles, which can move 400 times per second when the voltage is switched on and off
+
+The robot is designed with artificial muscles consisting of an elastomer membrane between two soft electrodes, which connect to each other when a voltage is added to the mix.
+
+Three of its legs are fitted with artificial muscles, which can move 400 times per second when the voltage is switched on and off.
+
+DEAnsect weighs less than a gram, but is strong enough to carry a payload five times its size, which would make it ideal for doing a range of tasks.
+
+'Imagine swarms of robotic insects moving around us as they perform various tasks,' the team noted in a statement.
+
+'It might sound like science fiction, but it's actually more plausible than you might think.'
+
+The team put the tiny machine through rigorous tests where they smacked it with a fly swatter, folded it and smashed it, but yet it remained unharmed
+
+It is also designed with a microcontroller for a brain and photodiodes as eyes, allowing it to recognize black and white patterns, enabling DEAnsect to follow any line drawn on the ground
+
+It is also designed with a microcontroller for a brain and photodiodes as eyes, allowing it to recognize black and white patterns, enabling DEAnsect to follow any line drawn on the ground.
+
+But what makes this robot interesting is how durable it is.
+
+The team put the tiny machine through rigorous tests where they smacked it with a fly swatter, folded it and smashed it, but yet it remained unharmed.
+
+'By integrating this flexible printed circuit board with the DEAnsect, we developed a subgram robot capable of autonomous navigation, independently following printed paths,' the team wrote in the study published in Science Robotics.
+
+'This work paves the way for new generations of resilient soft and fast untethered robots.'

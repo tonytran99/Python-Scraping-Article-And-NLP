@@ -1,0 +1,27 @@
+Today, Apple officially opened a hacking program that will pay people who discover bugs and security holes in the company's full range of devices.
+
+Called Apple Security Bounty, the program is an expansion of an invitation only project Apple started in 2016 to try and find flaws in Apple’s iPhone security.
+
+The new expanded version of the program will for the first time include iPads, Apple laptops and desktops, Apple TV, and Apple Watch.
+
+Apple has officially launched Apple Security Bounty, a prize program for hackers who can break the company's security protocols on Apple TV, iPad, macOS, Apple Watch, and iCloud
+
+Apple announced the expansion in August at the Black Hat security conference in Las Vegas.
+
+The company is offering a range of prizes to those who find bugs that affect multiple devices, and they’ll pay an additional 50 percent bonus for bugs discovered in any of its software that is in beta.
+
+To qualify for a prize, hackers or security researchers will be required to submit a detailed description of the bug or exploit, including any preconditions necessary to getting the device into the impacted state.
+
+Apple will have to be able to replicate the issue themselves, and conclude the steps as described cause the exploit or bug with reasonable reliability.
+
+‘Proof of concept’ submissions will also be eligible for prizes, but only at half the value a fully detailed and replicable firsthand report would win.
+
+The top prize of $1million will go to those who can get 'zero click' access to another person's device, meaning they don't need the original device owner to click a malicious link or popup window
+
+The top tier prize of $1million will go to those who can successfully engineer a ‘zero-click’ attack, which gives someone control over another person’s device without needing the original owner to click a malicious link or pop up window.
+
+These kinds of security exploits can occur between two devices using the same local network.
+
+They can also potentially occur through wireless communication between devices in close proximity to one another.
+
+Other prizes range from $25,000 to $500,000, and include lockscreen bypass hacks, cracking into an iCloud account, and allowing unauthorized apps access to sensitive data that Apple’s OS would normally keep protected.

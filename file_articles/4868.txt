@@ -1,0 +1,73 @@
+Smart cars may make our lives easier on the road, but they are also easily hacked by cyber criminals.
+
+Scientists have found 'holes' in these systems that lets digital deviants access your data or worse, take over the vehicle.
+
+The first hole is when users plug their smartphone into their smart car, which is an open door for hackers to breach vehicle systems.
+
+However, another vulnerability lets users access features in order to take over the system and could ultimately crash the car.
+
+Experts are now calling on carmakers to release constant updates for the software in order to put an end to data breaches and save lives.
+
+Researchers from Michigan State University (MSU), which applied criminal justice theory to smart vehicles in order to uncover the system's cracks.
+
+Scroll down for video
+
+Smart cars may make our lives easier on the road, but they are also easily hacked by cyber criminals. Scientists have found 'holes' in these systems that lets digital deviants access your data or worse, take over the vehicle
+
+Thomas Holt, professor of criminal justice at MSU said: 'Automotive cybersecurity is an area we don't understand well in the social sciences.
+
+'While there are groups of computer scientists and engineers digging into some of the issues, the social aspects are extremely relevant and under-examined.'
+
+'As the technology gets greater market share, it's critical to get ahead of the curve before there are issues we can't rein in.'
+
+The first hole is when users plug their smartphone into their smart car, which is an open door for hackers to breach vehicle systems.
+
+Connecting a device to a USB port in a vehicle creates a backdoor for hackers to access data from both phone and the car at once.
+
+And it is even more troubling for Android users – they must download apps from unverified sites, putting them more at risk.
+
+'The risk with vehicles isn't just personal data – though that is still a real concern,' Holt said.
+
+'Say the car is compromised and a hacker alters certain alert systems that tell a driver when tire pressure is low or so the emergency brake sensory systems don't kick in.
+
+The first hole is when users plug their smartphone into their smart car, which is an open door for hackers to breach vehicle systems. However, another vulnerability lets users access features in order to take over the system and could ultimately crash the car
+
+'That could lead to loss of life.'
+
+The team used a well-known criminal justice framework in their research, which in order for a criminal to act
+
+The research, published in the Journal of Crime and Justice applied Routine Activities Theory, used a popular criminal justice framework, to current forms of vehicle security and provided recommendations for manufacturers and owners to improve safety.
+
+'The risk with vehicles isn't just personal data – though that is still a real concern,' Holt said.
+
+'Say the car is compromised and a hacker alters certain alert systems that tell a driver when tire pressure is low or so the emergency brake sensory systems don't kick in.'
+
+'That could lead to loss of life.'
+
+Holt explained that there must be a perfect storm of three things in order for a criminal to strike: a motivated offender, a suitable target and a lack of guardian.
+
+He noted that while conducting the research, it was clear what the motivators and targets are, but had difficulty determining a guardian.
+
+'Where we found holes was surprising: there's no one technically responsible for these vehicles' central computer systems,' Holt said.
+
+'The automotive and equipment manufacturers need to recognize that as it stands, they serve as the guardians in the space, and the onus is on them.'
+
+'They need to take the lead in thinking more critically about data flows, software vendors and how to communicate security with dealerships.'
+
+Holt explained that in a traditional automotive context, an equipment failure would lead to a recall of the vehicle to fix the problem. However, cyber security is entirely different.
+
+'It's critical to think beyond thresholds and recalls because cybersecurity isn't a recoverable problem, but rather one that requires constant system patching updates, installations and new codes written,' Holt said. 'This is more complicated but needs to be an active guardian process.'
+
+The only way to keep these digital criminals at bay is to follow the same protocol as smartphones - constant releases of software updates.
+
+'Not everyone updates their smartphones when they're supposed to, but customers need to realize that to a certain extent, manufacturers can only do so much. The customer must have a role in protecting their cars as well,' Holt said.
+
+'We can't expect every vehicle owner to go to a dealership every time there's a security update.'
+
+'But once the guardians find a way to make it more accessible, they'll be the ones responsible for protecting their vehicles – and themselves.'
+
+Holt says that it won't be long before all vehicles have smart capabilities and he fears that it will take too many tragic stories of accidents or breaches to get people to act.
+
+'We need to improve the presence of software guardians and better resources; we also need to think about developing policies to protect users, vehicles and customers,' Holt said.
+
+'There are real benefits to smart cars and autonomous features, but we need to get ahead of the risks before those benefits are lost.'

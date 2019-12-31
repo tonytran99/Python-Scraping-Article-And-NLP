@@ -1,0 +1,31 @@
+By Nadezhda Tsydenova
+
+MOSCOW, Dec 19 (Reuters) - Russia will carry out tests on Monday on the reliability of its domestic internet infrastructure in the event that the country is disconnected from the worldwide web, the communications ministry said.
+
+The threat testing will take place in stages on Dec. 23 and will not affect regular internet users, the ministry said on Thursday.
+
+Russia enacted a law known as the "sovereign internet" bill in November, aimed at tightening state control over the network, but which free speech activists say will strengthen government oversight of the country's cyberspace.
+
+The law was developed in response to what Russia calls the "aggressive nature" of the United States' national cyber security strategy, which accuses Moscow of carrying out hacking attacks, as a means to ensure the internet continues functioning in Russia.
+
+According to the law, all communications operators, messengers and email providers must participate in the tests, as well as state-run institutions and security services.
+
+At his annual news conference with journalists on Thursday, President Vladimir Putin insisted that a free internet and a sovereign internet did not contradict one another.
+
+"The law is aimed at just one thing - preventing negative consequences of being disconnected from the global network, the management of which is mostly abroad," he said.
+
+"We are not moving towards closing the internet and do not intend to do so."
+
+The legislation aims to route Russian web traffic and data through points controlled by state authorities and to build a national Domain Name System, which would end the country's dependence on systems from abroad, which Russia fears could be shut down by a foreign government.
+
+Monday's tests will be exploratory in nature, communications ministry spokesman Yevgeny Novikov told reporters, with participants aiming to work out the full range of potential external impacts on the internet and communications infrastructure in Russia.
+
+The sovereign internet law says that in the event of a threat, Russian communications watchdog Roskomnadzor can centrally manage the country's network.
+
+Critics say the law allows the authorities to restrict access to resources and information at their discretion.
+
+In September testing, major operators began installing equipment on their networks in the Siberian city of Tyumen, as required by the law, sources told Reuters.
+
+One of the sources said that the quality of communications during these tests considerably worsened.
+
+(Reporting by Nadezhda Tsydenova, Additional reporting by Alexander Marrow; Editing by Giles Elgood)

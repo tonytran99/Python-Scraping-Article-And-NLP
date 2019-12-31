@@ -1,0 +1,67 @@
+Toyota has revealed the next update of its T-HR3 humanoid 'avatar' service robot ahead of next year's Olympic Games.
+
+The robot is capable of flexible movements that mirror the actions of its human operators up to six miles away, almost in real time.
+
+Using a 5G connection and a human controller connected to wiring and a VR headset, the new T-HR3 is now able to execute more difficult tasks than before.
+
+This includes walking in a smoother, more natural manner and even preparing drinks, as demonstrated at this year's International Robotic Exhibition in Tokyo.
+
+The new and improved T-HR3 – which was first launched in 2017 – grasps a cocktail shaker at this year's International Robotic Exhibition in Tokyo
+
+'Avatar robots like T-HR3, which possess an actual body, are capable of going beyond VR to physically influence the real world,' said T-HR3 Development Team Leader Tomohisa Moridaira.
+
+According to Toyota, the system relies on a remote human-controlled 'Master Maneuvering System', a large chair equipped with movable arms that uses sensors to directly communicate physical movements to the robot.
+
+Video of a company demonstration at the event this week shows the robot gripping and twisting the lid on a cocktail shaker, shaking the drink and appearing to pour.
+
+Toyoto clearly wanted to play it safe, however, by not using any liquids for their demonstration.
+
+But the new update represents an advance not in autonomous bots, but impressively subservient machines that can replicate human movement down to the centimetre.
+
+Human operators need no specialist training to use the Master Maneuvering System, which features sensors all along the joints to control the T-HR3
+
+The new and improved T-HR3 – which was first launched in 2017 – is controlled by a human wearing a headset, wiring, special shoes and VR goggles. The user does not require any special training, Toyota says.
+
+'Given the services that we're thinking of offering in the future, it's very important that everyone can control the robot without much difficulty,' said Mr Moridaira.
+
+The biggest update is a new 'Master Hand' controller that improves handling of more delicate tasks like picking up a coin or twisting the lid on a cocktail shaker.
+
+This is thanks to updated technology that provides improved operational responsiveness of each finger on the robot via sensors, while the addition of shoulder blade joints enable more versatile movements.
+
+T-HR3 can mirror the actions of its remote human operators up to six feet away, but Toyota envisions doctors performing surgery from distant locations
+
+T-HR3 shares the force exerted by and on the robot with the operator
+
+The human operator also puts on a pair of VR googles displaying the T-HR3's point of view, increasing the sense of immersion.
+
+'The Master Maneuvering System doesn't feel so heavy to wear, and it's cool,' said Tomoki Yoshida, Toyota External & Public Affairs Division, who tried out the new humanoid robot.
+
+'There's a sense of touch from each finger. It's like my real fingers. I can also feel the sensation of shaking hands through how the arm is moving.'
+
+Toyota believes that the technology could be used to perform highly involved physical tasks remotely in the future, such as a doctor performing surgery when they are unable to travel.
+
+For now, the T-HR3 is restricted to slightly more modest tasks, and at the exhibition in Tokyo this week, Toyota demonstrated the robot's new ability to prepare drinks – meaning bartenders of the future could undertake a shift without even having to leave the comfort of their own homes.
+
+In another demonstration, a person wearing a headset and wiring made the robot move in exactly the same way by moving, waving and making dance-like movements.
+
+The Master Maneuvering System executes more delicate tasks down to the finger
+
+'When we consider how robots will be used in the future, we think that there will be high demand for robots that make effective use of many joints to accomplish delicate tasks, the way humans do, and that can operate safely even when they are in contact with the world around them,' said Mr Moridaira.
+
+Toyota is one of the sponsors for the 2020 Olympics and has developed seven robots that will cater to attendees and athletes of the event.
+
+Their 'Mascot' robot will similarly allow arm movements via remote-control, but with a camera mounted on its head to recognise people nearby and respond with eye expressions.
+
+Toyota's cast of robots due to make an appearance at the 2020 Olympics: Mascot robots (centre) and clockwise from top right, the T-HR3, Field Support robot, Human Support and Delivery Support robots and the T-TR1
+
+The T-TR1 telepresence robot, meanwhile, projects an image of a remote user to make that person feel more physically present at the robot's location.
+
+The Human Support robot will guide guests to their seats and deliver light meals, while the Delivery Support robot will deliver drinks and other goods that spectators have ordered from a dedicated tablet.
+
+Lastly, the Field Support robot will help retrieve objects at Olympic events, such as javelins.
+
+Toyota says that it will provide a way for guests of the event in remote locations that are unable to be physically present to interact with athletes via the T-HR3, such as trainers or family members.
+
+At CES in January 2018, Toyota president Akio Toyoda declared it his goal to 'transition Toyota from an automobile company to a mobility company',
+
+'The possibilities of what we can build, in my mind, are endless,' he said.

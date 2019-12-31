@@ -1,0 +1,45 @@
+By Katie Paul
+
+SAN FRANCISCO, Dec 20 (Reuters) - Weeks after U.S. authorities brought a spying case against three Saudi nationals for digging up dissidents' personal data at Twitter, the company suspended tens of thousands of accounts that appear to be linked to one suspect's company.
+
+Twitter announced the suspension of the accounts on Friday, saying only that they were linked "to a significant state-backed information operation" originating in Saudi Arabia
+
+It named as the source of the activity a Riyadh-based social media marketing company called Smaat, which has ties to several high-profile Saudi figures and news outlets.
+
+Smaat is run by Ahmed Aljbreen, according to his LinkedIn account and other social media profiles. The FBI complaint, announced in November, said a man also known by that name controls a Saudi social media marketing company that does work for the royal family.
+
+Twitter and the Department of Justice declined to say whether the two referred to the same person, although a federal source familiar with the matter said U.S. law enforcement believes that to be the case.
+
+Aljbreen, who is also known as Ahmed Almutairi, could not be reached for comment.
+
+The spying case pointed an unusually public finger at Saudi Arabia, a staunch U.S. ally, and cast an uncomfortable light on the practices Twitter uses to protect its users' personal data.
+
+Aljbreen is accused of acting as a go-between for the Saudi officials and two former Twitter employees who used their positions to access email addresses, phone numbers and internet protocol addresses of government critics.
+
+Twitter learned of the unauthorized access in late 2015, according to the U.S. complaint. A Twitter spokesman declined to comment Friday on why the company did not take down Smaat's information operation earlier.
+
+In its blog post Friday, Twitter said it had removed about 5,929 accounts which targeted discussions about Saudi Arabia and sought to advance the kingdom's geopolitical interests, saying they violated its "platform manipulation policies."
+
+Those accounts represented "the core portion of a larger network of more than 88,000 accounts," which Twitter said were "amplifying messages favourable to Saudi authorities" through "aggressive liking, retweeting and replying."
+
+Twitter has permanently suspended all of the accounts and disclosed data on the core set, as well as a representative sample of the larger network.
+
+Saudi Arabian government representatives did not reply to a request for comment on Friday.
+
+Twitter said its investigation traced the fake activity back to Smaat, which it said managed a range of accounts for unnamed "high-profile individuals" and government departments.
+
+Smaat's website, which is no longer online but is visible via the Internet Archive, showed clients included the Future Investment Initiative, an annual conference organized by the kingdom's sovereign wealth fund to further Crown Prince Mohammed bin Salman's goal of attracting foreign investment.
+
+According to the website, Smaat performed work for the Riyadh Summit, a series of events held during U.S. President Donald Trump's visit to Saudi Arabia in 2017.
+
+The website also listed as "Smaat Projects" two Arabic-language news accounts popular with young Saudis: HashKSA and SaudiNews50, which remain active on Twitter and have millions of followers. The accounts both tweet content supportive of Saudi policies.
+
+Neither outlet responded to a request for comment.
+
+As of late 2018, Smaat's website was hosted on the same server as SaudiNews50.co and a website called Vision2030.com, which is the name of the crown prince's economic reform plan. The server hosted few other websites, which is often an indicator of common ownership.
+
+Twitter said in September it had suspended the account of former Saudi royal court adviser Saud al-Qahtani and others linked to Saudi Arabia's "state-run media apparatus," as well as accounts in the United Arab Emirates and Egypt similarly amplifying pro-Saudi messages.
+
+Qahtani, a close confidante of Crown Prince Mohammed bin Salman, ran the royal court's media centre as well as an "electronic army" tasked with protecting the kingdom's image and attacking its perceived enemies online.
+
+The latest suspensions follow investigations by Twitter's site integrity team. While most of the content involved was in Arabic, some "related to events relevant to Western audiences," including sanctions on Iran and appearances by Saudi government officials in Western media, Twitter said in its blog post. (Reporting by Katie Paul; Additional reporting by Marine Strauss; Editing by Alexander Smith and Stephen Coates)

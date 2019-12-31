@@ -1,0 +1,43 @@
+The Bank of England has referred an “unacceptable” use of its audio feed of press conferences to the City watchdog after it emerged that hedge funds could have profited by listening in seconds ahead of rivals.
+
+The Financial Conduct Authority (FCA) was drafted in after the Bank discovered a back-up communications system it installed a few years ago had been tapped and shared with a market news service.
+
+The Bank declined to comment on whether the police are also involved.
+
+The market news service has not been publicly identified, however the Bank said that it has revoked the service’s access to its audio feed.
+
+Statisma News, a service which offers live streaming of Parliament and Bank of England press conferences, released a statement on its website, reportedly after inquiries from the Financial Times.
+
+The Bank of England said the audio feed had been installed in the event of a failure of the video broadcast (Yui Mok/PA)
+
+It said: “Statisma is a technology company specialising in the delivery of publicly available audio content.
+
+“We DO NOT carry embargoed information and we DO NOT release information without it first being made available to the public.
+
+“It is impossible to ‘hack’ or ‘eavesdrop’ any live public event or press conference. Any such suggestion is dismissed out of hand.
+
+“Hedge funds could have gained a crucial advantage over competitors by accessing comments ahead of the broadcast feed, a Times investigation revealed.”
+
+The PA news agency was told no one at Statisma was available to speak as the team was at a Christmas lunch.
+
+Having access to Bank of England Governor Mark Carney’s comments even seconds ahead of a rival would give traders a vital competitive advantage in the high-speed world of finance.
+
+High-frequency trading sees huge numbers of transactions executed in a fraction of a second via powerful computer programmes monitoring multiple markets simultaneously.
+
+The strategy is so lucrative that some companies have invested heavily in equipment such as microwave transmitters to get information a split second before prices change.
+
+The illegitimate use of the audio can be compared to insider trading because it gave traders a boost based on information their rivals did not have.
+
+The Bank said the audio feed had been installed in the event of a failure of the video broadcast, and had been misused by the supplier since earlier this year.
+
+“This wholly unacceptable use of the audio feed was without the Bank’s knowledge or consent, and is being investigated further,” it said.
+
+“On identifying this, the Bank immediately disabled the third party supplier’s access.
+
+“As a result, the third party supplier did not have any access to the most recent press conference and will no longer play any part in any of the Bank’s future press conferences.
+
+“The Bank operates the highest standards of information security around the release of the market sensitive decisions of its policy committees.
+
+“The issue identified related only to the broadcast of press conferences that follow such statements.”
+
+According to the Times, those who subscribed to the market news service offering the Bank’s audio had a five to eight-second head start over competitors.

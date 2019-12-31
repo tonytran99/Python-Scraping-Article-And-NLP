@@ -1,0 +1,19 @@
+QINGDAO, China/BEIJING, Dec 22 (Reuters) - China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading think tank said on Sunday.
+
+"We should not deify artificial intelligence as it could go wrong just like any other technology," said the former chief of China's securities regulator, Xiao Gang, who is now a senior researcher at the China Finance 40 Forum.
+
+"The point is how we make sure it is safe for use and include it with proper supervision," Xiao told a forum in Qingdao on China's east coast.
+
+Technology to regulate intelligent finance - referring to banking, securities and other financial products that employ technology such as facial recognition and big-data analysis to improve sales and investment returns - has largely lagged development, showed a report from the China Finance 40 Forum.
+
+Evaluation of emerging technologies and industry-wide contingency plans should be fully considered, while authorities should draft laws and regulations on privacy protection and data security, the report showed.
+
+Lessons should be learned from the boom and bust of the online peer-to-peer (P2P) lending sector where regulations were not introduced quickly enough, said economics professor Huang Yiping at the National School of Development of Peking University.
+
+China's P2P industry was once widely seen as an important source of credit, but has lately been undermined by pyramid-scheme scandals and absent bosses, sparking public anger as well as a broader government crackdown.
+
+"Changes have to be made among policy makers," said Zhang Chenghui, chief of the finance research bureau at the Development Research Institute of the State Council.
+
+"We suggest regulation on intelligent finance to be written in to the 14th five-year plan of the country's development, and each financial regulator - including the central bank, banking and insurance regulators and the securities watchdog - should appoint its own chief technology officer to enhance supervision of the sector."
+
+Zhang also suggested the government brings together the data platforms of each financial regulatory body to better monitor potential risk and act quickly as problems arise. (Reporting by Cheng Leng in Qingdao, China, and Ryan Woo in Beijing; Editing by Christopher Cushing)

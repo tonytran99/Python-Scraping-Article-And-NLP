@@ -1,0 +1,37 @@
+The ministry's full list reflects how widely apps have permeated everyday life in China
+
+Chinese tech giants Tencent and Xiaomi have been reprimanded by Beijing for designing apps that infringe on users' privacy, even as the Communist regime amasses its own collection of personal data.
+
+China, which exercises close surveillance of online activity, has recently tightened its scrutiny of companies that gather data from consumers.
+
+Xiaomi Finance and Tencent's instant messaging service QQ were among dozens of problematic apps named and shamed by the Ministry of Industry and Information Technology on Thursday.
+
+QQ forces users to allow the app to track their usage habits so it can show targeted ads, the ministry said in a statement.
+
+If users do not give up their phone permissions, they cannot access the app at all, it added -- warning of "punishment" if the privacy issues are not fixed by December 31.
+
+Smartphone maker Xiaomi's finance app created "difficulty" for users looking to cancel their account, the statement said.
+
+The ministry's full list included software from a Beijing public library as well as grocery delivery and train-booking services, reflecting how widely apps have permeated everyday life in China -- often with little regulatory oversight.
+
+It said more than 8,000 apps had already been "rectified" as part of a national push to protect users' rights, but the 41 listed in its announcement Thursday had yet to fully address privacy issues.
+
+Tencent is China's leading online video game company as well as a giant in messaging and myriad other apps.
+
+- Face scans -
+
+In September, a face-swapping app named Zao quickly became one of China's most downloaded apps but also triggered a backlash over privacy fears.
+
+The app allowed users to insert themselves into scenes from well-known movies using "deepfake" technology.
+
+Following fierce criticism, the company behind the app promised changes to its privacy policy, which gave it "free, irrevocable, permanent, transferable, and relicenseable" rights to all user-generated content.
+
+Meanwhile in early November, a Chinese professor filed a claim against a safari park in the eastern city of Hangzhou for requiring face scans for entry, according to the local court.
+
+But government surveillance has continued to grow even as consumers turn against data-hungry companies.
+
+In March, security researcher Victor Gevers from Dutch non-profit GDI Foundation found that a local government in eastern China had hired a tech firm to monitor 364 million pieces of data including private messages and ID numbers.
+
+On December 1, the Ministry of Industry and Information Technology rolled out a requirement for telecom operators to collect customers' face scans when registering new phone users at offline stores.
+
+The new requirement caused some Chinese social media users to voice concerns their biometric data could be leaked or sold.

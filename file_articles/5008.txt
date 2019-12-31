@@ -1,0 +1,53 @@
+Facial recognition systems can produce wildly 'inaccurate results', especially for Asian and African Americans, a new US government study has found.
+
+The new research comes amid widespread deployment of facial recognition technology for law enforcement, airports, banking, retailing and smartphones.
+
+The study found that facial recognition software would confused two people 100 times more often for Asian and African American faces than it did for white ones.
+
+Failures could lead to the 'wrong people being arrested' and 'lengthy interrogations' according to Jay Stanley of the American Civil Liberties Union.
+
+Scroll down for video
+
+Facial recognition software can produce wildly inaccurate results, according to a US government study on the technology, which is being used for law enforcement, airport security and elsewhere
+
+The National Institute of Standards and Technology (NIST) study also found two algorithms assigned the wrong gender to black females 35 per cent of the time.
+
+Activists and researchers have claimed the potential for errors is too great and that mistakes could result in the jailing of innocent people.
+
+They also claim that the technology could be used to create databases that may be hacked or inappropriately used.
+
+The NIST study found both 'false positives,' in which an individual is mistakenly identified, and 'false negatives,' where the algorithm fails to accurately match a face to a specific person in a database.
+
+An expert in facial recognition software from the MIT Media Lab says that this study shows the proliferation of face surveillance should be halted to protect people.
+
+'While some biometric researchers and vendors have attempted to claim algorithmic bias is not an issue or has been overcome, this study provides a comprehensive rebuttal,' he told the New York Times.
+
+'A false negative might be merely an inconvenience - you can't get into your phone, but the issue can usually be remediated by a second attempt,' said Patrick Grother.
+
+'But a false positive in a one-to-many search puts an incorrect match on a list of candidates that warrant further scrutiny.'
+
+Researchers for the federal study had access to more than 18 million photos of about 8.5 million people in the United States including mug shots and visa applications.
+
+They tested those photos on algorithms from 99 developers - representing the majority of commercial providers including Microsoft, Cognitec and Megvii.
+
+US-developed face recognition systems had higher error rates for Asians, African Americans and Native American groups, with the Native American demographic showing the highest rates of false positives.
+
+Some algorithms developed in Asian countries produced similar accuracy rates for matching between Asian and Caucasian faces - which the researchers said suggests these disparities can be corrected.
+
+Some airports are using facial recognition software to 'speed up' the check in and security process. This photo shows passengers walking past an airport-wide biometric facial recognition terminal at Rome International Airport
+
+'These results are an encouraging sign that more diverse training data may produce more equitable outcomes,' Mr Grother, lead study author, said.
+
+The American Civil Liberties Union said the new study shows the technology is not ready for wide deployment.
+
+'Even government scientists are now confirming that this surveillance technology is flawed and biased,' Mr Stanley said in a statement.
+
+'The technology's flaws are only one concern. Face recognition can enable undetectable, persistent, and suspicionless surveillance.'
+
+'Government agencies including the FBI, Customs and Border Protection and local police must immediately halt the deployment of this dystopian technology.'
+
+Systems built by Amazon, Apple, Facebook and Google were not included in the study as those companies didn't submit their technology for the study.
+
+Bennie Thompson, Chairman of the House Homeland Security Committee said the study raised troubling questions about security and protection.
+
+'This report shows facial recognition systems are even more unreliable and racially biased than we feared', he told the Wall Street Journal.

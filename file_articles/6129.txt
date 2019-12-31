@@ -1,0 +1,33 @@
+The Bank of England admitted on Thursday that a rogue supplier was misusing feeds of its press briefings, giving certain traders a split-second advantage, which could increase their chance of making millions on financial trades.
+
+Unnamed hedge funds had early access to press briefings by Mark Carney, the Governor of the Bank of England, after the supplier accessed the audio feed without consent, the Times revealed.
+
+Why is the information from these briefings important?
+
+Statements by the central bank’s governor and policy decisions by the bank often move markets including currency and bonds.
+
+Changes to interest rates or new inflation targets are likely to impact the value of the pound against the other currencies.
+
+This means that traders with early access to that information may be able to figure out which markets are likely move in a few moments time.
+
+The Bank of England said hedge funds had early access to press briefings (Fiona Hanson/PA)
+
+Sue Noffke, UK equities fund manager at Schroders, told BBC Radio Four: “What Mark Carney is talking about is the outlook for interest rates, the outlook for inflation.
+
+“Those outlook comments can be determining interest rates, the value of the pound, and determine a lot of financial instruments.”
+
+Traders with access to this information could, for example, buy significant amounts of a currency which they know is likely to increase in value once a policy announcement or comment is made public. They could then sell this after currency markets move higher to make a profit.
+
+How would traders use this for profit?
+
+Ms Nofke added that funds who “could be making money on that” are likely to be using artificial intelligence.
+
+Although the market-sensitive information was only available to these traders seconds ahead of their rivals, high frequency trading means trades can take place in microseconds after information is revealed.
+
+High frequency trading sees large organisations such as investment banks and hedge funds use artificial intelligence and automated trading platforms to track markets and execute trades.
+
+Audio from a Bank of England press conference could be scanned for key words and phrases, which would result in automated trades by supercomputers which will predict the resultant movements in the markets.
+
+Automated trading is in fact the norm in some markets, with more than half of US equity trades currently involving computers rather human traders.
+
+However, the lack of human oversight means these trades, which can be worth millions of pounds, do involve significant risk.

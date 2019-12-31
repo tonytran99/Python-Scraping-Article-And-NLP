@@ -1,0 +1,71 @@
+By Tommy Wilkes
+
+LONDON, Dec 19 (Reuters) - The Bank of England's admission that a technical supplier leaked audio feeds from its news conferences throws a spotlight on financial markets' insatiable appetite for speed and lucrative information their rivals don't yet have.
+
+These televised news conferences, at which journalists quiz BoE chief Mark Carney, are always closely monitored by market traders. The governor's comments on anything from interest rates to inflation or even Brexit can catapult the price of sterling and government bonds any which way.
+
+THE FASTER THE BETTER
+
+For many traders, being first is everything. Billions of dollars are staked daily on the slightest - and briefest - of moves in currency, bond or stock prices.
+
+This is not your average pension fund or punter, but specialised hedge funds and often automated high-frequency trading firms whose commercial existence is predicated on being faster than the rest of the market - often entering and exiting positions in multiple trades within seconds or even miliseconds.
+
+The Times newspaper said a BoE supplier had been sending an audio feed to traders who could have had a five- to eight-second head-start on public television signals because sound can be compressed and transmitted faster.
+
+For the purveyors of nanosecond trades, that's a lifetime.
+
+There has been a tech arms race within markets around getting a beat on critical policy decisions and formal statements for years, even decades. But just how price sensitive is an open, often unscripted, press conference?
+
+Take, for example, Carney's comments on May 2. After the BoE published its rate decision, Carney spoke to the assembled press for a televised question-and-answers session clarifying the Bank's latest decision.
+
+In response to one question he said that investors were underestimating how much UK interest rates could rise. Sterling immediately rose, albeit it very briefly.
+
+Just hearing those comments earlier than your potential counterparties in the market would have proven profitable to those that can quickly buy the pound - and in some highly automated cases exit the trade before others cotton on.
+
+News headlines and data drive these sorts of moves across markets daily, so traders are constantly looking for an edge.
+
+Some installed audio feeds directly relaying British parliamentary action over a past turbulent year of Brexit brinkmanship, feeds that arrived a few seconds faster than television broadcasts during market-moving votes.
+
+And so sensitive are BoE pronouncements that journalists covering rate decisions are locked in a basement and asked to hand over their mobile phones to stop leaks before the policy minutes are released. That is not the case for the subsequent press conference, however.
+
+The BoE audio feed in question at the moment was a fallback option should the televised feed fail, according to The Times.
+
+A number of suppliers also offer high-speed audio feeds for news conferences by the European Central Bank, the U.S. Federal Reserve and the Bank of Canada.
+
+In September, the ECB added a public audio feed for its news conferences on its website in addition to its video webcast after it became concerned that unaffiliated vendors were selling an unauthorised audio feed to market participants.
+
+FROM TUGBOAT TO HIGH-TECH
+
+Using state-of-the-art technology to gaining access to market-moving information first goes back centuries.
+
+Reuters was founded in 1851 to sell market-moving information, and used carrier pigeons at one point to send share prices between London and the continent faster than any rival.
+
+In 1865, before the days of the Transatlantic telegraph cable, it broke the news to Europe that U.S. President Abraham Lincoln had been assassinated. The news reached New York too late for the British mail steamer, but a correspondent hired a tugboat to chase the ship, sealed the news in watertight canisters and hurled them aboard.
+
+The news, reported 11 or 12 days after Lincoln's death, rocked European markets.
+
+Today's race to be first is a more high-tech affair, but traders can go to equally extraordinary lengths.
+
+Most stocks, bonds and currencies are traded on computer servers clustered in guarded out-of-town data centres miles from where human traders at banks and brokers sit on trading floors.
+
+High-frequency trading accounts for around half of all trading volumes in U.S. stocks and around a third of European share volumes, according to data compiled by Deutsche Bank.
+
+Computer algorithms scour the market seeking to spot tiny price discrepancies before others, while high-end fibre optic underground cables wire the data between cities and countries.
+
+In his 2014 book "Flash Boys", financial author Michael Lewis describes the secretive laying of a fibre-optic cable along the shortest - therefore straightest - route between Chicago and New York, despite the need to cut through mountains.
+
+More recently, traders are turning to laser beams and microwave dishes as the latest weapons.
+
+FASTER THAN WHO
+
+Experts point out that the five- to eight-second advantage The Times says buyers of the BoE audio feed would have enjoyed over those watching by video is so long it would have appealed more to an average hedge fund rather than high-frequency traders who work in mili- or nanoseconds.
+
+Reporters at news agencies including Reuters send alerts they deem market-sensitive directly from BoE press events, meaning any advantage buyers of the audio feed enjoyed should be measured over the speed of those headlines.
+
+The vast majority of high-frequency trading is based on algorithms that can access and analyse financial data faster and more efficiently than others, and not on interpreting news headlines before rivals.
+
+Although these are mostly template announcements such as data releases or election results, advances in technology mean more headlines are readable by machines.
+
+Still, such is the demand for speed that it has spawned an industry capable of providing investors with quicker access to market-moving headlines than traditional media sources can.
+
+Recent low market volatility - particularly on foreign exchanges - has also forced more traders to seek profits from betting on rapid, intra-day moves, deploying the technology and money needed to obtain information as fast as possible. (Editing by Mike Dolan & Hugh Lawson)

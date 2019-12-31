@@ -1,0 +1,57 @@
+United Launch Alliance Atlas V rocket with Boeing's CST-100 Starliner spacecraft launches from Space Launch Complex 41, Friday, December 20, 2019, at Cape Canaveral Air Force Station in Florida
+
+Boeing's Starliner spacecraft won't achieve its mission objective of docking with the International Space Station, NASA said Friday, dealing a blow to the agency's plans to end US dependence on Russian rockets for astronaut taxi rides.
+
+Officials said the autonomously flown capsule experienced a glitch involving its onboard clock that led it to burn too much propellant, forcing an early return to Earth on Sunday morning.
+
+"We have made a final decision - Starliner will not dock with the @Space_Station and will return to White Sands on Sunday," tweeted NASA Administrator Jim Bridenstine.
+
+The failure of the mission, a final dress rehearsal before a crewed flight, will be seen as especially stinging for Boeing, which is facing a safety crisis over its grounded 737 MAX planes.
+
+After the Space Shuttle program was shuttered in 2011, NASA awarded Boeing and Elon Musk's SpaceX contracts worth billions of dollars to provide transport for US astronauts.
+
+Both companies are two years behind schedule, but SpaceX carried out a successful autonomous rendezvous and docking with the ISS in March.
+
+The reputational stakes of the crewless mission are high for Boeing, embroiled in a safety crisis over its 737 MAX jet
+
+Starliner, which was fixed to a giant Atlas V rocket, took off before sunrise at 6:36 am local time (1136 GMT) from Cape Canaveral, separating 15 minutes later.
+
+Around 30 minutes after lift-off, Boeing announced on Twitter it had an "off-nominal insertion," indicating the procedure to even out its orbit had not gone as planned, and a live stream was cut shortly after.
+
+- Clock glitch -
+
+SpaceX already carried out its own successful uncrewed mission to the International Space Station in March
+
+Bridenstine told reporters the Starliner's on board clock was out of sync, "and that anomaly resulted in the vehicle believing that the time was different than it actually was."
+
+Assuming it was at a different stage of its flight, Starliner burned more fuel than it should have, forcing NASA and Boeing to call off the rendezvous with the ISS.
+
+Mission control attempted to manually override the problem from the ground, but they were unable to establish a connection in time because of a satellite communication link failure.
+
+A giant Atlas V rocket took off shortly before sunrise from the famed Cape Canaveral on Florida's coastline, where all US crewed flights are launched
+
+Starliner will instead return to Earth, landing at NASA's White Sands facility in the New Mexico desert on Sunday morning around 7:30 am local time (1430 GMT).
+
+Under former president Barack Obama, NASA opted for a shift in how it operates: instead of owning the hardware, it decided to hire private companies to take over the role, awarding Boeing and SpaceX billions of dollars to develop "Made in the USA" solutions.
+
+The developments are independent of the Artemis program to return to the Moon by 2024, which will use a spaceship built for longer journeys, Lockheed Martin's Orion.
+
+- $8 billion payment -
+
+Factfile on Boeing Starliner spacecraft
+
+NASA has committed to pay $8 billion to Boeing and SpaceX, who in return need to deliver six trips carrying four astronauts each time, up until 2024.
+
+A recent report by NASA's inspector general said the cost per astronaut comes to about $90 million for Boeing, against $55 million for SpaceX, while the US currently pays Russia more than $80 million for the same.
+
+But both NASA and Boeing contest the numbers, which were calculated by taking the total sums paid by the space agency to each company and divided by the number of missions and astronauts.
+
+SpaceX has had the benefit of receiving billions of dollars in earlier contracts to develop the Dragon's first version, for cargo, which was modified to make the crew version.
+
+Despite the failure to reach the ISS, both NASA and Boeing officials attempted to put a positive spin on the mission, saying the Starliner would still carry out other spaceflight tests.
+
+Bridenstine appeared to fix the blame on the ship's automation procedure, telling reporters: "Had we had astronauts on board that were manually flying it, there was no time at which they would have been unsafe."
+
+The mission might have also continued, he added.
+
+He added that SpaceX's earlier success meant that the overall objective of resuming crewed spaceflight using US spacecraft was still on track, and that both companies remained "critically important to the future architecture of commercial spaceflight."

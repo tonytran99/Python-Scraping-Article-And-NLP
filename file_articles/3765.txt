@@ -1,0 +1,39 @@
+By Mathieu Rosemain
+
+PARIS, Dec 20 (Reuters) - France's competition watchdog fined Google 150 million euros ($167 million) on Friday for abusing its power over the treatment of advertisers, saying it applied opaque rules and changed them at will.
+
+It is the first penalty imposed by the French antitrust watchdog against the U.S. tech company in a number of clashes with French authorities, and as Google faces a growing number of investigations into its business practices on both sides of the Atlantic.
+
+Google said it would appeal the decision.
+
+The authority's investigation took four years and followed a complaint filed by Gibmedia, a French company that manages a range of websites offering weather forecasts, corporate data and directories.
+
+Gibmedia had accused Google of having suspended its Google Ads account without notice.
+
+The regulator said that by changing its terms of use and rules at will, Google had abused its market power.
+
+"The way the rules are applied give Google a power of life or death over some small businesses that live only on this kind of service," the head of the authority, Isabelle de Silva, said at a news conference.
+
+The French regulator said Google had a lack of objectivity and predictability in defining the rules on Google Ads, the gateway for advertisers that wish to appear in the sponsored section of search results.
+
+With a market share of around 90% in the online search business, Google has a responsibility to offer a fair access to Google Ads, the regulator added.
+
+"One of the great principles of competition law is that with great power comes great responsibility," de Silva said.
+
+"It's also Spider-Man's motto," she noted, referring to the fictional superhero.
+
+"PROTECTING CONSUMERS"
+
+Google said it blocked Gibmedia because it was running ads for websites that deceived people into paying for services on unclear billing terms.
+
+"We do not want these kinds of ads on our systems, so we suspended Gibmedia and gave up advertising revenue to protect consumers from harm," Google said in statement.
+
+Gibmedia refuted the allegation.
+
+"Gibmedia has never been convicted of any deceptive practice and it's unacceptable to see that Google, which has just been once again condemned for anti-competitive practices, has no other defence than to attack its victim," said Hervé Lehman, Gibmedia's lawyer. In September, Google agreed to pay close to 1 billion euros to French authorities to settle a fiscal fraud probe that began four years ago.
+
+In January, France's data protection watchdog had fined Google 50 million euros for breaching European Union online privacy rules.
+
+The data protection watchdog stated in its January ruling that Google lacked transparency and clarity in the way it informed users about its handling of personal data, and had failed to properly obtain their consent for personalised ads.
+
+($1 = 0.8997 euros) (Reporting by Mathieu Rosemain; editing by Jane Merriman and Elaine Hardcastle)

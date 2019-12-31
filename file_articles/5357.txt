@@ -1,0 +1,35 @@
+The Bank of England’s European counterparts warned three months ago that traders were attempting to stream central bank press conferences faster than rivals to gain vital seconds.
+
+On Thursday, the UK’s Central Bank was forced to admit a serious security breach in the way its press conferences were streamed after warnings from journalists.
+
+It found that an unnamed supplier had used an audio feed normally reserved for emergencies to give its customers a seconds-long head start on rival investors.
+
+But counterparts at the European Central Bank (ECB) had warned as early as September that unscrupulous hedge funds were using similar technology to get ahead.
+
+Press conferences hosted by Bank of England governor Mark Carney contain market-sensitive information (Yui Mok/PA)
+
+“Since September this year, the ECB offers a low latency audio feed for each monetary policy press conference to address exactly the issues that were in the news today,” the ECB said in a statement to the PA news agency.
+
+This means that companies cannot sell similar services.
+
+Press conferences hosted by Bank governor Mark Carney contain market-sensitive information which traders use to inform their bets.
+
+They are normally streamed by Bloomberg on a short delay, but getting a head start, however slim, can help traders make millions.
+
+The Bank is understood to only have discovered the problem once it was approached by The Times newspaper.
+
+Although it immediately revoked the supplier’s access to the audio stream, the Bank has refused to identify the supplier.
+
+It has referred the issue to the Financial Conduct Authority (FCA).
+
+After the story broke in The Times, Statisma News, a company which delivers audio and video streams of Bank and ECB press conferences, put a statement on its website denying it releases information before it is public.
+
+“We DO NOT carry embargoed information and we DO NOT release information without it first being made available to the public,” the firm said.
+
+“It is impossible to ‘hack’ or ‘eavesdrop’ any live public event or press conference. Any such suggestion is dismissed out of hand.”
+
+The Bank did not confirm whether Statisma, which is part of Encoded Media, is the supplier under investigation.
+
+There are no references to Statisma on the Bank’s website.
+
+The Essex-based business started covering Bank press conferences in 2010. It boasts of being able to deliver audio broadcasts “up to 10 seconds faster” than CNBC and Bloomberg.

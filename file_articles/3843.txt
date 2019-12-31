@@ -1,0 +1,23 @@
+By Mfuneko Toyana
+
+JOHANNESBURG, Dec 20 (Reuters) - A South African telecoms company backed by investment firm Remgro plans to expand its high-speed broadband network after completing a 16 billion rand ($1 billion) debt restructuring this week.
+
+The building of fibre optic networks in upmarket neighbourhoods has intensified in the past five years, but has been confined to cities due to the high cost of laying down the infrastructure and the dominance of mobile internet.
+
+But as the price of fixed-line internet comes down and more customers seek faster connection speeds than those offered by 4G mobile technology, the chance to grab a bigger slice of the fibre market has been seized by Community Investment Venture Holdings (CIVH).
+
+With the backing of $7 billion investment titan Remgro, which controls 54.4% of the company, CIVH has over the past 24 months acquired two major fibre providers, Dark Fibre Africa (FDA) and Vumatel, in an effort to tackle the dominance of rivals such as Telkom and SEACOM.
+
+The FTTX Council Africa, the regional arm of global fibre industry body, says the number of South African households with a fibre connection surged to 280,000 in 2018 from 89,000 in 2017, while the number of 'homes passed', or the potential number of premises a service provider can hook up to its network, more than doubled to 933,000 in the same period.
+
+"We have passed 650,000 homes to date, and are planning a further 850,000 in the next 5 years. The comprehensive debt package is sufficient to fund the planned network rollout," the company said in an interview.
+
+Telkom has 458,905 homes passed, up 16.7% from 2018.
+
+According to Statistics South Africa, about 65% of South Africans households have access to the internet in some way, with only 10% accessing internet at home through a fixed-line service.
+
+The debt restructuring and refinancing, joint-lead by Standard Bank, sees CIHV's debt combined into one package that the company says will allow it to "move cash around the group and utilise the debt where the capex opportunities are".
+
+"After the acquisition of Vumatel we had to restructure the balance sheet," the company said, adding it had no other acquisitions planned in the near future, but that capital would be used to rollout more fibre.
+
+CIVH is building up its war chest at a time when Telkom is turning its focus away from fibre to mobile, with its recent takeover bid for Cell C, the country's third-biggest mobile carrier. Telkom is also cutting its spending on fibre by more than a third, as of September 2019. (Reporting by Mfuneko Toyana, editing by Louise Heavens)

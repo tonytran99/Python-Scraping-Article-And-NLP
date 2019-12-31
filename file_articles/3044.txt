@@ -1,0 +1,41 @@
+By Eric M. Johnson and Joey Roulette
+
+SEATTLE/CAPE CANAVERAL, Dec 20 (Reuters) - Boeing Co's stunted Friday debut of its astronaut capsule threatens to dent the U.S. aerospace incumbent's self-declared competitive advantage of mission reliability against the price and innovation strengths of "new space" players like Elon Musk's SpaceX.
+
+Boeing, the world's largest aerospace company, has anchored its attempt to repel space visionaries like Musk and Amazon.com founder Jeff Bezos partly on its mission safety record built up over decades of space travel.
+
+While SpaceX and Bezos' Blue Origin are racing to send their own crewed missions to space for the first time, Boeing or Boeing heritage companies have built every American spacecraft that has transported astronauts into space. And the single-use rockets it builds in partnership with Lockheed Martin Corp have a virtually unblemished record of mission success.
+
+"We are starting from a position of mission reliability and safety," Boeing Chief Executive Dennis Muilenburg told Reuters earlier this year when asked about SpaceX and other insurgents aiming to disrupt Boeing on everything from astronaut capsules to rockets to satellites.
+
+"There is a difference between putting cargo in space and putting humans in space, and that's a big step. Our very deliberate, safety-based approach for things like CST-100, that will be a differentiator in the long run," Muilenburg said.
+
+The actual technical glitch that stunted Friday's CST-100 Starliner mission to the International Space Station was a timer error though Boeing said it was too early to determine the exact cause of the fault.
+
+Boeing was already working to surmount other technical and safety-related challenges on the multibillion-dollar NASA human spaceflight program. A government watchdog report in November found Boeing demanded "unnecessary" new contract funds from NASA.
+
+Friday's glitch adds to a year of intense scrutiny over how Boeing developed its money-spinning 737 MAX jetliner following twin crashes that killed 346 people in five months.
+
+While there is no link between the 737 MAX crashes and the Starliner setback, one rocket industry executive told Reuters that in both cases problems arose as Boeing was racing to catch up with fast-moving rivals.
+
+Boeing had no immediate comment.
+
+"From a public relations standpoint, this error makes them not look so good because of all the 737 MAX issues," said Teal Group space analyst Marco Caceres. "If you look at this in isolation, I don´t think of it as a massive problem for Boeing. There are only two companies picked for this program - that is an enviable place for Boeing to be, as long as nothing tragic happens."
+
+SpaceX successfully launched its own rival Crew Dragon astronaut capsule on a roundtrip journey to the ISS earlier this year, though it faces its own technical problems.
+
+It is challenging Boeing's space business more broadly by slashing the cost of accessing space with pioneering reusable rocket technology.
+
+Bezos' Blue Origin is also developing rockets and capsules for human and cargo space flights.
+
+SpaceX is working toward a manned mission in first-quarter 2020. It declined to comment on Boeing's setback.
+
+There is no overlap between Boeing and SpaceX's separate rocket-and-capsule systems.
+
+But Boeing's woes raise the stakes for SpaceX to perform successfully on upcoming tests as Boeing works to pinpoint the root cause, which may trigger months of delays and new costs if NASA requires design tweaks and a redo of Friday's mission.
+
+"SpaceX continues to move forward even if Boeing has a setback, NASA chief Jim Bridenstine told reporters on Friday. "And, back in April, SpaceX had a setback and Boeing was continuing to move forward."
+
+Bridenstine added that NASA has a number of options on the table to make sure the impact of Boeing's test failure does not cut off access to the space station.
+
+"There are other companies that want to be a part of commercial crew," Bridenstine added, citing Lockheed's Orion capsule for eventual lunar missions. (Reporting by Eric M. Johnson in Seattle and Joey Roulette in Cape Canaveral, Florida Additional reporting by Mike Stone in Washington Editing by Greg Mitchell, Tim Hepher and Alistair Bell)

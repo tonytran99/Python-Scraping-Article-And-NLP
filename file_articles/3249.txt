@@ -1,0 +1,49 @@
+Twitter said some 88,000 accounts suspended were part of a network from Saudi Arabia seeking to manipulate opinion on the social platform
+
+Facebook and Twitter on Friday said they had blocked multiple government-backed manipulation operations around the world, several of which favored US President Donald Trump, as part of a crackdown on state-sponsored propaganda efforts.
+
+Twitter said it had blocked some 88,000 accounts linked to Saudi state-backed "information operations", in violation of its manipulation rules.
+
+Separately, Facebook said it had blocked a network in Vietnam and the United States which posted pro-Trump messages aimed at US citizens, along with another network targeting domestic audiences in the country of Georgia.
+
+It comes as social media giants have been struggling in the face of state-backed disinformation efforts, often using automated accounts or "bots" to manipulate the platforms, amplifying their own messages while disparaging opponents.
+
+Most of the accounts blocked by Twitter on Friday were in Arabic and aimed at "amplifying messages favorable to Saudi authorities," but that some English language content was aimed at "Western audiences."
+
+"Our internal analysis shows the network was involved in various forms of platform manipulation, targeting discussions related to Saudi Arabia and advancing their geopolitical interests on the world stage," the Twitter safety team said in a blog post.
+
+Twitter said it released details on 5,929 accounts which it called a "representative sample" of the 88,000 suspicious accounts.
+
+Twitter's investigations traced the source of the coordinated activity to the Saudi-based social media marketing firm Smaat, which has been permanently blocked from the platform.
+
+Smaat was working for "high-profile individuals," Twitter said, and several government departments in Saudi Arabia, using automated tools "to mask the overall platform manipulation originating from these accounts."
+
+Some of the tweets in question date back to 2016 and appear to be supportive of President Donald Trump or his campaign.
+
+One dated November 11, 2016 showed a photo of billionaire George Soros -- a frequent target of conservatives -- and said Trump should put him "on the FBI most wanted list."
+
+Another from October 2016 showed a picture of former president Bill Clinton and said: "You don't even need these polls, Donald Trump won. You can read it on Bill Clinton's face."
+
+- Separate effort on Facebook -
+
+Facebook said the effort originating in Vietnam was traced to the multi-language media group Epoch Times, which is linked to the Falun Gong spiritual movement, and a US media outlet called BL, which has been posting pro-Trump messages.
+
+Facebook suspended accounts that sought to manipulate the social platform by among other things, posting political messages at high frequencies using automation
+
+The California-based company added that it removed more than 600 accounts on Facebook and Instagram.
+
+"The people behind this activity made widespread use of fake accounts -- many of which had been automatically removed by our systems -- to manage pages and groups, automate posting at very high frequencies and direct traffic to off-platform sites," Facebook security chief Nathaniel Gleicher said.
+
+"The BL-focused network repeatedly violated a number of our policies, including our policies against coordinated inauthentic behavior, spam and misrepresentation, to name just a few."
+
+The accounts posted memes and other content on conservative ideology and hot button US political issues including Trump's impeachment, elections, trade, family values and freedom of religion, Gleicher said.
+
+- Struggling against state actors -
+
+Both Facebook and Twitter have in the past acted against manipulation efforts from Russia, Iran and other countries.
+
+A recent report by the Oxford Internet Institute found manipulation efforts have doubled over the past two years and are being used in 56 countries.
+
+The researchers said "sophisticated state actors" from at least seven countries are working outside their borders on global foreign influence operations, using Facebook and Twitter.
+
+The report identified the countries as China, India, Iran, Pakistan, Russia, Saudi Arabia and Venezuela.

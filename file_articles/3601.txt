@@ -1,0 +1,31 @@
+Though it may be impossible to completely wipe your digital footprints off the map, there are several steps you can take to limit the collection of location data on your smartphone.
+
+For iPhone users
+
+To shut off all GPS data collection, go to Settings > Privacy > Location Services and switch Location Services to OFF.
+
+This may disrupt the way you use many popular apps, however. As an alternative, leave Location Services ON and change your individual app settings to use location data only 'While Using.' Keep in mind that many apps, such as weather apps, will work fine even without precise location data.
+
+For further privacy, disable Apple's unique advertising identifier by going to Settings > Privacy > Advertising and switching 'Limit Ad Tracking' to ON.
+
+For Android users
+
+Go to Settings > Security & location and look for the Privacy subhead, where you'll see Location. Click on that.
+
+Find the 'Use location' feature at the top and toggle it OFF.
+
+Before you leave that page, scroll down to the 'Advanced' button, tap on it, and look for 'Location services.' There are four categories there that can be toggled OFF.
+
+To delete Google's past location data
+
+On the page myactivity.google.com, look for any entry that has a location pin icon beside the word 'details.'
+
+Clicking on that pops up a window that includes a link that sometimes says 'From your current location.'
+
+Clicking on it will open Google Maps, which will display where you were at the time.
+
+You can delete it from this popup by clicking on the navigation icon with the three stacked dots and then 'Delete.'
+
+Some items will be grouped in unexpected places, such as topic names, google.com, Search, or Maps.
+
+You have to delete them item by item. You can wholesale delete all items in date ranges or by service, but will end up taking out more than just location markers.

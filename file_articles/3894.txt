@@ -1,0 +1,35 @@
+More than 50,000 homes are stuck with mediocre broadband and 4G despite a sharp national increase in access to faster connections, Ofcom said.
+
+The regulator believes some 53,000 premises are unable to receive a decent fixed broadband service nor good 4G coverage indoors from any operator.
+
+Focusing on broadband alone, it said around 610,000 UK homes and businesses still suffer without a reasonable connection – one that delivers a download speed of at least 10 Mbit/s and an upload speed of at least 1 Mbit/s.
+
+However, factoring in the coverage from fixed wireless networks, including those of the mobile operators, it estimates that around 155,000 homes and businesses are unable to access a decent broadband service.
+
+Today's Connected Nations reports that Northern Ireland has the highest coverage of full-fibre services in the UK at 31% of homes: https://t.co/Ey2pozPPes pic.twitter.com/mePNXc00aQ — Ofcom (@Ofcom) December 20, 2019
+
+Meanwhile, 9% of the UK does not have what Ofcom considers good outdoor 4G coverage from a single network provider – a connection speed of at least 2 Mbit/s – with rural areas hit hardest.
+
+Despite this, the availability of faster internet connections across the country as a whole has reached a new high, with around three million homes (10%) now able to access full-fibre broadband, a rise of 1.5 million premises on last year.
+
+(Dominic Lipinski/PA)
+
+“This year we’ve seen full-fibre broadband grow at its fastest ever rate, and all four mobile networks launch 5G,” said Yih-Choung Teh, strategy and research group director at Ofcom.
+
+“But despite this good progress, there is more to do to bring all parts of the country up to speed– particularly rural areas.
+
+“So we’re working with industry and the Government to help bring better services to people who need them.”
+
+Full-fibre broadband coverage is growing at its fastest-ever rate, with three million homes across the UK now able to get it. Find out more in today’s Connected Nations: https://t.co/Vr66clONdq pic.twitter.com/bgLPX7vj8h — Ofcom (@Ofcom) December 20, 2019
+
+Ofcom’s annual Connected Nation report says that coverage of good 4G remains largely unchanged over the year, with EE covering the highest amount of the UK on 84% and o2 at the lowest on 76%.
+
+Broadband connection speeds deemed superfast – at least 30 Mbit/s – have increased to 500,000 more homes since last year, although the pace of rollout has slowed from a few years ago as the overall superfast coverage is now around 95%.
+
+“Getting full-fibre broadband to three million UK homes is a step in the right direction, but there’s still a long way to go before it will be available nationwide,” warned Dani Warner, broadband expert at uSwitch.com.
+
+The data used in the report was collected in September 2019.
+
+Minister for Digital and Broadband Matt Warman said: “Ofcom’s figures prove that, thanks to Government and industry investment, real progress is being made in building a connected, 21st century Britain.
+
+“But we’re determined to go further by investing £5 billion to make sure no-one is left without access to gigabit speed broadband, and are close to a £1 billion deal with industry to make poor mobile coverage in rural areas a thing of the past.”

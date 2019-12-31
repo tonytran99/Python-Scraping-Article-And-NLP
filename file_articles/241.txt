@@ -1,0 +1,45 @@
+The deaths of Roman emperors followed a 'distinct pattern' that saw them face the greatest risk of a violent death in their first year in office, a new study has revealed.
+
+Researchers from the Georgia Institute of Technology applied statistical methods used to test engineering components to the time-to-death of ancient emperors.
+
+The team found that despite the swirling alliances and plotting that marked out the role of emperor, their life patterns could be compared to engineering components.
+
+They faced a high risk of violent death in their first year of rule, but the risk slowly declined over the next seven years, according to lead author Joseph Saleh.
+
+The emperors who could stay alive for seven years could go on to rule for another five before their chances of dying increased again.
+
+Scroll down for video
+
+A group of Roman senators murdered Julius Caesar as he sat on the podium at a senate meeting - as depicted here in 'The Death of Julius Caesar' by artist Vincenzo Camuccini. He served as dictator of the Roman Republic for just over four years
+
+Historical records show that of 69 rulers of the unified Roman Empire, 43 suffered violent deaths either by assassination, suicide or during combat.
+
+The Georgia Tech team modelled the typical length of time between the beginning of an Emperor's reign and their subsequent death as part of the study.
+
+They found parallels between the seemingly random failures of components in engineering and the seemingly random deaths of emperors.
+
+'In engineering, the reliability of a component or process is defined as the probability that it is still operational at a given time', Dr Saleh said.
+
+'The time it takes for a component or process to fail is referred to as its time-to-failure and this shows similarities to the time-to-violent-death of Roman emperors.'
+
+Nero (right) reigned for 13 years and eight months, just slightly less than Claudius (right) who proceeded him and served for 13 years and nine months. The Georgia Tech team modelled the typical length of time between the beginning of an Emperor's reign and their subsequent death as part of the study
+
+He said that in engineering, a component would fail early, often as a result of a failure to function as intended - for Roman emperors it was a result of failing to met the demands of their role.
+
+The risk of death stabilised by the eighth year - but increased again after 12 years - similar to the failure of components because of fatigue, corrosion or wear-out.
+
+When data points were aligned on a graph, the failure rate of Roman emperors displayed a bathtub-like curve, a model widely seen with components.
+
+Pictured are busts showing Gallienus (left) and Caligula (right). Researchers from the Georgia Institute of Technology applied statistical methods used to test engineering components to the time-to-death of ancient emperors
+
+Dr Salah said it was interesting that a seemingly random process as unconventional and perilous as the violent death of an emperor appears to have a pattern similar to the model widely used in engineering.
+
+'Although they may appear as random events when taken singularly, these results indicate that there may have been underlying processes governing the length of each rule until death.'
+
+Data for the study was obtained from the De Imperatoribus Romanis, an online encyclopedia of Roman emperors.
+
+'The limitations of the data should be acknowledged, as sources of ancient history are often inconsistent and the exact causes of death may differ between accounts.', Dr Saleh warned.
+
+However, he said future studied could explore why emperors repeatedly met a violent end and whether other historical events may be analysed in the same way.
+
+The research has been published in the journal Palgrave Communications.

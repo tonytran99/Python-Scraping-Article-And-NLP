@@ -1,0 +1,29 @@
+Toyota has unveiled the next evolution of its remote-controlled Android, the T-HR3.
+
+According to the company, the new and improved bot, which is controlled by a person wearing a headset and wiring on his or her arms and hands, is now has faster and smoother finger movements due to a lighter and easier controlling device.
+
+The bot can mimic the actions of a human operator, allowing it to do everything from balancing on one foot to squeezing a balloon without popping it.
+
+Toyota Motor Corp.'s human-shaped T-HR3 robot (pictured above) is remotely controlled by its staff member during a demonstration in Tokyo.
+
+In the demonstration, a person wearing a headset and wiring made the robot move in exactly the same way he was moving, waving or making dance-like movements, as sensors sent computerized signals to the robot of what they detected as human movements.
+
+According to Toyota, the system relies on a remote control ‘Master Maneuvering System’, which uses an array of sensors to directly communicate physical movements to the robot.
+
+The remote control system also uses a head mount display – in this case, an HTC Vive virtual reality headset.
+
+THE T-HR3 ROBOT Toyota unveiled the next installment of its humanoid robot, T-HR3. The bot connects to a human operator using a Master Maneuvering System and a virtual reality headset. Each joint is connected to the chair through motors and the torque sensors. This communicates physical actions to the robot; when the operator moves their hands, the robot will do the same. In the VR headset, the operator can see exactly what the robot is doing in real-time.
+
+With this, the operator can see exactly what the robot is seeing in 3D and real-time, to enable more precise actions.
+
+The creators say this could be used to assist people at home, hospitals, or one day, even in space. It also might allow people to feel like they´re participating in events they can´t actually attend.
+
+In a recent demonstration in Tokyo, a person wearing a headset and wiring made the robot move in exactly the same way he was moving, waving or making dance-like movements.
+
+Smaller robots that look like the mascots for the 2020 Tokyo Olympics and Paralympics were controlled during the demonstration in the same way.
+
+Smaller robots that look like the mascots for the 2020 Tokyo Olympics and Paralympics were controlled in the same way. Japanese automaker Toyota is an Olympic sponsor
+
+Toyota engineer Tomohisa Moridaira said human-shaped robots can be controlled intuitively because all the person operating it has to do is move naturally.
+
+The challenge, however, still lies in securing reliable and speedy telecommunications connections so that signals are accurately relayed from the human to the robot, said Moridaira.

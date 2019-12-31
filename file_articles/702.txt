@@ -1,0 +1,77 @@
+A screening tool for sepsis in newborns being trialled by the NHS could be missing the life-threatening illness in babies, a study warns.
+
+The Kaiser Permanente (KP) electronic calculator, developed in the US, was designed to spot early onset sepsis (EOS).
+
+EOS strikes within a baby's first three days of life, and is difficult to diagnose because the symptoms can be confused for a less serious condition.
+
+At the moment, a baby is diagnosed based on a number of risk factors and symptoms defined by the National Institute for Health and Care Excellence (NICE).
+
+The KP calculator was hoped to be more accurate and reduce the high number of babies given antibiotics as a precaution.
+
+But a study by British scientists found it is up to 30 per cent less effective than current methods, and therefore is less likely to start crucial early treatment.
+
+A screening tool for sepsis in newborns currently being trialled by the NHS is missing the life-threatening illness in babies, a review of evidence found
+
+The NHS has been looking for an alternative way of diagnosing EOS - which occurs in the first 72 hours after birth, although typically in the first 24 hours.
+
+The current approach is to treat EOS early and quickly, meaning a number of babies are given antibiotics as a safeguard.
+
+There are concerns with babies being given antibiotics if they don't need them, because neonatal antibiotics have been linked in childhood to asthma, allergy and auto immune disease.
+
+Early and long-term use of the drugs in the days just following a premature baby's birth has been linked to the development of antibiotic resistance, other infections and even an increased risk of death.
+
+It is also expensive to give antibiotics to babies who may not need them.
+
+The KP calculator was designed to reduce the number of babies given antibiotic treatment for EOS. Studies have suggested that using this tool may reduce antibiotic use significantly.
+
+Some hospitals use the KP calculator in addition to the NICE guidelines. But it has not been implemented as the sole diagnostic tool because its effectiveness has not been thoroughly studied.
+
+Scientists from the University of York, Leeds Teaching Hospitals Trust and Bradford Teaching Hospitals looked at the success of the KP calculator for spotting EOS.
+
+WHAT IS EARLY ONSET SEPSIS? Neonatal sepsis may be categorized as early onset (EOS), within 72 hours after birth, or late onset, after 72 hours. Most babies present with EOS within 24 hours, typically six hours. Sepsis is a potentially life-threatening condition caused by the body's response to an infection. In babies, most cases of EOS are caused by Group B streptococcus (GBS) and gram-negative enteric organisms, predominantly Escherichia coli (E. coli). Eight out of every 1,000 live births have an infection, most commonly in premature babies and low birthweight babies, according to NICE. Neonatal infection, which can lead to life-threatening sepsis, accounts for 10 per cent of all neonatal mortality. Risk factors, defined by NICE, include: GBS infection in a previous baby
+
+Preterm birth
+
+Antibiotics given to the mother during pregnancy Symptoms include: Altered behaviour or responsiveness
+
+Altered muscle tone (e.g. floppiness)
+
+Feeding difficulties
+
+Abnormal heart rate
+
+Signs of respiratory distress
+
+Jaundice within 24 hrs after birth
+
+Seizures
+
+The research team reviewed 11 studies which had compared the KP calculator with diagnosis using NICE guidelines. The findings were published in the journal EClinical Medicine.
+
+The clinical signs of EOS defined by NICE include abnormal heart rate, jaundice, seizures, and altered behaviour.
+
+The KP calculator, developed by Kaiser Permanente (KP), is an online questionnaire in which doctors input data, such as the babies temperature and other vitals and whether the mother is carrying the Group B streptococcus bacteria, which is known to be dangerous to babies.
+
+Across the studies, there were 75 cases of culture proven EOS. There were 14 to 22 cases of EOS where the calculator did not recommend antibiotics.
+
+This means the KP calculator initially 'missed' the EOS compared with NICE guidelines, a rate of 20 to 30 per cent.
+
+The babies would have still received treatment because doctors are still relying on NICE guidelines to diagnosis EOS.
+
+Co-author Dr Bob Phillips, of the University of York, said the KP calculator was risky in a healthcare system like the NHS where mothers and babies are discharged as little as six hours after birth.
+
+He said: 'If the calculator were to be put in place in a healthcare system with rapid discharge, such as is the case in the UK currently, this may lead to babies presenting with severe infections late and having worse outcomes.
+
+'In the US, mothers and their newborns spend longer periods of time in hospital where they are being observed by doctors who are more likely to pick up the symptoms.'
+
+Sepsis is a potentially life-threatening condition caused by the body's response to an infection.
+
+In babies, most cases of EOS are caused by Group B streptococcus (GBS) and gram-negative enteric organisms, predominantly Escherichia coli (E. coli).
+
+Eight out of every 1,000 live births have an infection, most commonly in premature babies and low birthweight babies, according to NICE.
+
+Neonatal infection, which can lead to life-threatening sepsis, accounts for 10 per cent of all neonatal mortality.
+
+Dr Phillips said EOS was more likely to be missed if the mothers had placental inflammation, called chorioamnionitis. Chorioamnionitis places the baby at a higher risk of infection.
+
+The researchers want to see further evaluation if the KP calculator is ever rolled out across the NHS.

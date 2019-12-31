@@ -1,0 +1,47 @@
+A leaked data set of the cell phone location data of 12 million people in the U.S. has revealed the frightening level of detail collected on Americans by a largely unregulated industry.
+
+The file consisting of 50 billion location pings was leaked to the New York Times and analyzed in an opinion piece that shows how location data can be used to reveal the most intimate secrets.
+
+The data from early 2017, representing just a fraction of the location information collected daily by a bevy of smartphone apps, shows the movements of millions of phones in several major U.S. cities, including Washington, New York, San Francisco and Los Angeles.
+
+Though ostensibly anonymous, the data was easy to unmask by following the phones as they traveled between a person's work and home.
+
+A leaked data set of the cell phone location data of 12 million people in the U.S. has revealed the frightening level of detail collected on Americans (stock image)
+
+'With the help of publicly available information, like home addresses, we easily identified and then tracked scores of notables,' wrote Times journalists Stuart A. Thompson and Charlie Warzel.
+
+'We followed military officials with security clearances as they drove home at night. We tracked law enforcement officers as they took their kids to school. We watched high-powered lawyers (and their guests) as they traveled from private jets to vacation properties,' they continued.
+
+The data set included scores of location pings at secure facilities, including the White House and the Pentagon.
+
+The data also revealed potentially embarrassing secrets, such as repeated visits to roadside motels for visits that lasted just hours at a time.
+
+The Times did not name anyone in the article without their permission, however.
+
+The data showed Ben Broili (above) as he interviewed for a job with a competitor
+
+In one case, the data showed the phone of Microsoft employee traveling to the main Seattle campus of a top competitor, Amazon, on a Tuesday afternoon.
+
+The following month, the person took a job at Amazon. The researchers quickly identified him as Ben Broli, now a manager for Amazon Prime Air, a drone delivery service.
+
+'I can't say I'm surprised,' Broili told told the Times when he learned of the details collected on his movements. 'But knowing that you all can get ahold of it and comb through and place me to see where I work and live — that's weird.'
+
+Though most people are aware that their smartphone apps utilize their location data, many, like Broili, would be surprised to learn the extent to which that data is collected, stored, and resold in a vast industry that tracks nearly every American on a daily basis.
+
+The data from early 2017, representing just a fraction of the location information collected daily by a bevy of smartphone apps, shows the movements of millions (stock image)
+
+It is a lucrative industry, particularly for advertisers, who use immediate location data to serve up mobile ads. Records of the data become even more valuable, being used, for instance, to track the effectiveness of a highway billboard on people that drive past it.
+
+The data can be profitable in other ways as well. In a lawsuit, the city of Los Angeles has accused the parent company of the Weather Channel app of mining location data to sell analytical services to hedge funds.
+
+Location data is also collected and resold alongside a mobile advertising ID number, which is supposedly anonymous but can be tied to such information such as your email, phone number, or even your home WiFi network.
+
+Paul Ohm, a law professor and privacy researcher at the Georgetown University Law Center, told the Times that describing location data as anonymous is 'a completely false claim.'
+
+'Really precise, longitudinal geolocation information is absolutely impossible to anonymize.'
+
+'D.N.A.,' he added, 'is probably the only thing that's harder to anonymize than precise geolocation information.'
+
+Despite the potential intrusion on privacy, the industry is largely unregulated, relying on the self-guidance of companies and industry groups.
+
+'If a private company is legally collecting location data, they're free to spread it or share it however they want,' Calli Schroeder, a lawyer for the privacy and data protection company VeraSafe, told the Times.

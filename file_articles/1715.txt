@@ -1,0 +1,65 @@
+A consumer privacy law set to take effect in California is likely to become the de facto US standard in the absence of federal legislation
+
+As US lawmakers head home without agreeing on consumer privacy legislation, a new California law is set to become the de facto national standard, potentially leaving consumers and businesses confused over rules for personal data collection and protection.
+
+The statute becomes effective January 1, covering most entities doing business in California, just months after enforcement began for Europe's General Data Protection Regulation, which affects many US online operations.
+
+The new law stems from a widespread effort to rein in practices over handling on online consumer data after years of breaches and abuses that have made headlines.
+
+For much of the year, the US Congress debated efforts to draft a national privacy law that would avoid multiple standards but failed to come up with a bill before the clock ran out for 2019.
+
+As a result, most companies with an online presence are rushing to comply with the California law even as other states consider their own protections and some in Congress pledge action when lawmakers return in 2020.
+
+"There's definitely going to be a lot of confusion in the short term with all the different laws," said Daniel Castro of the Information Technology and Innovation Foundation, a think tank in Washington often aligned with the tech sector.
+
+"What we're likely to see is a domino effect with other states copying California, and that's a big concern for industry. You have firms that have already implemented GDPR and they have to do all these processes again."
+
+- 'Do not sell' option -
+
+Facebook has said it will be in compliance with the new California Consumer Privacy Act, but some analysts say smaller firms will face high costs
+
+Still, some activists say the California law will lead to improvements on privacy, including giving consumers the right to access and delete data held by online services.
+
+The law known as the California Consumer Privacy Act "is the broadest, most impactful privacy law in recent memory," said John Verdi of the Future of Privacy Forum, a think tank focused on data protection.
+
+"The centerpiece of CCPA is a requirement that companies display a prominent link to say 'do not sell my data,'" he said.
+
+"It's always good to give people choices and this is a clear and prominent choice about data sale which is one of the practices that is most top of mind to consumers."
+
+This "opt out" approach differs from GDPR which requires consent to collect and use data, according to Verdi.
+
+But many questions remain about how California authorities will handle enforcement, set to begin in mid-2020, notably which companies may face targeting and how officials define "selling."
+
+Verdi said a number of free services such as streaming music or online mapping might be based on data exchanges which could under some circumstances be interpreted as a "sale."
+
+The new law, he said "poses challenges to companies that offer data-driven services."
+
+- Cost of compliance, enforcement -
+
+Pressure has mounted on US lawmakers to pass consumer data protection legislation following a long list of breaches
+
+Roslyn Layton, an American Enterprise Institute scholar who focuses on internet regulation, warned that the cost of CCPA compliance will be high, with estimates as high as $55 billion, and that benefits may be elusive.
+
+She noted that a variety of US laws cover privacy for medical records, student data, banking dan financial information and more, and that legislation should be based on the degree of sensitivity of the data.
+
+"All data is not equal," she said.
+
+Layton said the large online platforms such as Facebook and Google will be ready to comply with CCPA but that the law could hurt small firms and organizations.
+
+"I wouldn't expect even 50 percent compliance," Layton said, adding that California authorities will face a complicated task trying to enforce its new law nationally on firms which may have customers in the western state.
+
+Layton added that even though much of the ire around privacy has been directed at Facebook, the huge social network may not face penalties in California because it has already settled with federal authorities, paying a $5 billion penalty.
+
+Pressure is mounting on Congress to step in with a national law that could "pre-empt" the various state laws with a single standard, according to Layton.
+
+"I think California wants to be saved from itself by Congress," she said. "If you look at their budget, it's not possible to enforce the law."
+
+Looking ahead, California voters are to consider a ballot initiative in 2020 which would include even stronger privacy protections for "sensitive" categories of data such as geolocation and social security numbers.
+
+Michelle Richardson, director of privacy at the Center for Democracy and Technology said that despite the lack of action in Congress on legislation, lawmakers have been working behind the scenes to seek a consensus.
+
+"I think there will be significant work next year on a privacy bill," she said.
+
+The House Energy and Commerce Committee said this month its staff has come up with a "bipartisan discussion draft" which could form the basis of a new law.
+
+"This draft seeks to protect consumers while also giving data collectors clear rules of the road," a committee spokesman said. "It reflects many months of hard work and close collaboration between Democratic and Republican Committee staff."

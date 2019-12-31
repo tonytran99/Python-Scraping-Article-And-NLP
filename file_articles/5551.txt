@@ -1,0 +1,31 @@
+By Elizabeth Culliford and Nick Brown
+
+NEW YORK, Dec 19 (Reuters) - Facebook Inc, which has come under fire for allowing politicians to run misleading advertisements, said on Thursday it will ban any ads that aim to limit participation in next year's U.S. census, which officials and lawmakers fear could be targeted by disinformation aiming to disrupt the count.
+
+The census is used to determine each state's representation in the U.S. Congress and to guide the allocation of as much as $1.5 trillion a year in federal funds. See graphic: https://tmsnrt.rs/2Q0BYVF
+
+In a blog post on Thursday, Facebook also said it will remove certain misleading content about the census, such as when and how to participate and consequences such as arrests or that an individual's census information would be shared with another government agency - which is against federal law. Other incorrect information will be eligible for fact-checking.
+
+In September, a meme spread on Facebook that falsely claimed robbers were accessing homes by posing as government workers seeking census information. It was debunked by fact-checkers but not removed, in line with Facebook´s general fact-checking policies.
+
+Facebook said it would prohibit ads that "portray census participation as useless or meaningless or advise people not to participate in the census."
+
+Facebook also said politicians would not be allowed to run ads or post content that conflicts with its census policies.
+
+Posts "earnestly expressing fear about the census," will be allowed, Facebook officials told Reuters, though posts will be monitored for reach and might have extra context added.
+
+The census, which takes place once a decade, is expected to be largely filled out online for the first time in 2020.
+
+Facebook's announcement follows months of handwringing from census experts concerned the tech company was not taking seriously the disinformation threat and would not be ready to combat it.
+
+In March, Reuters reported that the Census Bureau had asked Alphabet Inc's Google, Twitter and Facebook to help it fend off "fake news" campaigns.
+
+But three sources directly involved in countering disinformation around the census from the nonprofit, academic and private sectors said Facebook´s presentations to census advocates have lacked detail, and at times seemed more focused on promoting its own platform for ads. The sources spoke on condition of anonymity. The Facebook officials declined to comment on particular presentations or meetings.
+
+One of the sources cited frustration with the way Facebook handled the home robbers meme in September. Facebook did not remove the meme and did not provide the Census Bureau with detailed trends on how it was being shared, the company officials said.
+
+Speaking to Reuters, a Facebook official acknowledged "we didn't fact-check it as quickly as we should have."
+
+Google has recently updated its policies https://blog.google/technology/safety-security/how-google-and-youtube-are-working-protect-2020-us-census around census-related deception, including explicitly banning ads featuring incorrect information about how to participate.
+
+Twitter currently bans false or misleading information about how to participate in civic events. A company spokeswoman said its political ads ban does not include ads about the census, but such ads are subject to restrictions on audience targeting. (Reporting by Elizabeth Culliford in London and Nick Brown in New York; Editing by Chris Sanders and David Gregorio)
